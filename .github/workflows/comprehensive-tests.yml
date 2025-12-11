@@ -48,7 +48,7 @@ jobs:
           echo "✅ Coverage meets threshold"
 
       - name: Upload coverage report
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: coverage-report
           path: coverage/
@@ -107,7 +107,7 @@ jobs:
           NEXT_PUBLIC_SITE_NAME: ${{ secrets.NEXT_PUBLIC_SITE_NAME || 'SITIMM Info' }}
 
       - name: Upload build artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: build
           path: .next
@@ -149,7 +149,7 @@ jobs:
 
       - name: Upload test results
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: playwright-report-${{ matrix.browser }}
           path: playwright-report/
@@ -157,7 +157,7 @@ jobs:
 
       - name: Upload test traces
         if: failure()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: playwright-traces-${{ matrix.browser }}
           path: test-results/
@@ -195,7 +195,7 @@ jobs:
 
       - name: Upload a11y report
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: a11y-report
           path: playwright-report/
