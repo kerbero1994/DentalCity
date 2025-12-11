@@ -1,0 +1,178 @@
+.welcomeBubble {
+  position: fixed;
+  bottom: 20px;
+  right: 100px;
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-hover) 100%);
+  color: white;
+  padding: 16px 20px;
+  border-radius: 16px;
+  box-shadow:
+    0 8px 24px rgba(211, 32, 39, 0.35),
+    0 2px 8px rgba(0, 0, 0, 0.1);
+  max-width: 280px;
+  z-index: 9998;
+  animation: slideInBounce 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  opacity: 0;
+  animation-fill-mode: forwards;
+  cursor: pointer;
+  transition:
+    transform 0.2s ease,
+    opacity 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+/* Match Botpress button hover animation: scale + slight transparency */
+.welcomeBubble:hover,
+.welcomeBubble.hovered {
+  transform: scale(1.1);
+  opacity: 0.9;
+  box-shadow:
+    0 12px 32px rgba(211, 32, 39, 0.45),
+    0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+@keyframes slideInBounce {
+  0% {
+    opacity: 0;
+    transform: translateY(20px) scale(0.9);
+  }
+  60% {
+    opacity: 1;
+    transform: translateY(-5px) scale(1.02);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Exit animation */
+.exiting {
+  animation: fadeOut 0.2s ease-out forwards;
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+}
+
+.closeButton {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: white;
+  transition: all 0.2s ease;
+  padding: 0;
+}
+
+.closeButton:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.1);
+}
+
+.closeButton:active {
+  transform: scale(0.95);
+}
+
+.bubbleContent {
+  padding-right: 16px;
+}
+
+.greeting {
+  margin: 0 0 8px 0;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.message {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  opacity: 0.95;
+}
+
+.triangle {
+  position: absolute;
+  right: -8px;
+  bottom: 24px;
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 10px solid var(--color-primary-hover);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .welcomeBubble {
+    right: 90px;
+    bottom: 20px;
+    max-width: 260px;
+    padding: 14px 18px;
+  }
+
+  .triangle {
+    right: -8px;
+    bottom: 20px;
+  }
+
+  .greeting {
+    font-size: 14px;
+  }
+
+  .message {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 480px) {
+  .welcomeBubble {
+    right: 80px;
+    bottom: 20px;
+    max-width: calc(100vw - 110px);
+    padding: 12px 16px;
+  }
+
+  .triangle {
+    right: -8px;
+    bottom: 18px;
+  }
+
+  .greeting {
+    font-size: 13px;
+  }
+
+  .message {
+    font-size: 12px;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .welcomeBubble {
+    background: linear-gradient(135deg, #f03c42 0%, var(--color-primary) 100%);
+    box-shadow:
+      0 8px 24px rgba(240, 60, 66, 0.4),
+      0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .triangle {
+    border-left-color: var(--color-primary);
+  }
+}

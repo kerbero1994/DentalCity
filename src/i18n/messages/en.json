@@ -1,0 +1,1086 @@
+{
+  "common": {
+    "search": "Search",
+    "close": "Close",
+    "open": "Open",
+    "menu": "Menu",
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "language": "Language",
+    "settings": "Settings",
+    "theme": "Theme",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "spanish": "Spanish",
+    "english": "English",
+    "skipToContent": "Skip to content",
+    "learnMore": "Learn more",
+    "viewMore": "View more",
+    "download": "Download",
+    "programs": "Programs",
+    "magazines": "Magazines",
+    "blog": "Blog",
+    "bulletins": "Bulletins",
+    "benefits": "Discounts",
+    "faq": "Questions",
+    "files": "file(s)",
+    "languageLabel": "Language / Idioma",
+    "selectLanguage": "Select language",
+    "toggleTheme": "Toggle theme",
+    "sitimmLogo": "SITIMM Logo",
+    "storeBadges": {
+      "appStore": {
+        "downloadOn": "Download on the",
+        "name": "App Store",
+        "aria": "Download on the App Store"
+      },
+      "googlePlay": {
+        "getItOn": "GET IT ON",
+        "name": "Google Play",
+        "aria": "Get it on Google Play"
+      }
+    }
+  },
+  "header": {
+    "searchPlaceholder": "Search...",
+    "ctaButton": "Get Started",
+    "brandSubtitle": "True Unionism",
+    "a11y": {
+      "mainNav": "Main navigation",
+      "searchMobile": "Search (mobile)"
+    }
+  },
+  "footer": {
+    "brandSubtitle": "True Unionism",
+    "tagline": "The most important union in Mexico, defending workers' rights since 1948.",
+    "copyright": "© {year} SITIMM. All rights reserved.",
+    "quickLinks": "Quick Links",
+    "institutional": "Institutional",
+    "contact": "Contact",
+    "ourOffices": "Our Offices",
+    "a11y": {
+      "socialMedia": "Social media",
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "quickLinks": "Quick links",
+      "institutional": "Institutional",
+      "legalInfo": "Legal information",
+      "backToTop": "Back to top"
+    },
+    "links": {
+      "affiliation": "Membership",
+      "consultations": "Consultations",
+      "discounts": "Discounts",
+      "training": "Training",
+      "medicalServices": "Medical Services",
+      "aboutUs": "About Us",
+      "history": "History",
+      "organization": "Organization Chart",
+      "transparency": "Transparency",
+      "agreements": "Agreements",
+      "privacy": "Privacy Policy",
+      "terms": "Terms and Conditions",
+      "policies": "Usage Policies",
+      "contact": "Contact",
+      "benefits": "Discounts",
+      "events": "Events",
+      "programs": "Programs",
+      "blog": "Blog",
+      "bulletins": "Bulletins",
+      "magazines": "Magazines",
+      "faq": "Frequently Asked Questions",
+      "search": "Search",
+      "home": "Home"
+    },
+    "contactInfo": {
+      "address": ["Victorino de las Fuentes #944", "Prolongación La Moderna, Irapuato, Guanajuato"],
+      "mapsUrl": "https://www.google.com/maps/place/CEFORMA+IRAPUATO+MODERNA/@20.6778165,-101.3632499,17z/data=!4m6!3m5!1s0x842c7f506667d27b:0xc57b1eb3daa53b6!8m2!3d20.67739!4d-101.3620912!16s%2Fg%2F11q58f6yp0",
+      "offices": [
+        {
+          "name": "IRAPUATO",
+          "address": "Victorino de las Fuentes #944, Prolongación La Moderna",
+          "phone": "(462) 626 06 97",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victorino+de+las+Fuentes+944+Prolongación+La+Moderna+Irapuato+Guanajuato"
+        },
+        {
+          "name": "SILAO",
+          "address": "Benito Juárez #65 esq. San Dimas, Downtown",
+          "phone": "(472) 722 35 01",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benito+Juárez+65+San+Dimas+Silao+Guanajuato"
+        },
+        {
+          "name": "CELAYA",
+          "address": "Rio Bravo #107, Downtown",
+          "phone": "(461) 608 02 30",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio+Bravo+107+Celaya+Guanajuato"
+        },
+        {
+          "name": "SAN JOSÉ ITURBIDE",
+          "address": "Priv Paseo de la Venta #7, Downtown",
+          "phone": "(419) 690 85 65",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Priv+Paseo+de+la+Venta+7+San+José+Iturbide+Guanajuato"
+        },
+        {
+          "name": "VILLAGRÁN",
+          "address": "16 de Septiembre #909, Downtown",
+          "phone": "(411) 165 31 49",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=16+de+Septiembre+909+Villagrán+Guanajuato"
+        }
+      ],
+      "email": "sitimm.ctm@gmail.com"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "SITIMM",
+      "subtitle": "True Unionism",
+      "description": "The most important union in Mexico. We defend workers' rights with commitment, transparency, and tangible results.",
+      "primaryCta": {
+        "label": "Join Us"
+      },
+      "secondaryCta": {
+        "label": "Contact"
+      },
+      "stats": {
+        "affiliates": "Members",
+        "advisors": "Advisors",
+        "companies": "Companies"
+      }
+    },
+    "services": {
+      "title": "Services",
+      "subtitle": "Your Strength, Our Mission",
+      "description": "Learn about the services and programs that support our members: union representation, legal advice, training, collective agreements, and exclusive benefits.",
+      "primaryCta": {
+        "label": "Contact Advisor"
+      },
+      "knowMore": "Learn more",
+      "learnMore": "Learn more about",
+      "items": {
+        "unionMembership": {
+          "title": "Union Membership",
+          "description": "Join a union organization with presence in the Bajío region and representation in multiple industries."
+        },
+        "legalAdvice": {
+          "title": "Legal Advice",
+          "description": "Specialized labor attention and procedures for the defense of your rights and compliance with the CBA."
+        },
+        "professionalTraining": {
+          "title": "Professional Training",
+          "description": "Courses and programs with state and educational partners to boost your development and employability."
+        },
+        "collectiveAgreements": {
+          "title": "Collective Agreements",
+          "description": "Negotiation and review of collective contracts with salary increases and comprehensive improvements."
+        },
+        "benefitsAndDiscounts": {
+          "title": "Benefits and Discounts",
+          "description": "Exclusive benefits and discounts at participating establishments for members."
+        },
+        "creditsAndSupport": {
+          "title": "Credits and Support",
+          "description": "Dissemination and access to consumer credit programs with preferential rates through public institutions."
+        }
+      }
+    },
+    "programs": {
+      "eyebrow": "PROGRAMS AND SERVICES",
+      "titleLeading": "Benefits that",
+      "titleAccent": "Transform",
+      "titleTrailing": "Lives",
+      "description": "Learn about the benefits and services we offer to improve the quality of life of our members and their families throughout Mexico.",
+      "knowMore": "Learn more",
+      "knowMoreAbout": "Learn more"
+    },
+    "about": {
+      "eyebrow": "OUR IDENTITY",
+      "title": {
+        "leading": "Who",
+        "accent": "We Are",
+        "trailing": "?"
+      },
+      "paragraph1": "We are the most important union organization in the center of the country. We have more than 69,000 affiliated members in 170 companies located in the states of Guanajuato, Querétaro, Jalisco, and San Luis Potosí, made up of Mexican companies as well as 20 other different nationalities, such as the United States, Japan, Germany, Spain, France, China, among others.",
+      "paragraph2": "At SITIMM we fully practice union autonomy, which gives the organization economic independence and decision-making power in defending its members. In addition, we are an inclusive, plural, progressive, democratic, and non-partisan organization that promotes the continuous improvement of our members and their families in alliance with public and private institutions with shared objectives.",
+      "cta": {
+        "label": "Learn Our History"
+      },
+      "image": {
+        "alt": "Historical union document",
+        "badge": "Leaders in Mexico"
+      },
+      "stats": {
+        "members": "Members",
+        "states": "States",
+        "companies": "Companies"
+      }
+    },
+    "opengraph": {
+      "brandName": "SITIMM",
+      "subtitle": "Metal and Metallurgical Industry Workers Union",
+      "tagline": "Protecting workers' rights"
+    },
+    "cta": {
+      "title": "Ready to join the {brandName} family?",
+      "brandName": "SITIMM",
+      "readyToJoin": "Ready to join the",
+      "description": "Join thousands of workers who already enjoy the protection and benefits that SITIMM offers throughout the country.",
+      "startAffiliation": "Start Membership",
+      "downloadInfo": "Download Information"
+    },
+    "appPromo": {
+      "appStore": "App Store",
+      "platforms": "iOS · Android",
+      "techLabel": "Union Technology",
+      "iAm": "I am",
+      "brandName": "SITIMM",
+      "description": "Stay informed and connected with your union from anywhere.",
+      "feature1": "Effective communication",
+      "feature1Description": "between members and union advisors at your fingertips.",
+      "downloadApp": "Download the app",
+      "phoneAlt": "Phone screen showing the SITIMM app",
+      "notifications": "Notifications",
+      "notificationsDesc": "Real-time information",
+      "directChat": "Direct Chat",
+      "directChatDesc": "With union advisors",
+      "documents": "Documents",
+      "documentsDesc": "Agreements and contracts",
+      "events": "Events",
+      "eventsDesc": "Assemblies and activities",
+      "availableOn": "Available on",
+      "getItOn": "Get it on",
+      "googlePlay": "Google Play"
+    },
+    "discounts": {
+      "exclusiveBenefits": "Exclusive Benefits",
+      "specialDiscounts": "Special",
+      "special": "Discounts",
+      "description": "Access exclusive discounts at over 10,000 affiliated establishments. From supermarkets and pharmacies to medical and educational services.",
+      "viewAllDiscounts": "View All Discounts",
+      "establishments": "Establishments",
+      "imageAlt": "People reviewing a discount agreement",
+      "bullet1": "Up to 30% off at supermarkets",
+      "bullet2": "15% off at affiliated gas stations",
+      "bullet3": "20% off at pharmacies and clinics",
+      "bullet4": "Education discounts"
+    },
+    "carousel": {
+      "showing": "Showing",
+      "featuredLabel": "Featured",
+      "changeItem": "Change item",
+      "previous": "Previous",
+      "next": "Next",
+      "fallbackItems": {
+        "highlight": {
+          "eyebrow": "Our activities",
+          "title": "Annual General Assembly",
+          "description": "Review of achievements and planning for the union's future.",
+          "linkLabel": "Read more",
+          "imageAlt": "Mexican workers in construction"
+        },
+        "solidarity": {
+          "eyebrow": "Solidarity",
+          "title": "Immediate support programs",
+          "description": "Benefits and services designed to accompany each member in key moments.",
+          "linkLabel": "Explore programs",
+          "imageAlt": "Union members gathered in an assembly"
+        },
+        "training": {
+          "eyebrow": "Training",
+          "title": "Continuous training for our base",
+          "description": "Courses and workshops that professionalize the trade and open new job opportunities.",
+          "linkLabel": "View calendar",
+          "imageAlt": "Workers receiving training in classroom"
+        }
+      },
+      "apiItems": {
+        "item1": {
+          "title": "MEXICO: POLITICAL INDEPENDENCE VERSUS ECONOMIC AUTONOMY",
+          "description": "In-depth analysis of economic and political autonomy in Mexico.",
+          "linkLabel": "Read more"
+        },
+        "item2": {
+          "title": "SITIMMFORMA DIGITAL 37-2025",
+          "description": "New edition of our digital magazine with union information and news.",
+          "linkLabel": "Read more"
+        },
+        "item3": {
+          "title": "AGREEMENT SIGNING",
+          "description": "Signing of collective agreement that benefits our members.",
+          "linkLabel": "Read more"
+        },
+        "item4": {
+          "title": "CCT REVISION APPROVED IN 5 COMPANIES",
+          "description": "Successful revision of collective contracts in five affiliated companies.",
+          "linkLabel": "Read more"
+        },
+        "item5": {
+          "title": "2025 Ordinary Union Council Assembly",
+          "description": "Ordinary union council meeting to review activities and planning.",
+          "linkLabel": "Read more"
+        },
+        "item6": {
+          "title": "SITIMMFORMA Digital 39-2025",
+          "description": "New edition of our digital magazine with important updates.",
+          "linkLabel": "Read more"
+        }
+      },
+      "viewFullImage": "View full image",
+      "fullImageView": "Full image view",
+      "closeModal": "Close"
+    },
+    "organization": {
+      "transparencyAndDemocracy": "Transparency and Democracy",
+      "organizationalStructure": "Organizational",
+      "structure": "Structure",
+      "description": "Learn about SITIMM's leadership and organizational structure. Our organization chart reflects the democratization and transparency that characterizes our union.",
+      "downloadChart": "Download Organization Chart",
+      "viewPdf": "View as PDF",
+      "chartTitle": "SITIMM Organization Chart 2024",
+      "chartSubtitle": "Updated official structure",
+      "officialChart": "Official Organization Chart",
+      "clickToView": "Click to view full size",
+      "viewDocument": "View document",
+      "coverAlt": "Cover of SITIMM's official organization chart",
+      "executiveCommittee": "National Executive Committee",
+      "executiveCommitteeTitle": "MEMBERS OF THE SITIMM UNION EXECUTIVE COMMITTEE 2023-2029",
+      "executiveCommitteeDesc": "Highest governing body of the union",
+      "executiveCommitteeMetric": "12 members",
+      "unionSections": "Union Sections",
+      "unionSectionsDesc": "Representation in each workplace",
+      "unionSectionsMetric": "500+ sections",
+      "specializedCommissions": "Specialized Commissions",
+      "specializedCommissionsDesc": "Specific areas of union work",
+      "specializedCommissionsMetric": "15 commissions",
+      "executives": {
+        "title": "Executive Committee Members",
+        "subtitle": "SITIMM 2023-2029",
+        "positions": {
+          "generalSecretary": "General Secretary",
+          "honoraryPresident": "Honorary President",
+          "deputyGeneralSecretary": "Deputy General Secretary",
+          "assistantGeneralSecretary": "Assistant General Secretary",
+          "organizationSecretary": "Organization Secretary",
+          "workSecretary": "Work Secretary",
+          "womensAttentionSecretary": "Women's Attention and Gender Equity Secretary",
+          "unionEducationSecretary": "Union Education Secretary",
+          "financeSecretary": "Finance Secretary",
+          "politicalLinkageSecretary": "Political Liaison Secretary",
+          "youthAttentionSecretary": "Youth Attention and Inclusion Secretary",
+          "internationalRelationsSecretary": "International Relations and Affairs Secretary",
+          "internationalRelationsUndersecretary": "International Relations and Affairs Undersecretary",
+          "formalEducationSecretary": "Formal and Labor Education Secretary",
+          "communicationSecretary": "Communication and Union Promotion Secretary",
+          "workerSportsSecretary": "Workers' Sports Secretary",
+          "economicAffairsSecretary": "Economic Affairs and Employment Secretary",
+          "cultureSecretary": "Culture and Recreation Secretary",
+          "minutesSecretary": "Minutes and Agreements Secretary",
+          "electionsSecretary": "Elections and Democratic Consultations Secretary",
+          "electionsUndersecretary": "Elections and Democratic Consultations Undersecretary",
+          "statisticsSecretary": "Statistics, Research and Union Innovation Secretary",
+          "legalAttentionSecretary": "Comprehensive Legal Attention Secretary",
+          "healthSecretary": "Work and Family Health Secretary",
+          "housingSecretary": "Housing Attention Secretary",
+          "pensionsSecretary": "Pensions and Retirement Funds Secretary",
+          "ecologicalPromotionSecretary": "Ecological, Work and Family Promotion Secretary",
+          "addictionPreventionSecretary": "Guidance and Addiction Prevention Secretary",
+          "marginalizedGroupsSecretary": "Marginalized Groups Attention Secretary",
+          "honorCommissionPresident": "President of Honor and Justice Union Commission",
+          "honorCommissionSecretary": "Secretary of Honor and Justice Union Commission"
+        }
+      },
+      "companies": {
+        "american": "American Companies (AAM)",
+        "japanese": "Japanese Companies",
+        "german": "German Companies",
+        "mexicanAndOther": "Mexican and Other Nationalities",
+        "service": "Service Companies",
+        "other": "Other Notable Companies"
+      },
+      "ourAdvisors": "Our Advisors",
+      "advisorsSubtitle": "Updated list of advisors",
+      "advisorsDocument": "Advisors Document",
+      "advisors": {
+        "imageAlt": "SITIMM Union Advisors",
+        "downloadPdf": "Download Advisors PDF",
+        "listPlaceholder": "Detailed list of advisors to be added soon"
+      }
+    },
+    "identity": {
+      "title": "'FOR UNITY IN UNION WORK'",
+      "cite": "SITIMM Motto · Since 1971",
+      "ctaLabel": "Learn more"
+    },
+    "missionVisionValues": {
+      "eyebrow": "OUR COMMITMENT",
+      "titleLeading": "Mission, Vision",
+      "titleAccent": "and Values",
+      "mission": {
+        "title": "Mission",
+        "description": "Promote the integration and unity of workers to offer them a satisfactory union service in accordance with their requirements; based on the defense of the rights established in the Federal Labor Law, the Collective Labor Agreement and in the SITIMM Programs.",
+        "imageAlt": "SITIMM Mission"
+      },
+      "vision": {
+        "title": "Vision",
+        "description": "To be the union organization that guarantees optimal comprehensive care to its members inside and outside their workplace to achieve their job stability, economic improvement, social and family development.",
+        "imageAlt": "SITIMM Vision"
+      },
+      "values": {
+        "title": "Values",
+        "description": "Truthfulness, transparency, efficiency, honesty and tolerance.",
+        "imageAlt": "SITIMM Values"
+      }
+    },
+    "discountsBanner": {
+      "topBadge": "EXCLUSIVE BENEFITS FOR MEMBERS",
+      "mainTitle": "SPECIAL",
+      "mainTitleSpecial": "DISCOUNTS",
+      "subtitle": "FOR THE",
+      "subtitleBrand": "SITIMM FAMILY",
+      "stats": {
+        "businesses": "Businesses",
+        "cities": "Cities",
+        "categories": "Categories",
+        "maxDiscount": "Up to"
+      },
+      "ctaText": "Show your card and save",
+      "ctaButton": "View Discounts",
+      "logoAlt": "SITIMM Logo"
+    },
+    "appDownloadBanner": {
+      "badge": "Download the App",
+      "title": "Download Our App",
+      "subtitle": "Take all SITIMM benefits in your pocket. Access exclusive discounts, important notifications, and more from your phone.",
+      "phoneAlt": "SITIMM app mockup",
+      "benefits": {
+        "notifications": {
+          "title": "Instant Notifications",
+          "description": "Receive alerts about events, news, and important updates from the union."
+        },
+        "security": {
+          "title": "Secure Access",
+          "description": "Your information protected with the highest security standards."
+        },
+        "discounts": {
+          "title": "Exclusive Discounts",
+          "description": "Access all discounts and promotions for SITIMM members."
+        }
+      },
+      "qr": {
+        "appStore": "App Store",
+        "playStore": "Google Play",
+        "appStoreAlt": "QR code to download on App Store",
+        "playStoreAlt": "QR code to download on Google Play"
+      },
+      "buttons": {
+        "availableOn": "Available on",
+        "getItOn": "Get it on",
+        "appStore": "App Store",
+        "playStore": "Google Play"
+      }
+    }
+  },
+  "search": {
+    "title": "Search",
+    "description": "Search all site content",
+    "placeholder": "Search content...",
+    "search": "Search",
+    "clearSearch": "Clear search",
+    "pageTitle": "Search - SITIMM",
+    "pageDescription": "Search all SITIMM site content: events, programs, benefits, blog articles and more union information",
+    "noResults": "No results found",
+    "noResultsDescription": "Try different search terms or use the available filters",
+    "results": "{count, plural, =0 {No results} =1 {1 result} other {# results}}",
+    "resultsFor": "Search results",
+    "resultFound": "result found",
+    "resultsFound": "results found",
+    "searching": "Searching...",
+    "emptyStateTitle": "Start searching",
+    "emptyStateDescription": "Enter a term in the search bar to find events, articles, programs and more",
+    "filterByType": "Filter by type",
+    "types": {
+      "event": "Events",
+      "blog": "Blog",
+      "program": "Programs",
+      "magazine": "Magazines",
+      "faq": "FAQs",
+      "bonus": "Discounts",
+      "bulletin": "Bulletins"
+    },
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "of": "of"
+  },
+  "events": {
+    "title": "Events",
+    "description": "Discover all our events and activities",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "Events",
+      "description": "Discover our upcoming events and activities"
+    },
+    "header": {
+      "title": "Union Events",
+      "description": "Stay informed about our courses, workshops, assemblies and special events. Strengthening our union community through education and participation."
+    },
+    "upcoming": "Upcoming events",
+    "past": "Past events",
+    "all": "All",
+    "date": "Date",
+    "time": "Time",
+    "location": "Location",
+    "allLocations": "All locations",
+    "category": "Category",
+    "noEvents": "No events available",
+    "noEventsDescription": "No events found with the selected criteria",
+    "loadMore": "Load more events",
+    "filter": "Filter",
+    "search": "Search events",
+    "searchPlaceholder": "Search events...",
+    "eventsFound": "events found",
+    "viewDetails": "View details",
+    "requiresRegistration": "Requires registration",
+    "mobilityAvailable": "Transportation available",
+    "private": "Private",
+    "loading": "Loading events...",
+    "register": "Register for event",
+    "joinVirtual": "Join Zoom meeting",
+    "close": "Close",
+    "dateAndTime": "Date and time",
+    "eventDescription": "Event description",
+    "virtualAccess": "Virtual Access",
+    "joinZoomMeeting": "Join Zoom Meeting",
+    "attachedFiles": "Attached files",
+    "targetAudience": "Target audience",
+    "workersAndDelegates": "Workers, Delegates",
+    "registerForEvent": "Register for event",
+    "registerViaApp": "To register for this event use our app Yo Soy SITIMM",
+    "categories": {
+      "workshop": "Workshop",
+      "assembly": "Assembly",
+      "course": "Course"
+    },
+    "locations": {
+      "celaya": "Celaya",
+      "irapuato": "Irapuato",
+      "virtual": "Virtual"
+    },
+    "a11y": {
+      "gridView": "Grid view",
+      "listView": "List view",
+      "eventVideo": "Event video",
+      "eventPromotionalVideo": "Event promotional video",
+      "closeVideo": "Close video",
+      "playVideo": "Play video",
+      "eventImage": "Event image",
+      "eventImageAlt": "Event image: {title}",
+      "file": "file_{number}.pdf"
+    }
+  },
+  "programs": {
+    "title": "Union Programs",
+    "description": "Discover all the programs and benefits that SITIMM has for you",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "Programs",
+      "description": "Discover our support programs and benefits"
+    },
+    "header": {
+      "title": "SITIMM Base Programs",
+      "description": "SITIMM promotes the integration and unity of affiliated workers to provide a pleasant union service in terms of managing and addressing their social and economic requirements, labor rights, and cultural and union training that provides them with opportunities to improve their standard of living and working conditions. Thus, by mandate of the Assembly, the SITIMM Executive Committee has implemented 5 programs that contribute to strengthening the economy, quality of life, and human development of its members."
+    },
+    "card": {
+      "label": "PROGRAM",
+      "button": "EXPLORE"
+    },
+    "detail": {
+      "subprogramsTitle": "Subprograms",
+      "subprogramLabel": "SUBPROGRAM",
+      "galleryButton": "View gallery",
+      "galleryModal": {
+        "title": "Image gallery",
+        "close": "Close",
+        "backToGallery": "Back to gallery",
+        "imageCounter": "{current} / {total}",
+        "a11y": {
+          "previousImage": "Previous image",
+          "nextImage": "Next image",
+          "closeGallery": "Close gallery",
+          "imageName": "Image"
+        }
+      },
+      "viewDetails": "View program details"
+    },
+    "a11y": {
+      "viewProgramDetails": "View program details: {title}",
+      "imageFallback": "Image {number}"
+    },
+    "lightbox": {
+      "a11y": {
+        "closeGallery": "Close gallery",
+        "previousImage": "Previous image",
+        "nextImage": "Next image",
+        "imageFallback": "Image {number}"
+      }
+    }
+  },
+  "magazines": {
+    "title": "Magazines",
+    "description": "Browse all magazines published by SITIMM",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "Magazines",
+      "description": "Read our publications and special editions"
+    },
+    "header": {
+      "title": "Magazines",
+      "subtitle": "SITIMMINFORMA"
+    },
+    "readPdf": "Read PDF",
+    "noPdfAvailable": "No PDF available for this magazine",
+    "loading": "Loading magazines...",
+    "noMagazines": "No magazines available",
+    "totalMagazines": "Total magazines"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to the most common questions about SITIMM",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to your most common questions"
+    },
+    "header": {
+      "label": "Frequently Asked Questions",
+      "title": "Your questions answered in one place",
+      "description": "We have compiled the most frequently asked questions from our members. If you don't find what you're looking for, let us know and we'll be happy to help."
+    },
+    "searchPlaceholder": "Search question...",
+    "categories": {
+      "all": "All",
+      "SITIMM": "SITIMM",
+      "IMSS": "IMSS",
+      "INFONAVIT": "INFONAVIT",
+      "FONACOT": "FONACOT",
+      "AFORE": "AFORE"
+    },
+    "card": {
+      "viewMoreAbout": "View more information about: {question}",
+      "closeModal": "Close modal window",
+      "relatedVideo": "Related video with: {question}",
+      "usefulLinks": "Useful links:",
+      "moreVideos": "More videos:"
+    },
+    "moreInfo": "See more information",
+    "seeMoreInfo": "See more information about",
+    "closeModal": "Close modal window",
+    "relatedVideo": "Related video with",
+    "usefulLinks": "Useful links",
+    "moreVideos": "More videos",
+    "resultsCount": "{count, plural, =0 {No results found} =1 {1 result found} other {# results found}}",
+    "noResults": "No questions found",
+    "noResultsDescription": "Try different search terms or select another category",
+    "searchAriaLabel": "Search frequently asked questions",
+    "clearFilters": "Clear filters"
+  },
+  "errors": {
+    "404": {
+      "title": "Page not found",
+      "description": "The page you're looking for doesn't exist",
+      "backHome": "Back to home"
+    },
+    "500": {
+      "title": "Server error",
+      "description": "Something went wrong on our server",
+      "retry": "Try again"
+    }
+  },
+  "a11y": {
+    "skipToContent": "Skip to main content",
+    "closeDialog": "Close dialog",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "searchLabel": "Search",
+    "viewMore": "View more",
+    "viewLess": "View less"
+  },
+  "ui": {
+    "alert": {
+      "closeAlert": "Close alert"
+    },
+    "avatar": {
+      "defaultAlt": "Avatar",
+      "statusOnline": "Status: online",
+      "statusOffline": "Status: offline",
+      "statusAway": "Status: away",
+      "statusBusy": "Status: busy"
+    },
+    "breadcrumbs": {
+      "ariaLabel": "Breadcrumb navigation"
+    },
+    "callToAction": {
+      "dismiss": "Dismiss"
+    },
+    "button": {
+      "loading": "Loading..."
+    },
+    "searchInput": {
+      "defaultPlaceholder": "Search...",
+      "defaultAriaLabel": "Search field",
+      "clearSearch": "Clear search"
+    },
+    "searchBar": {
+      "defaultPlaceholder": "Search...",
+      "defaultAriaLabel": "Search field",
+      "clearSearch": "Clear search",
+      "toggleFilters": "Toggle filters",
+      "filters": "Filters",
+      "gridView": "Grid view",
+      "listView": "List view",
+      "compactView": "Compact view",
+      "result": "result",
+      "results": "results"
+    },
+    "spinner": {
+      "loading": "Loading..."
+    },
+    "sectionRenderer": {
+      "notImplemented": "Section type \"{type}\" not yet implemented",
+      "comingSoon": "Coming soon...",
+      "unknownType": "Unknown section type"
+    }
+  },
+  "auth": {
+    "loading": "Loading...",
+    "pleaseLogin": "Please login to access this page",
+    "accessDenied": "Access denied. Admin only.",
+    "context": {
+      "loginFailed": "Login failed",
+      "registrationFailed": "Registration failed",
+      "useAuthError": "useAuth must be used within an AuthProvider"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Stay informed about the latest news and updates from SITIMM",
+    "header": {
+      "label": "Blog",
+      "title": "News and Updates",
+      "description": "Stay up to date with the latest news, events, and achievements from SITIMM. Here you will find relevant information about our activities and the impact on our members."
+    },
+    "searchPlaceholder": "Search articles...",
+    "filter": "Filter",
+    "postsFound": "posts found",
+    "viewMode": {
+      "grid": "Grid view",
+      "list": "List view"
+    },
+    "readMore": "Read more",
+    "by": "By",
+    "noResults": "No articles found",
+    "noResultsDescription": "Try searching with different terms",
+    "loading": "Loading articles...",
+    "post": {
+      "updated": "Updated",
+      "shareArticle": "Share this article:",
+      "backToBlog": "Back to blog",
+      "socialMedia": {
+        "twitter": "Twitter",
+        "facebook": "Facebook",
+        "linkedin": "LinkedIn"
+      }
+    },
+    "a11y": {
+      "articleImage": "Article image: {title}",
+      "readFullArticle": "Read full article: {title}",
+      "postedOn": "Posted on {date}",
+      "searchArticles": "Search blog articles",
+      "changeView": "Change article view",
+      "filterArticles": "Filter blog articles",
+      "searchAriaLabel": "Search articles",
+      "openFilters": "Open filters"
+    },
+    "filters": {
+      "category": "Category",
+      "tags": "Tags",
+      "clear": "Clear filters"
+    },
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "Blog",
+      "description": "News and updates from the union"
+    }
+  },
+  "bonuses": {
+    "label": "BENEFITS",
+    "title": "Benefits and Discounts",
+    "description": "Discover all exclusive discounts for SITIMM members. By presenting your membership card, access discounts on health services, beauty, food, entertainment and much more.",
+    "searchPlaceholder": "Search businesses, addresses or discounts...",
+    "result": "benefit",
+    "results": "benefits",
+    "viewDetails": "View details of {business}",
+    "off": "OFF",
+    "filter": "Filter",
+    "viewMode": "View Mode",
+    "gridView": "Grid",
+    "listView": "List",
+    "compactView": "Compact",
+    "mapView": "Map",
+    "filterByCategory": "Category",
+    "allCategories": "All categories",
+    "filterByCity": "City",
+    "allCities": "All cities",
+    "sortBy": "Sort by",
+    "sortByName": "Name",
+    "sortByDiscount": "Discount",
+    "sortByCity": "City",
+    "sortByCategory": "Category",
+    "noResults": "No benefits found",
+    "noResultsDescription": "Try different filters or search terms",
+    "mapComingSoon": "Map coming soon",
+    "mapDescription": "We're working to show you all businesses on an interactive map",
+    "discount": "Discount",
+    "address": "Address",
+    "city": "City",
+    "category": "Category",
+    "brandName": "SITIMM",
+    "call": "Call",
+    "website": "Website",
+    "web": "Web",
+    "reserve": "Reserve",
+    "requiresReservation": "Requires reservation",
+    "moreInfo": "+{count} more",
+    "paymentMethods": {
+      "card": "Accepts card",
+      "cardTooltip": "Credit/debit card",
+      "cash": "Accepts cash",
+      "cashTooltip": "Cash"
+    },
+    "amenities": {
+      "accessible": "Accessible",
+      "wifi": "WiFi",
+      "parking": "Parking"
+    },
+    "badges": {
+      "featured": "Featured",
+      "new": "New"
+    },
+    "modal": {
+      "close": "Close",
+      "discount": "Discount",
+      "validity": "Terms",
+      "redemptionCode": "Discount code",
+      "copyCode": "Copy code",
+      "address": "Address",
+      "hours": "Hours",
+      "phone": "Phone",
+      "website": "Website",
+      "visitWebsite": "Visit website",
+      "amenities": "Amenities",
+      "paymentMethods": "Payment methods",
+      "viewOnMap": "View on map",
+      "gallery": "Photos"
+    },
+    "logoAlt": "{business} logo",
+    "filters": "Filters",
+    "categories": "Categories",
+    "all": "All",
+    "minDiscountLabel": "Minimum discount: {discount}%",
+    "specials": "Specials",
+    "featured": "Featured",
+    "new": "New",
+    "opengraph": {
+      "title": "Benefits and Discounts",
+      "description": "Exclusive discounts for members"
+    },
+    "categoryNames": {
+      "Salud": "Health",
+      "Belleza": "Beauty",
+      "Alimentos y Bebidas": "Food & Beverages",
+      "Gimnasios": "Gyms",
+      "Entretenimiento": "Entertainment",
+      "Educación": "Education",
+      "Moda y Calzado": "Fashion & Footwear",
+      "Joyería": "Jewelry",
+      "Hogar y Muebles": "Home & Furniture",
+      "Ferreterías": "Hardware Stores",
+      "Tecnología": "Technology",
+      "Automotriz": "Automotive",
+      "Servicios Funerarios": "Funeral Services",
+      "Fotografía": "Photography",
+      "Papelería": "Stationery",
+      "Dulcería": "Candy Store",
+      "Florería": "Florist",
+      "Lavandería": "Laundry",
+      "Hoteles": "Hotels",
+      "Seguros": "Insurance",
+      "Viajes": "Travel",
+      "Tiendas de Abarrotes": "Grocery Stores",
+      "Botánica": "Botanical",
+      "Sonido": "Sound",
+      "Limpieza": "Cleaning",
+      "Bicicletas": "Bicycles",
+      "Artesanía": "Handicrafts",
+      "Otros": "Others"
+    }
+  },
+  "bulletins": {
+    "label": "BULLETINS",
+    "title": "Information Bulletins",
+    "description": "Browse all bulletins published by SITIMM. Stay informed about union news, events and activities.",
+    "searchPlaceholder": "Search bulletins...",
+    "result": "bulletin",
+    "results": "bulletins",
+    "filter": "Filter",
+    "gridView": "Grid",
+    "listView": "List",
+    "filterByType": "Bulletin type",
+    "allTypes": "All types",
+    "general": "General",
+    "sport": "Sports",
+    "filterByYear": "Year",
+    "allYears": "All years",
+    "sortBy": "Sort by",
+    "sortByNewest": "Newest",
+    "sortByOldest": "Oldest",
+    "sortByTitle": "Title",
+    "noResults": "No bulletins found",
+    "noResultsDescription": "Try different filters or search terms",
+    "viewPdf": "View PDF",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "Bulletins",
+      "description": "Browse all information bulletins"
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "Sorry, the page you're looking for doesn't exist or has been moved. Please check the URL or use the links below to navigate.",
+    "goHome": "Go Home",
+    "search": "Search",
+    "goBack": "Go Back",
+    "helpfulLinks": "Helpful Links",
+    "links": {
+      "blog": "Blog",
+      "events": "Events",
+      "programs": "Programs",
+      "benefits": "Discounts",
+      "faq": "Frequently Asked Questions",
+      "magazines": "Magazines"
+    }
+  },
+  "appBanner": {
+    "title": "Open in SITIMM App",
+    "description": "Better experience in the mobile app",
+    "open": "Open",
+    "dismiss": "Close"
+  },
+  "appPromotion": {
+    "title": "Download the Yo Soy SITIMM App",
+    "subtitle": "Access all benefits and services from your phone. Scan the QR code or download directly.",
+    "downloadOn": "Download on",
+    "getItOn": "Get it on",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "downloadIOS": "Download for iOS",
+    "downloadAndroid": "Download for Android",
+    "iosQrAlt": "QR code to download on App Store",
+    "androidQrAlt": "QR code to download on Google Play",
+    "featureSecure": "Secure access",
+    "featureFast": "Fast and easy",
+    "featureNotifications": "Notifications"
+  },
+  "deepLink": {
+    "title": "Open in App",
+    "description": "This page will automatically open in the SITIMM mobile app if you have it installed.",
+    "openApp": "Open in App",
+    "continueWeb": "Continue in Browser",
+    "noApp": "Don't have the app? Download it:",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "privacyPolicy": {
+    "title": "Terms and Conditions of Use - Yo Soy SITIMM",
+    "description": "Terms and conditions of use for the Yo Soy SITIMM application of the Metal-Mechanical Industry Workers Union",
+    "pageTitle": "TERMS AND CONDITIONS OF USE OF THE \"YO SOY SITIMM\" APPLICATION",
+    "sections": {
+      "intellectualProperty": {
+        "title": "Intellectual and Industrial Property Rights",
+        "content": "The Service and all materials included or transferred, including, without limitation, software, images, text, graphics, logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music and all Intellectual Property Rights related to them, are the exclusive property of the Union of Workers of the Metal-Mechanical, Automotive, Similar and Related Industries of the Mexican Republic (SITIMM). Unless explicitly stated in this document, nothing in these Terms shall be deemed to create a license in or under any such Intellectual Property Rights, and you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works thereof."
+      },
+      "scope": {
+        "title": "Scope and Use",
+        "p1": "The user of the application understands and accepts that although it is operated by the Union of Workers of the Metal-Mechanical, Automotive, Similar and Related Industries of the Mexican Republic (hereinafter SITIMM), the information contained therein will be that relating to their contractual relationship, through the Collective Labor Agreement, with the workers of the companies affiliated to the Union (hereinafter THE USERS), therefore, the functionalities offered by the application will be delivered by SITIMM according to their affiliation.",
+        "p2": "The application will make information available to THE USERS and/or allow interaction between the parties. SITIMM may add, modify or remove functionalities at any time, which the user accepts by installing the application. In any case, when making such modifications, they will be notified to the user through the same mobile application once they log in.",
+        "p3": "The user accepts and authorizes that the electronic records of the mentioned activities carried out in the application constitute full proof of them."
+      },
+      "suspension": {
+        "title": "Right to Suspend or Cancel User Account",
+        "p1": "We may terminate or suspend permanently or temporarily THE USERS' access to the service, without prior notice and liability for any reason, even if at our sole discretion they violate any provision of these terms or any applicable law or regulation. Without prejudice to the foregoing.",
+        "p2": "Likewise, when any of THE USERS ceases to work for the company to which they are affiliated, their access to the application will be suspended, once SITIMM becomes aware of such event through the updated list of workers.",
+        "p3": "However, if this user enters to work for any of the affiliated companies, they will have access to the application again."
+      },
+      "indemnification": {
+        "title": "Indemnification",
+        "content": "THE USERS will be penalized, in accordance with the provisions of the precepts of the infringed matter, resulting from inappropriate use of the application, violation of intellectual property rights, attempts to steal information, unacceptable conduct, exploitation of flaws or errors."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "p1": "To the maximum extent permitted by applicable law, SITIMM shall not be liable for any indirect, punitive, incidental, special, consequential or exemplary damages, including, without limitation, damages for loss of profits, goodwill, use, data or other intangible losses, arising out of or related to the use of or inability to use the application.",
+        "p2": "To the maximum extent permitted by applicable law, SITIMM assumes no liability for (i) errors, mistakes or inaccuracies of content; (ii) personal injury or property damage, of any nature whatsoever, as a result of access to or use of our application; and (iii) any unauthorized access to or use of our secure servers and/or all personal information stored therein."
+      },
+      "modifications": {
+        "title": "Right to Change and Modify the Terms",
+        "content": "SITIMM reserves the right to modify these terms at our sole discretion. Therefore, THE USERS should review these pages periodically. Continued use of the Application or our service after such change constitutes THE USERS' acceptance of the new Terms. If any of THE USERS do not accept these terms or any future version thereof, they should not use or access (or continue to access) the website, Application or service."
+      },
+      "privacy": {
+        "title": "Use of Information and Privacy",
+        "p1": "By downloading the Application, THE USERS accept and authorize SITIMM to use their data as data controller for purposes derived from the execution of the Application.",
+        "p2": "SITIMM reserves the right to monitor THE USERS' activity in the Application in order to generate statistical information necessary for the control and improvement of the services and content offered by the Union and the Application.",
+        "p3": "The information provided in any of the communication mechanisms provided in the Application will be recorded in the Application's information storage systems and SITIMM reserves the right to maintain it at the end of the use of the Application or the relationship with THE USERS."
+      },
+      "termination": {
+        "title": "Termination of Benefits",
+        "content": "All processes, actions, petitions or follow-ups are subject to the current status of THE USERS within the affiliated companies, and may terminate without notice or resolution in case of termination of their relationship with them."
+      },
+      "obligations": {
+        "title": "Obligations of THE USERS",
+        "intro": "THE USERS agree to use the Application and the contents found therein in a diligent, correct, lawful manner and in particular, undertake NOT to perform the conduct described below:",
+        "items": [
+          "(a) Use the contents for purposes or effects contrary to law, morality and generally accepted good customs or public order;",
+          "(b) Reproduce, copy, represent, use, distribute, transform or modify the contents of the Application, by any procedure or on any support, in whole or in part, or allow public access through any form of public communication;",
+          "(c) Use the contents in any way that entails a risk of damage or disabling of the Application or the contents or third parties;",
+          "(d) Suppress, circumvent or manipulate copyright and other identifying data of copyright rights incorporated into the contents, as well as technical protection devices, or any information mechanisms that the contents may have;",
+          "(e) Use the contents and, in particular, information of any kind obtained through the application to distribute, transmit, send, modify, refuse or report advertising or contents thereof for direct sale purposes or with any other kind of commercial purpose, unsolicited messages addressed to a plurality of people regardless of their purpose, as well as market or disclose such information in any way;",
+          "(f) Allow third parties to use the mobile application with their key;",
+          "(g) Use the application and contents for lawful and/or unlawful purposes, contrary to what is established in these Terms and Conditions, or to the use of the Application itself, that are harmful to the rights and interests of third parties, or that in any way may damage, disable, overload or deteriorate the application and contents or prevent the normal use or enjoyment thereof by THE USERS."
+        ]
+      },
+      "final": {
+        "title": "Final Provisions",
+        "content": "These Terms and Conditions of Use are governed entirely by Mexican law. For the resolution of any conflict related to their interpretation or application, THE USERS expressly submit to the jurisdiction of the courts of Irapuato, Guanajuato, Mexico."
+      }
+    }
+  },
+  "error": {
+    "title": "Something went wrong",
+    "description": "An unexpected error has occurred. Please try again or return to the home page.",
+    "technicalDetails": "Technical details (development only)",
+    "errorDigest": "Error ID",
+    "tryAgain": "Try Again",
+    "goHome": "Go Home",
+    "helpText": "If the problem persists, please contact technical support."
+  },
+  "chatbot": {
+    "welcomeBubble": {
+      "greeting": "👋 Hello! How can I help you?",
+      "message": "I'm here to answer your questions about SITIMM.",
+      "demoGreeting": "👋 Demo Mode Active!",
+      "demoMessage": "The chatbot is in demo mode. Everyone can see and use it."
+    }
+  }
+}

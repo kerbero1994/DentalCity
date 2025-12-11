@@ -1,0 +1,149 @@
+.shell {
+  position: relative;
+  overflow: hidden;
+  width: min(1800px, calc(100% - clamp(9px, 1.9vw, 21px)));
+  margin: clamp(14px, 3vw, 34px) auto;
+  padding: clamp(44px, 6.5vw, 80px) clamp(36px, 7.5vw, 84px);
+  border-radius: 36px;
+  box-shadow: 0 32px 68px rgba(101, 10, 16, 0.48);
+  background: var(--gradient-shell-bg);
+  color: var(--gradient-shell-color, inherit);
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: var(--gradient-shell-overlay);
+}
+
+.inner {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+}
+
+.variantBrand {
+  --gradient-shell-bg:
+    radial-gradient(
+      1100px 650px at 12% 14%,
+      rgba(255, 122, 122, 0.7) 0%,
+      rgba(255, 122, 122, 0) 58%
+    ),
+    radial-gradient(
+      880px 520px at 92% 6%,
+      rgba(255, 150, 150, 0.42) 0%,
+      rgba(255, 150, 150, 0) 60%
+    ),
+    linear-gradient(145deg, #cb161d 0%, #a61218 40%, #780a0f 100%);
+  --gradient-shell-overlay: radial-gradient(
+    1050px 680px at 70% 18%,
+    rgba(0, 0, 0, 0.18),
+    transparent 65%
+  );
+  --gradient-shell-color: #ffffff;
+}
+
+.variantPearl {
+  --gradient-shell-bg:
+    radial-gradient(
+      1100px 640px at 14% 14%,
+      rgba(255, 255, 255, 0.92) 0%,
+      rgba(255, 255, 255, 0) 58%
+    ),
+    radial-gradient(
+      880px 520px at 86% 8%,
+      rgba(247, 236, 236, 0.78) 0%,
+      rgba(247, 236, 236, 0) 60%
+    ),
+    linear-gradient(145deg, #ffffff 0%, #f8f2f3 45%, #efe3e4 100%);
+  --gradient-shell-overlay:
+    radial-gradient(820px 480px at 18% 20%, rgba(255, 255, 255, 0.45), transparent 68%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0));
+  --gradient-shell-color: #1f2937;
+}
+
+.variantRose {
+  --gradient-shell-bg:
+    radial-gradient(
+      920px 540px at 10% 18%,
+      rgba(255, 205, 205, 0.55) 0%,
+      rgba(255, 205, 205, 0) 58%
+    ),
+    radial-gradient(
+      780px 520px at 86% 12%,
+      rgba(255, 242, 242, 0.75) 0%,
+      rgba(255, 242, 242, 0) 60%
+    ),
+    linear-gradient(150deg, #ffffff 0%, #fef5f6 42%, #f7e2e4 100%);
+  --gradient-shell-overlay:
+    radial-gradient(900px 560px at 72% 16%, rgba(0, 0, 0, 0.12), transparent 70%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.24), rgba(255, 255, 255, 0));
+  --gradient-shell-color: #401417;
+}
+
+.variantMidnight {
+  --gradient-shell-bg:
+    radial-gradient(1200px 720px at 8% 12%, rgba(88, 20, 24, 0.4) 0%, rgba(88, 20, 24, 0) 58%),
+    radial-gradient(1000px 680px at 90% 8%, rgba(37, 37, 37, 0.55) 0%, rgba(37, 37, 37, 0) 62%),
+    linear-gradient(160deg, #1b0d0f 0%, #15080a 45%, #080609 100%);
+  --gradient-shell-overlay:
+    radial-gradient(880px 520px at 70% 22%, rgba(255, 255, 255, 0.08), transparent 70%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0));
+  --gradient-shell-color: #f8fafc;
+}
+
+/* Dark mode variants */
+:global(.dark) .variantBrand {
+  --gradient-shell-bg:
+    radial-gradient(1100px 650px at 12% 14%, rgba(139, 28, 28, 0.7) 0%, rgba(139, 28, 28, 0) 58%),
+    radial-gradient(880px 520px at 92% 6%, rgba(127, 29, 29, 0.42) 0%, rgba(127, 29, 29, 0) 60%),
+    linear-gradient(145deg, #7f1d1d 0%, #991b1b 40%, #450a0a 100%);
+  --gradient-shell-overlay: radial-gradient(
+    1050px 680px at 70% 18%,
+    rgba(0, 0, 0, 0.35),
+    transparent 65%
+  );
+  --gradient-shell-color: #f3f4f6;
+}
+
+:global(.dark) .variantPearl {
+  --gradient-shell-bg:
+    radial-gradient(1100px 640px at 14% 14%, rgba(55, 65, 81, 0.92) 0%, rgba(55, 65, 81, 0) 58%),
+    radial-gradient(880px 520px at 86% 8%, rgba(31, 41, 55, 0.78) 0%, rgba(31, 41, 55, 0) 60%),
+    linear-gradient(145deg, #1f2937 0%, #111827 45%, #0f172a 100%);
+  --gradient-shell-overlay:
+    radial-gradient(820px 480px at 18% 20%, rgba(75, 85, 99, 0.25), transparent 68%),
+    linear-gradient(180deg, rgba(75, 85, 99, 0.12), rgba(75, 85, 99, 0));
+  --gradient-shell-color: #f3f4f6;
+}
+
+:global(.dark) .variantRose {
+  --gradient-shell-bg:
+    radial-gradient(920px 540px at 10% 18%, rgba(127, 29, 29, 0.55) 0%, rgba(127, 29, 29, 0) 58%),
+    radial-gradient(780px 520px at 86% 12%, rgba(55, 65, 81, 0.75) 0%, rgba(55, 65, 81, 0) 60%),
+    linear-gradient(150deg, #1f2937 0%, #111827 42%, #0c1220 100%);
+  --gradient-shell-overlay:
+    radial-gradient(900px 560px at 72% 16%, rgba(0, 0, 0, 0.25), transparent 70%),
+    linear-gradient(180deg, rgba(75, 85, 99, 0.18), rgba(75, 85, 99, 0));
+  --gradient-shell-color: #f3f4f6;
+}
+
+:global(.dark) .variantMidnight {
+  --gradient-shell-bg:
+    radial-gradient(1200px 720px at 8% 12%, rgba(127, 29, 29, 0.5) 0%, rgba(127, 29, 29, 0) 58%),
+    radial-gradient(1000px 680px at 90% 8%, rgba(17, 24, 39, 0.65) 0%, rgba(17, 24, 39, 0) 62%),
+    linear-gradient(160deg, #0a0506 0%, #0c0608 45%, #030204 100%);
+  --gradient-shell-overlay:
+    radial-gradient(880px 520px at 70% 22%, rgba(107, 114, 128, 0.12), transparent 70%),
+    linear-gradient(180deg, rgba(107, 114, 128, 0.1), rgba(107, 114, 128, 0));
+  --gradient-shell-color: #f8fafc;
+}
+
+@media (max-width: 720px) {
+  .shell {
+    width: calc(100% - clamp(9px, 4.5vw, 24px));
+    padding: clamp(36px, 8vw, 64px) clamp(22px, 9vw, 42px);
+    border-radius: 28px;
+  }
+}

@@ -1,0 +1,100 @@
+/* Store Badge Base */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 16px 8px 12px;
+  background: #000000;
+  border: none;
+  border-radius: 8px;
+  text-decoration: none;
+  transition:
+    transform 0.2s ease,
+    opacity 0.2s ease;
+  min-width: 135px;
+}
+
+.badge:hover {
+  transform: scale(1.02);
+  opacity: 0.9;
+}
+
+.badge:focus-visible {
+  outline: 2px solid #ffffff;
+  outline-offset: 2px;
+}
+
+/* App Store specific */
+.appStore {
+  padding-left: 10px;
+}
+
+.appleLogo {
+  width: 24px;
+  height: 24px;
+  color: #ffffff;
+  flex-shrink: 0;
+}
+
+/* Google Play specific */
+.googlePlay {
+  padding-left: 12px;
+}
+
+.playLogo {
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+}
+
+/* Text content */
+.textContent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0;
+  line-height: 1;
+}
+
+.smallText {
+  font-size: 0.5rem;
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+}
+
+.storeName {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #ffffff;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
+/* Larger size variant */
+.badge.large {
+  padding: 12px 20px 12px 16px;
+  border-radius: 12px;
+  gap: 12px;
+}
+
+.badge.large .appleLogo,
+.badge.large .playLogo {
+  width: 32px;
+  height: 32px;
+}
+
+.badge.large .smallText {
+  font-size: 0.65rem;
+}
+
+.badge.large .storeName {
+  font-size: 1.4rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .badge {
+    transition: none;
+  }
+}

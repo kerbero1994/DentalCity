@@ -1,0 +1,55 @@
+{
+  "lastUpdate": null,
+  "contentHashes": {
+    "events": {},
+    "programs": {},
+    "blogs": {},
+    "faqs": {},
+    "bulletins": {},
+    "bonuses": {},
+    "magazines": {}
+  },
+  "translatedContent": {
+    "en": {
+      "events": [],
+      "programs": [],
+      "blogs": [],
+      "faqs": [],
+      "bulletins": [],
+      "bonuses": [],
+      "magazines": []
+    },
+    "fr": {
+      "events": [],
+      "programs": [],
+      "blogs": [],
+      "faqs": [],
+      "bulletins": [],
+      "bonuses": [],
+      "magazines": []
+    },
+    "de": {
+      "events": [],
+      "programs": [],
+      "blogs": [],
+      "faqs": [],
+      "bulletins": [],
+      "bonuses": [],
+      "magazines": []
+    },
+    "pt": {
+      "events": [],
+      "programs": [],
+      "blogs": [],
+      "faqs": [],
+      "bulletins": [],
+      "bonuses": [],
+      "magazines": []
+    }
+  },
+  "stats": {
+    "totalTranslated": 0,
+    "byLocale": {},
+    "characterCount": {}
+  }
+}

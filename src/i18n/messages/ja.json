@@ -1,0 +1,1086 @@
+{
+  "common": {
+    "search": "検索",
+    "close": "閉じる",
+    "open": "開く",
+    "menu": "メニュー",
+    "home": "ホーム",
+    "about": "私たちについて",
+    "services": "サービス",
+    "contact": "お問い合わせ",
+    "language": "言語",
+    "settings": "設定",
+    "theme": "テーマ",
+    "darkMode": "ダークモード",
+    "lightMode": "ライトモード",
+    "spanish": "スペイン語",
+    "english": "英語",
+    "skipToContent": "コンテンツへスキップ",
+    "learnMore": "詳細を見る",
+    "viewMore": "もっと見る",
+    "download": "ダウンロード",
+    "programs": "プログラム",
+    "magazines": "雑誌",
+    "blog": "ブログ",
+    "bulletins": "会報",
+    "benefits": "割引",
+    "faq": "よくある質問",
+    "files": "ファイル",
+    "languageLabel": "言語 / Idioma",
+    "selectLanguage": "言語を選択",
+    "toggleTheme": "テーマを切り替え",
+    "sitimmLogo": "SITIMMロゴ",
+    "storeBadges": {
+      "appStore": {
+        "downloadOn": "からダウンロード",
+        "name": "App Store",
+        "aria": "App Storeでダウンロード"
+      },
+      "googlePlay": {
+        "getItOn": "で入手",
+        "name": "Google Play",
+        "aria": "Google Playで入手"
+      }
+    }
+  },
+  "header": {
+    "searchPlaceholder": "検索...",
+    "ctaButton": "始める",
+    "brandSubtitle": "真の労働組合主義",
+    "a11y": {
+      "mainNav": "メインナビゲーション",
+      "searchMobile": "検索（モバイル）"
+    }
+  },
+  "footer": {
+    "brandSubtitle": "真の労働組合主義",
+    "tagline": "1948年以来、労働者の権利を守るメキシコで最も重要な労働組合。",
+    "copyright": "© {year} SITIMM. 無断転載を禁じます。",
+    "quickLinks": "クイックリンク",
+    "institutional": "組織情報",
+    "contact": "お問い合わせ",
+    "ourOffices": "私たちのオフィス",
+    "a11y": {
+      "socialMedia": "ソーシャルメディア",
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "quickLinks": "クイックリンク",
+      "institutional": "組織情報",
+      "legalInfo": "法的情報",
+      "backToTop": "トップへ戻る"
+    },
+    "links": {
+      "affiliation": "加入",
+      "consultations": "相談",
+      "discounts": "割引",
+      "training": "研修",
+      "medicalServices": "医療サービス",
+      "aboutUs": "私たちについて",
+      "history": "歴史",
+      "organization": "組織図",
+      "transparency": "透明性",
+      "agreements": "協定",
+      "privacy": "プライバシーポリシー",
+      "terms": "利用規約",
+      "policies": "使用ポリシー",
+      "contact": "お問い合わせ",
+      "benefits": "割引",
+      "events": "イベント",
+      "programs": "プログラム",
+      "blog": "ブログ",
+      "bulletins": "会報",
+      "magazines": "マガジン",
+      "faq": "よくある質問",
+      "search": "検索",
+      "home": "ホーム"
+    },
+    "contactInfo": {
+      "address": ["Victorino de las Fuentes #944", "Prolongación La Moderna, Irapuato, Guanajuato"],
+      "mapsUrl": "https://www.google.com/maps/place/CEFORMA+IRAPUATO+MODERNA/@20.6778165,-101.3632499,17z/data=!4m6!3m5!1s0x842c7f506667d27b:0xc57b1eb3daa53b6!8m2!3d20.67739!4d-101.3620912!16s%2Fg%2F11q58f6yp0",
+      "offices": [
+        {
+          "name": "IRAPUATO",
+          "address": "Victorino de las Fuentes #944, Prolongación La Moderna",
+          "phone": "(462) 626 06 97",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victorino+de+las+Fuentes+944+Prolongación+La+Moderna+Irapuato+Guanajuato"
+        },
+        {
+          "name": "SILAO",
+          "address": "Benito Juárez #65 esq. San Dimas, ダウンタウン",
+          "phone": "(472) 722 35 01",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benito+Juárez+65+San+Dimas+Silao+Guanajuato"
+        },
+        {
+          "name": "CELAYA",
+          "address": "Rio Bravo #107, ダウンタウン",
+          "phone": "(461) 608 02 30",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio+Bravo+107+Celaya+Guanajuato"
+        },
+        {
+          "name": "SAN JOSÉ ITURBIDE",
+          "address": "Priv Paseo de la Venta #7, ダウンタウン",
+          "phone": "(419) 690 85 65",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Priv+Paseo+de+la+Venta+7+San+José+Iturbide+Guanajuato"
+        },
+        {
+          "name": "VILLAGRÁN",
+          "address": "16 de Septiembre #909, ダウンタウン",
+          "phone": "(411) 165 31 49",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=16+de+Septiembre+909+Villagrán+Guanajuato"
+        }
+      ],
+      "email": "sitimm.ctm@gmail.com"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "SITIMM",
+      "subtitle": "真の労働組合主義",
+      "description": "メキシコで最も重要な労働組合。私たちはコミットメント、透明性、そして具体的な成果で労働者の権利を守ります。",
+      "primaryCta": {
+        "label": "参加する"
+      },
+      "secondaryCta": {
+        "label": "お問い合わせ"
+      },
+      "stats": {
+        "affiliates": "会員",
+        "advisors": "年",
+        "companies": "企業"
+      }
+    },
+    "carousel": {
+      "showing": "表示中",
+      "featuredLabel": "注目コンテンツ",
+      "changeItem": "カルーセル項目を変更",
+      "previous": "前へ",
+      "next": "次へ",
+      "fallbackItems": {
+        "highlight": {
+          "eyebrow": "私たちの活動",
+          "title": "年次総会",
+          "description": "組合の実績のレビューと将来の計画。",
+          "linkLabel": "もっと読む",
+          "imageAlt": "建設中のメキシコ人労働者"
+        },
+        "solidarity": {
+          "eyebrow": "連帯",
+          "title": "即時支援プログラム",
+          "description": "重要な瞬間に各メンバーをサポートするために設計された福利厚生とサービス。",
+          "linkLabel": "プログラムを探索",
+          "imageAlt": "総会で集まる組合員"
+        },
+        "training": {
+          "eyebrow": "訓練",
+          "title": "私たちの基盤のための継続的なトレーニング",
+          "description": "職業を専門化し、新しい雇用機会を開くコースとワークショップ。",
+          "linkLabel": "カレンダーを見る",
+          "imageAlt": "教室でトレーニングを受ける労働者"
+        }
+      },
+      "apiItems": {
+        "item1": {
+          "title": "メキシコ：政治的独立 対 経済的自治",
+          "description": "メキシコにおける経済的および政治的自治の詳細な分析。",
+          "linkLabel": "もっと見る"
+        },
+        "item2": {
+          "title": "SITIMMFORMA DIGITAL 37-2025",
+          "description": "組合情報とニュースを掲載したデジタルマガジンの新版。",
+          "linkLabel": "もっと見る"
+        },
+        "item3": {
+          "title": "協定調印",
+          "description": "組合員に利益をもたらす労働協約の調印。",
+          "linkLabel": "もっと見る"
+        },
+        "item4": {
+          "title": "5社でCCT見直しが承認",
+          "description": "加盟5社における労働協約の見直しが成功。",
+          "linkLabel": "もっと見る"
+        },
+        "item5": {
+          "title": "2025年度通常組合評議会総会",
+          "description": "活動と計画を見直すための通常組合評議会会議。",
+          "linkLabel": "もっと見る"
+        },
+        "item6": {
+          "title": "SITIMMFORMA Digital 39-2025",
+          "description": "重要な更新情報を掲載したデジタルマガジンの新版。",
+          "linkLabel": "もっと見る"
+        }
+      },
+      "viewFullImage": "画像を拡大",
+      "fullImageView": "拡大画像表示",
+      "closeModal": "閉じる"
+    },
+    "services": {
+      "title": "サービス",
+      "subtitle": "あなたの力、私たちの使命",
+      "description": "会員をサポートするサービスとプログラムについて学びましょう：組合代表、法律相談、研修、労働協約、独占的な福利厚生。",
+      "primaryCta": {
+        "label": "顧問に連絡"
+      },
+      "items": {
+        "unionMembership": {
+          "title": "組合加入",
+          "description": "バヒオ地域に拠点を持ち、複数の産業で代表を務める組合組織に参加してください。"
+        },
+        "legalAdvice": {
+          "title": "法律相談",
+          "description": "あなたの権利を擁護し、労働協約を遵守するための専門的な労働支援と管理。"
+        },
+        "professionalTraining": {
+          "title": "専門研修",
+          "description": "州および教育パートナーとのコースおよびプログラムで、あなたの発展と雇用適性を向上させます。"
+        },
+        "collectiveAgreements": {
+          "title": "労働協約",
+          "description": "賃金増加と包括的な改善を伴う労働契約の交渉と見直し。"
+        },
+        "benefitsAndDiscounts": {
+          "title": "福利厚生と割引",
+          "description": "会員向けの参加施設での独占的な福利厚生と割引。"
+        },
+        "creditsAndSupport": {
+          "title": "クレジットとサポート",
+          "description": "公的機関を通じた優遇金利での消費者信用プログラムへの普及とアクセス。"
+        }
+      },
+      "learnMore": "詳細を見る",
+      "knowMore": "詳細を見る"
+    },
+    "cta": {
+      "readyToJoin": "参加準備完了",
+      "brandName": "SITIMM",
+      "description": "メキシコで最も重要な組合に参加し、独占的な福利厚生、労働保護、成長の機会を利用しましょう。",
+      "startAffiliation": "加入を開始",
+      "downloadInfo": "情報をダウンロード",
+      "title": "¿Listo para formar parte de la familia {brandName}?"
+    },
+    "organization": {
+      "transparencyAndDemocracy": "透明性と民主主義",
+      "organizationalStructure": "私たちの",
+      "structure": "構造",
+      "description": "私たちの組織構造と、あなたの労働権を守るために毎日働く人々について学びましょう。",
+      "executiveCommitteeTitle": "全国執行委員会",
+      "executiveCommitteeDesc": "民主的に選出された35人のメンバーで構成される組合の管理機関。",
+      "unionSections": "組合支部",
+      "unionSectionsDesc": "労働者の権利を守る代表者がいる137社での代表。",
+      "ourAdvisors": "私たちの顧問",
+      "specializedCommissionsDesc": "会員にサポートとガイダンスを提供する190人の専門顧問。",
+      "downloadChart": "組織図をダウンロード",
+      "viewPdf": "完全なPDFを表示",
+      "chartTitle": "公式組織図",
+      "chartSubtitle": "全国執行委員会 2024-2028",
+      "clickToView": "クリックして完全な文書を表示",
+      "officialChart": "SITIMM公式組織図",
+      "viewDocument": "文書を表示",
+      "advisorsSubtitle": "労働者に奉仕する専門家",
+      "advisorsDocument": "組合顧問リスト",
+      "coverAlt": "SITIMM全国執行委員会",
+      "advisors": {
+        "imageAlt": "SITIMM組合顧問",
+        "downloadPdf": "Descargar PDF de Asesores",
+        "listPlaceholder": "La lista detallada de asesores se agregará próximamente"
+      },
+      "executives": {
+        "title": "執行委員会メンバー",
+        "subtitle": "SITIMM 2023-2029",
+        "positions": {
+          "generalSecretary": "事務局長",
+          "honoraryPresident": "名誉会長",
+          "deputyGeneralSecretary": "副事務局長",
+          "assistantGeneralSecretary": "事務局次長",
+          "organizationSecretary": "組織担当書記",
+          "workSecretary": "労働担当書記",
+          "womensAttentionSecretary": "女性問題・ジェンダー平等担当書記",
+          "unionEducationSecretary": "組合教育担当書記",
+          "financeSecretary": "財務担当書記",
+          "politicalLinkageSecretary": "政治連携担当書記",
+          "youthAttentionSecretary": "青少年問題・包摂担当書記",
+          "internationalRelationsSecretary": "国際関係・国際問題担当書記",
+          "internationalRelationsUndersecretary": "国際関係・国際問題担当次長",
+          "formalEducationSecretary": "正式教育・労働教育担当書記",
+          "communicationSecretary": "広報・組合促進担当書記",
+          "workerSportsSecretary": "労働者スポーツ担当書記",
+          "economicAffairsSecretary": "経済問題・雇用担当書記",
+          "cultureSecretary": "文化・レクリエーション担当書記",
+          "minutesSecretary": "議事録・合意担当書記",
+          "electionsSecretary": "選挙・民主的協議担当書記",
+          "electionsUndersecretary": "選挙・民主的協議担当次長",
+          "statisticsSecretary": "統計・研究・組合革新担当書記",
+          "legalAttentionSecretary": "総合法律支援担当書記",
+          "healthSecretary": "労働・家族健康担当書記",
+          "housingSecretary": "住宅問題担当書記",
+          "pensionsSecretary": "年金・退職基金担当書記",
+          "ecologicalPromotionSecretary": "環境・労働・家族促進担当書記",
+          "addictionPreventionSecretary": "指導・依存症予防担当書記",
+          "marginalizedGroupsSecretary": "社会的弱者支援担当書記",
+          "honorCommissionPresident": "名誉・正義組合委員会委員長",
+          "honorCommissionSecretary": "名誉・正義組合委員会書記"
+        }
+      },
+      "companies": {
+        "american": "アメリカ企業（AAM）",
+        "japanese": "日本企業",
+        "german": "ドイツ企業",
+        "mexicanAndOther": "メキシコおよびその他の国籍",
+        "service": "サービス企業",
+        "other": "その他の注目企業"
+      },
+      "executiveCommittee": "Comité Ejecutivo Nacional",
+      "executiveCommitteeMetric": "12 integrantes",
+      "unionSectionsMetric": "500+ secciones",
+      "specializedCommissions": "Comisiones Especializadas",
+      "specializedCommissionsMetric": "15 comisiones"
+    },
+    "programs": {
+      "eyebrow": "私たちのプログラム",
+      "titleLeading": "福利厚生と",
+      "titleAccent": "プログラム",
+      "titleTrailing": "会員のための",
+      "description": "会員とその家族の生活の質を向上させるために設計されたすべてのプログラムと福利厚生を発見してください。",
+      "knowMoreAbout": "詳細を見る",
+      "knowMore": "詳細を見る"
+    },
+    "about": {
+      "eyebrow": "私たちについて",
+      "title": {
+        "leading": "メキシコで最も",
+        "accent": "重要な",
+        "trailing": "組合"
+      },
+      "paragraph1": "SITIMMは75年以上の歴史を持つ組合組織で、冶金、鉄鋼および類似産業の労働者の労働権を擁護することに専念しています。",
+      "paragraph2": "メキシコの4つの州に拠点を置き、69,000人以上の会員を擁する私たちは、すべての会員に公正な労働条件、適正な賃金、成長の機会を保証するために毎日働いています。",
+      "stats": {
+        "members": "会員",
+        "states": "州",
+        "companies": "企業"
+      },
+      "cta": {
+        "label": "詳細を見る"
+      },
+      "image": {
+        "alt": "総会のSITIMM労働者",
+        "badge": "75年の闘争"
+      }
+    },
+    "missionVisionValues": {
+      "eyebrow": "私たちの原則",
+      "titleLeading": "ミッション、ビジョンと",
+      "titleAccent": "価値観",
+      "mission": {
+        "title": "ミッション",
+        "description": "適正な労働条件、公正な賃金、専門能力開発の機会を保証することにより、会員の労働権を擁護し促進する。",
+        "imageAlt": "SITIMMミッション"
+      },
+      "vision": {
+        "title": "ビジョン",
+        "description": "透明性、内部民主主義、労働者の福祉への取り組みで認められる、メキシコの主要組合になること。",
+        "imageAlt": "SITIMMビジョン"
+      },
+      "values": {
+        "title": "価値観",
+        "description": "連帯、誠実さ、透明性、民主主義、社会正義、会員への取り組みは、私たちの日々の仕事を導く柱です。",
+        "imageAlt": "SITIMM価値観"
+      }
+    },
+    "discountsBanner": {
+      "topBadge": "独占特典",
+      "mainTitle": "特別割引",
+      "mainTitleSpecial": "会員向け",
+      "subtitle": "100以上の",
+      "subtitleBrand": "SITIMM提携店で節約",
+      "stats": {
+        "businesses": "Businesses",
+        "cities": "Cities",
+        "categories": "Categories",
+        "maxDiscount": "Up to"
+      },
+      "ctaText": "Show your card and save",
+      "ctaButton": "View Discounts",
+      "logoAlt": "SITIMMロゴ"
+    },
+    "appDownloadBanner": {
+      "badge": "アプリをダウンロード",
+      "title": "アプリをダウンロード",
+      "subtitle": "SITIMMの全特典をポケットに。限定割引、重要な通知などにスマートフォンからアクセスできます。",
+      "phoneAlt": "SITIMMアプリのモックアップ",
+      "benefits": {
+        "notifications": {
+          "title": "即時通知",
+          "description": "組合からのイベント、ニュース、重要なアップデートのアラートを受け取ります。"
+        },
+        "security": {
+          "title": "安全なアクセス",
+          "description": "最高のセキュリティ基準で情報を保護します。"
+        },
+        "discounts": {
+          "title": "限定割引",
+          "description": "SITIMM会員向けのすべての割引とプロモーションにアクセスできます。"
+        }
+      },
+      "qr": {
+        "appStore": "App Store",
+        "playStore": "Google Play",
+        "appStoreAlt": "App Storeでダウンロードするためのコード",
+        "playStoreAlt": "Google Playでダウンロードするためのコード"
+      },
+      "buttons": {
+        "availableOn": "入手先",
+        "getItOn": "入手先",
+        "appStore": "App Store",
+        "playStore": "Google Play"
+      }
+    },
+    "identity": {
+      "title": "私たちはメキシコの冶金労働者の声です",
+      "cite": "SITIMM - メキシコ共和国の冶金、鉄鋼および類似産業の労働者組合",
+      "ctaLabel": "私たちの歴史を知る"
+    },
+    "opengraph": {
+      "brandName": "SITIMM",
+      "subtitle": "Sindicato de Trabajadores de la Industria Metálica y Metalúrgica",
+      "tagline": "Protegiendo los derechos de los trabajadores"
+    },
+    "appPromo": {
+      "appStore": "App Store",
+      "platforms": "iOS · Android",
+      "techLabel": "Tecnología Sindical",
+      "iAm": "Yo soy",
+      "brandName": "SITIMM",
+      "description": "Mantente informado y conectado con tu sindicato desde cualquier lugar.",
+      "feature1": "Comunicación efectiva",
+      "feature1Description": "entre afiliados y asesores sindicales al alcance de tu mano.",
+      "downloadApp": "Descargar la app",
+      "phoneAlt": "Pantalla de un teléfono mostrando la app del SITIMM",
+      "notifications": "Notificaciones",
+      "notificationsDesc": "Información al momento",
+      "directChat": "Chat Directo",
+      "directChatDesc": "Con asesores sindicales",
+      "documents": "Documentos",
+      "documentsDesc": "Convenios y contratos",
+      "events": "Eventos",
+      "eventsDesc": "Asambleas y actividades",
+      "availableOn": "Disponible en",
+      "getItOn": "Consíguelo en",
+      "googlePlay": "Google Play"
+    },
+    "discounts": {
+      "exclusiveBenefits": "Beneficios Exclusivos",
+      "specialDiscounts": "Descuentos",
+      "special": "Especiales",
+      "description": "Accede a descuentos exclusivos en más de 10,000 establecimientos afiliados. Desde supermercados y farmacias hasta servicios médicos y educativos.",
+      "viewAllDiscounts": "Ver Todos los Descuentos",
+      "establishments": "Establecimientos",
+      "imageAlt": "Personas revisando un convenio de descuentos",
+      "bullet1": "Hasta 30% en supermercados",
+      "bullet2": "15% en gasolineras afiliadas",
+      "bullet3": "20% en farmacias y consultorios",
+      "bullet4": "Descuentos en educación"
+    }
+  },
+  "search": {
+    "title": "検索",
+    "description": "すべてのサイトコンテンツを検索",
+    "placeholder": "コンテンツを検索...",
+    "search": "検索",
+    "clearSearch": "検索をクリア",
+    "pageTitle": "検索 - SITIMM",
+    "pageDescription": "すべてのSITIMMサイトコンテンツを検索：イベント、プログラム、特典、ブログ記事、その他の労働組合情報",
+    "noResults": "結果が見つかりませんでした",
+    "noResultsDescription": "別の検索用語を試すか、利用可能なフィルターを使用してください",
+    "results": "{count, plural, =0 {結果なし} =1 {1件の結果} other {#件の結果}}",
+    "resultsFor": "検索結果",
+    "resultFound": "件の結果が見つかりました",
+    "resultsFound": "件の結果が見つかりました",
+    "searching": "検索中...",
+    "emptyStateTitle": "検索を開始",
+    "emptyStateDescription": "検索バーに用語を入力して、イベント、記事、プログラムなどを検索します",
+    "filterByType": "タイプでフィルター",
+    "types": {
+      "event": "イベント",
+      "blog": "ブログ",
+      "program": "プログラム",
+      "magazine": "マガジン",
+      "faq": "よくある質問",
+      "bonus": "割引",
+      "bulletin": "会報"
+    },
+    "previous": "前へ",
+    "next": "次へ",
+    "page": "ページ",
+    "of": "/"
+  },
+  "events": {
+    "title": "イベント",
+    "description": "すべてのイベントと活動を発見",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "イベント",
+      "description": "今後のイベントと活動を発見"
+    },
+    "header": {
+      "title": "労働組合イベント",
+      "description": "コース、ワークショップ、総会、特別イベントについて情報を入手してください。教育と参加を通じて労働組合コミュニティを強化します。"
+    },
+    "upcoming": "今後のイベント",
+    "past": "過去のイベント",
+    "all": "すべて",
+    "date": "日付",
+    "time": "時間",
+    "location": "場所",
+    "allLocations": "すべての場所",
+    "category": "カテゴリー",
+    "noEvents": "利用可能なイベントはありません",
+    "noEventsDescription": "選択した基準でイベントが見つかりませんでした",
+    "loadMore": "さらにイベントを読み込む",
+    "filter": "フィルター",
+    "search": "イベントを検索",
+    "searchPlaceholder": "イベントを検索...",
+    "eventsFound": "件のイベントが見つかりました",
+    "viewDetails": "詳細を表示",
+    "requiresRegistration": "登録が必要",
+    "mobilityAvailable": "交通手段あり",
+    "private": "プライベート",
+    "loading": "イベントを読み込み中...",
+    "register": "イベントに登録",
+    "joinVirtual": "Zoomミーティングに参加",
+    "close": "閉じる",
+    "dateAndTime": "日時",
+    "eventDescription": "イベントの説明",
+    "virtualAccess": "仮想アクセス",
+    "joinZoomMeeting": "Zoomミーティングに参加",
+    "attachedFiles": "添付ファイル",
+    "targetAudience": "対象者",
+    "workersAndDelegates": "労働者、代表者",
+    "registerForEvent": "イベントに登録",
+    "registerViaApp": "このイベントに登録するには、アプリYo Soy SITIMMを使用してください",
+    "categories": {
+      "workshop": "ワークショップ",
+      "assembly": "総会",
+      "course": "コース"
+    },
+    "locations": {
+      "celaya": "セラヤ",
+      "irapuato": "イラプアト",
+      "virtual": "バーチャル"
+    },
+    "a11y": {
+      "gridView": "グリッドビュー",
+      "listView": "リストビュー",
+      "eventVideo": "イベント動画",
+      "eventPromotionalVideo": "イベントプロモーション動画",
+      "closeVideo": "動画を閉じる",
+      "playVideo": "動画を再生",
+      "eventImage": "イベント画像",
+      "eventImageAlt": "イベント画像：{title}",
+      "file": "ファイル_{number}.pdf"
+    }
+  },
+  "programs": {
+    "title": "労働組合プログラム",
+    "description": "SITIMMがあなたのために用意しているすべてのプログラムと福利厚生を発見してください",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "プログラム",
+      "description": "サポートプログラムと特典を発見"
+    },
+    "header": {
+      "title": "SITIMM基本プログラム",
+      "description": "SITIMMは、加盟労働者の統合と団結を促進し、社会的および経済的要件、労働権、文化的および労働組合的研修の管理と対処に関して、生活水準と労働条件を改善する機会を提供する快適な労働組合サービスを提供します。このように、総会の委任により、SITIMM執行委員会は、組合員の経済、生活の質、人間開発の強化に貢献する5つのプログラムを実施しました。"
+    },
+    "card": {
+      "label": "プログラム",
+      "button": "探索"
+    },
+    "detail": {
+      "subprogramsTitle": "サブプログラム",
+      "subprogramLabel": "サブプログラム",
+      "galleryButton": "ギャラリーを表示",
+      "galleryModal": {
+        "title": "画像ギャラリー",
+        "close": "閉じる",
+        "backToGallery": "ギャラリーに戻る",
+        "imageCounter": "{current} / {total}",
+        "a11y": {
+          "previousImage": "前の画像",
+          "nextImage": "次の画像",
+          "closeGallery": "ギャラリーを閉じる",
+          "imageName": "画像"
+        }
+      },
+      "viewDetails": "プログラムの詳細を表示"
+    },
+    "a11y": {
+      "viewProgramDetails": "プログラムの詳細を表示：{title}",
+      "imageFallback": "画像 {number}"
+    },
+    "lightbox": {
+      "a11y": {
+        "closeGallery": "ギャラリーを閉じる",
+        "previousImage": "前の画像",
+        "nextImage": "次の画像",
+        "imageFallback": "画像 {number}"
+      }
+    }
+  },
+  "magazines": {
+    "title": "マガジン",
+    "description": "SITIMMが発行するすべてのマガジンを閲覧",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "マガジン",
+      "description": "出版物と特別版を読む"
+    },
+    "header": {
+      "title": "マガジン",
+      "subtitle": "SITIMMINFORMA"
+    },
+    "readPdf": "PDFを読む",
+    "noPdfAvailable": "このマガジンのPDFはありません",
+    "loading": "マガジンを読み込み中...",
+    "noMagazines": "利用可能なマガジンはありません",
+    "totalMagazines": "マガジン総数"
+  },
+  "faq": {
+    "title": "よくある質問",
+    "description": "SITIMMに関する最もよくある質問への回答を見つける",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "よくある質問",
+      "description": "最もよくある質問への回答を見つける"
+    },
+    "header": {
+      "label": "よくある質問",
+      "title": "質問に一か所で回答",
+      "description": "組合員からの最もよくある質問をまとめました。お探しのものが見つからない場合は、お知らせください。喜んでお手伝いします。"
+    },
+    "searchPlaceholder": "質問を検索...",
+    "categories": {
+      "all": "すべて",
+      "SITIMM": "SITIMM",
+      "IMSS": "IMSS",
+      "INFONAVIT": "INFONAVIT",
+      "FONACOT": "FONACOT",
+      "AFORE": "AFORE"
+    },
+    "card": {
+      "viewMoreAbout": "詳細情報を表示：{question}",
+      "closeModal": "モーダルウィンドウを閉じる",
+      "relatedVideo": "関連動画：{question}",
+      "usefulLinks": "役立つリンク：",
+      "moreVideos": "その他の動画："
+    },
+    "moreInfo": "詳細情報を表示",
+    "seeMoreInfo": "詳細情報を表示",
+    "closeModal": "モーダルウィンドウを閉じる",
+    "relatedVideo": "関連動画",
+    "usefulLinks": "役立つリンク",
+    "moreVideos": "その他の動画",
+    "resultsCount": "{count, plural, =0 {結果が見つかりませんでした} =1 {1件の結果が見つかりました} other {#件の結果が見つかりました}}",
+    "noResults": "質問が見つかりませんでした",
+    "noResultsDescription": "別の検索用語を試すか、別のカテゴリーを選択してください",
+    "searchAriaLabel": "よくある質問を検索",
+    "clearFilters": "フィルターをクリア"
+  },
+  "errors": {
+    "404": {
+      "title": "ページが見つかりません",
+      "description": "お探しのページは存在しません",
+      "backHome": "ホームに戻る"
+    },
+    "500": {
+      "title": "サーバーエラー",
+      "description": "サーバーで問題が発生しました",
+      "retry": "再試行"
+    }
+  },
+  "a11y": {
+    "skipToContent": "メインコンテンツへスキップ",
+    "closeDialog": "ダイアログを閉じる",
+    "openMenu": "メニューを開く",
+    "closeMenu": "メニューを閉じる",
+    "searchLabel": "検索",
+    "viewMore": "もっと見る",
+    "viewLess": "表示を減らす"
+  },
+  "ui": {
+    "alert": {
+      "closeAlert": "アラートを閉じる"
+    },
+    "avatar": {
+      "defaultAlt": "アバター",
+      "statusOnline": "ステータス：オンライン",
+      "statusOffline": "ステータス：オフライン",
+      "statusAway": "ステータス：離席中",
+      "statusBusy": "ステータス：取り込み中"
+    },
+    "breadcrumbs": {
+      "ariaLabel": "パンくずナビゲーション"
+    },
+    "callToAction": {
+      "dismiss": "閉じる"
+    },
+    "button": {
+      "loading": "読み込み中..."
+    },
+    "searchInput": {
+      "defaultPlaceholder": "検索...",
+      "defaultAriaLabel": "検索フィールド",
+      "clearSearch": "検索をクリア"
+    },
+    "searchBar": {
+      "defaultPlaceholder": "検索...",
+      "defaultAriaLabel": "検索フィールド",
+      "clearSearch": "検索をクリア",
+      "toggleFilters": "フィルターを切り替え",
+      "filters": "フィルター",
+      "gridView": "グリッド表示",
+      "listView": "リスト表示",
+      "compactView": "コンパクト表示",
+      "result": "件",
+      "results": "件"
+    },
+    "spinner": {
+      "loading": "読み込み中..."
+    },
+    "sectionRenderer": {
+      "notImplemented": "セクションタイプ\"{type}\"はまだ実装されていません",
+      "comingSoon": "近日公開...",
+      "unknownType": "不明なセクションタイプ"
+    }
+  },
+  "auth": {
+    "loading": "読み込み中...",
+    "pleaseLogin": "このページにアクセスするにはログインしてください",
+    "accessDenied": "アクセスが拒否されました。管理者のみ。",
+    "context": {
+      "loginFailed": "ログインに失敗しました",
+      "registrationFailed": "登録に失敗しました",
+      "useAuthError": "useAuthはAuthProvider内で使用する必要があります"
+    }
+  },
+  "blog": {
+    "title": "ブログ",
+    "description": "SITIMMからの最新ニュースとアップデートについて情報を入手",
+    "header": {
+      "label": "ブログ",
+      "title": "ニュースとアップデート",
+      "description": "SITIMMからの最新のニュース、イベント、成果について最新情報を入手してください。ここでは、私たちの活動と組合員への影響に関する関連情報を見つけることができます。"
+    },
+    "searchPlaceholder": "記事を検索...",
+    "filter": "フィルター",
+    "postsFound": "件の投稿が見つかりました",
+    "viewMode": {
+      "grid": "グリッドビュー",
+      "list": "リストビュー"
+    },
+    "readMore": "続きを読む",
+    "by": "投稿者",
+    "noResults": "記事が見つかりませんでした",
+    "noResultsDescription": "別の検索用語を試してください",
+    "loading": "記事を読み込み中...",
+    "post": {
+      "updated": "更新日",
+      "shareArticle": "この記事を共有：",
+      "backToBlog": "ブログに戻る",
+      "socialMedia": {
+        "twitter": "Twitter",
+        "facebook": "Facebook",
+        "linkedin": "LinkedIn"
+      }
+    },
+    "a11y": {
+      "articleImage": "記事画像：{title}",
+      "readFullArticle": "完全な記事を読む：{title}",
+      "postedOn": "投稿日 {date}",
+      "searchArticles": "ブログ記事を検索",
+      "changeView": "記事ビューを変更",
+      "filterArticles": "ブログ記事をフィルター",
+      "searchAriaLabel": "記事を検索",
+      "openFilters": "フィルターを開く"
+    },
+    "filters": {
+      "category": "カテゴリー",
+      "tags": "タグ",
+      "clear": "フィルターをクリア"
+    },
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "ブログ",
+      "description": "労働組合からのニュースとアップデート"
+    }
+  },
+  "bonuses": {
+    "label": "特典",
+    "title": "特典と割引",
+    "description": "SITIMM組合員向けのすべての限定割引を発見してください。会員カードを提示することで、医療サービス、美容、食品、娯楽などの割引にアクセスできます。",
+    "searchPlaceholder": "企業、住所、割引を検索...",
+    "result": "件の特典",
+    "results": "件の特典",
+    "viewDetails": "{business}の詳細を見る",
+    "off": "オフ",
+    "filter": "フィルター",
+    "viewMode": "表示モード",
+    "gridView": "グリッド",
+    "listView": "リスト",
+    "compactView": "コンパクト",
+    "mapView": "マップ",
+    "filterByCategory": "カテゴリー",
+    "allCategories": "すべてのカテゴリー",
+    "filterByCity": "都市",
+    "allCities": "すべての都市",
+    "sortBy": "並べ替え",
+    "sortByName": "名前",
+    "sortByDiscount": "割引",
+    "sortByCity": "都市",
+    "sortByCategory": "カテゴリー",
+    "noResults": "特典が見つかりませんでした",
+    "noResultsDescription": "別のフィルターまたは検索用語を試してください",
+    "mapComingSoon": "マップは近日公開",
+    "mapDescription": "インタラクティブマップですべての企業を表示できるよう取り組んでいます",
+    "discount": "割引",
+    "address": "住所",
+    "city": "都市",
+    "category": "カテゴリー",
+    "brandName": "SITIMM",
+    "call": "電話する",
+    "website": "ウェブサイト",
+    "web": "Web",
+    "reserve": "予約する",
+    "requiresReservation": "要予約",
+    "moreInfo": "+{count}件",
+    "paymentMethods": {
+      "card": "カード可",
+      "cardTooltip": "クレジット/デビットカード",
+      "cash": "現金可",
+      "cashTooltip": "現金"
+    },
+    "amenities": {
+      "accessible": "バリアフリー",
+      "wifi": "WiFi",
+      "parking": "駐車場"
+    },
+    "badges": {
+      "featured": "注目",
+      "new": "新着"
+    },
+    "modal": {
+      "close": "閉じる",
+      "discount": "割引",
+      "validity": "条件",
+      "redemptionCode": "割引コード",
+      "copyCode": "コードをコピー",
+      "address": "住所",
+      "hours": "営業時間",
+      "phone": "電話",
+      "website": "ウェブサイト",
+      "visitWebsite": "ウェブサイトを訪問",
+      "amenities": "設備",
+      "paymentMethods": "支払い方法",
+      "viewOnMap": "地図で見る",
+      "gallery": "写真"
+    },
+    "logoAlt": "{business}のロゴ",
+    "filters": "フィルター",
+    "categories": "カテゴリー",
+    "all": "すべて",
+    "minDiscountLabel": "最低割引: {discount}%",
+    "specials": "スペシャル",
+    "featured": "注目",
+    "new": "新着",
+    "opengraph": {
+      "title": "特典と割引",
+      "description": "組合員向けの限定割引"
+    },
+    "categoryNames": {
+      "Salud": "健康",
+      "Belleza": "美容",
+      "Alimentos y Bebidas": "飲食",
+      "Gimnasios": "ジム",
+      "Entretenimiento": "エンターテインメント",
+      "Educación": "教育",
+      "Moda y Calzado": "ファッション・靴",
+      "Joyería": "宝飾品",
+      "Hogar y Muebles": "家具・インテリア",
+      "Ferreterías": "金物店",
+      "Tecnología": "テクノロジー",
+      "Automotriz": "自動車",
+      "Servicios Funerarios": "葬儀サービス",
+      "Fotografía": "写真",
+      "Papelería": "文房具",
+      "Dulcería": "菓子店",
+      "Florería": "花屋",
+      "Lavandería": "クリーニング",
+      "Hoteles": "ホテル",
+      "Seguros": "保険",
+      "Viajes": "旅行",
+      "Tiendas de Abarrotes": "食料品店",
+      "Botánica": "植物",
+      "Sonido": "音響",
+      "Limpieza": "清掃",
+      "Bicicletas": "自転車",
+      "Artesanía": "手工芸品",
+      "Otros": "その他"
+    }
+  },
+  "bulletins": {
+    "label": "会報",
+    "title": "情報会報",
+    "description": "SITIMMが発行するすべての会報を閲覧してください。労働組合のニュース、イベント、活動について情報を入手してください。",
+    "searchPlaceholder": "会報を検索...",
+    "result": "件の会報",
+    "results": "件の会報",
+    "filter": "フィルター",
+    "gridView": "グリッド",
+    "listView": "リスト",
+    "filterByType": "会報タイプ",
+    "allTypes": "すべてのタイプ",
+    "general": "一般",
+    "sport": "スポーツ",
+    "filterByYear": "年",
+    "allYears": "すべての年",
+    "sortBy": "並べ替え",
+    "sortByNewest": "最新",
+    "sortByOldest": "最古",
+    "sortByTitle": "タイトル",
+    "noResults": "会報が見つかりませんでした",
+    "noResultsDescription": "別のフィルターまたは検索用語を試してください",
+    "viewPdf": "PDFを表示",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "会報",
+      "description": "すべての情報会報を閲覧"
+    }
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "description": "申し訳ございませんが、お探しのページは存在しないか移動しました。URLを確認するか、以下のリンクを使用してナビゲートしてください。",
+    "goHome": "ホームに移動",
+    "search": "検索",
+    "goBack": "戻る",
+    "helpfulLinks": "役立つリンク",
+    "links": {
+      "blog": "ブログ",
+      "events": "イベント",
+      "programs": "プログラム",
+      "benefits": "割引",
+      "faq": "よくある質問",
+      "magazines": "マガジン"
+    }
+  },
+  "appBanner": {
+    "title": "SITIMMアプリで開く",
+    "description": "モバイルアプリでより良い体験",
+    "open": "開く",
+    "dismiss": "閉じる"
+  },
+  "appPromotion": {
+    "title": "Yo Soy SITIMMアプリをダウンロード",
+    "subtitle": "スマートフォンからすべての特典とサービスにアクセス。QRコードをスキャンするか、直接ダウンロードしてください。",
+    "downloadOn": "ダウンロード",
+    "getItOn": "入手先",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "downloadIOS": "iOS版をダウンロード",
+    "downloadAndroid": "Android版をダウンロード",
+    "iosQrAlt": "App StoreからダウンロードするためのQRコード",
+    "androidQrAlt": "Google PlayからダウンロードするためのQRコード",
+    "featureSecure": "安全なアクセス",
+    "featureFast": "速くて簡単",
+    "featureNotifications": "通知"
+  },
+  "deepLink": {
+    "title": "アプリで開く",
+    "description": "インストール済みの場合、このページはSITIMMモバイルアプリで自動的に開きます。",
+    "openApp": "アプリで開く",
+    "continueWeb": "ブラウザで続ける",
+    "noApp": "アプリをお持ちでない方はダウンロード:",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "privacyPolicy": {
+    "title": "利用規約 - Yo Soy SITIMM",
+    "description": "金属機械産業労働者組合のYo Soy SITIMMアプリケーションの利用規約",
+    "pageTitle": "TERMS AND CONDITIONS OF USE OF THE \"YO SOY SITIMM\" APPLICATION",
+    "sections": {
+      "intellectualProperty": {
+        "title": "Intellectual and Industrial Property Rights",
+        "content": "The Service and all materials included or transferred, including, without limitation, software, images, text, graphics, logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music and all Intellectual Property Rights related to them, are the exclusive property of the Union of Workers of the Metal-Mechanical, Automotive, Similar and Related Industries of the Mexican Republic (SITIMM). Unless explicitly stated in this document, nothing in these Terms shall be deemed to create a license in or under any such Intellectual Property Rights, and you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works thereof."
+      },
+      "scope": {
+        "title": "Scope and Use",
+        "p1": "The user of the application understands and accepts that although it is operated by the Union of Workers of the Metal-Mechanical, Automotive, Similar and Related Industries of the Mexican Republic (hereinafter SITIMM), the information contained therein will be that relating to their contractual relationship, through the Collective Labor Agreement, with the workers of the companies affiliated to the Union (hereinafter THE USERS), therefore, the functionalities offered by the application will be delivered by SITIMM according to their affiliation.",
+        "p2": "The application will make information available to THE USERS and/or allow interaction between the parties. SITIMM may add, modify or remove functionalities at any time, which the user accepts by installing the application. In any case, when making such modifications, they will be notified to the user through the same mobile application once they log in.",
+        "p3": "The user accepts and authorizes that the electronic records of the mentioned activities carried out in the application constitute full proof of them."
+      },
+      "suspension": {
+        "title": "Right to Suspend or Cancel User Account",
+        "p1": "We may terminate or suspend permanently or temporarily THE USERS' access to the service, without prior notice and liability for any reason, even if at our sole discretion they violate any provision of these terms or any applicable law or regulation. Without prejudice to the foregoing.",
+        "p2": "Likewise, when any of THE USERS ceases to work for the company to which they are affiliated, their access to the application will be suspended, once SITIMM becomes aware of such event through the updated list of workers.",
+        "p3": "However, if this user enters to work for any of the affiliated companies, they will have access to the application again."
+      },
+      "indemnification": {
+        "title": "Indemnification",
+        "content": "THE USERS will be penalized, in accordance with the provisions of the precepts of the infringed matter, resulting from inappropriate use of the application, violation of intellectual property rights, attempts to steal information, unacceptable conduct, exploitation of flaws or errors."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "p1": "To the maximum extent permitted by applicable law, SITIMM shall not be liable for any indirect, punitive, incidental, special, consequential or exemplary damages, including, without limitation, damages for loss of profits, goodwill, use, data or other intangible losses, arising out of or related to the use of or inability to use the application.",
+        "p2": "To the maximum extent permitted by applicable law, SITIMM assumes no liability for (i) errors, mistakes or inaccuracies of content; (ii) personal injury or property damage, of any nature whatsoever, as a result of access to or use of our application; and (iii) any unauthorized access to or use of our secure servers and/or all personal information stored therein."
+      },
+      "modifications": {
+        "title": "Right to Change and Modify the Terms",
+        "content": "SITIMM reserves the right to modify these terms at our sole discretion. Therefore, THE USERS should review these pages periodically. Continued use of the Application or our service after such change constitutes THE USERS' acceptance of the new Terms. If any of THE USERS do not accept these terms or any future version thereof, they should not use or access (or continue to access) the website, Application or service."
+      },
+      "privacy": {
+        "title": "Use of Information and Privacy",
+        "p1": "By downloading the Application, THE USERS accept and authorize SITIMM to use their data as data controller for purposes derived from the execution of the Application.",
+        "p2": "SITIMM reserves the right to monitor THE USERS' activity in the Application in order to generate statistical information necessary for the control and improvement of the services and content offered by the Union and the Application.",
+        "p3": "The information provided in any of the communication mechanisms provided in the Application will be recorded in the Application's information storage systems and SITIMM reserves the right to maintain it at the end of the use of the Application or the relationship with THE USERS."
+      },
+      "termination": {
+        "title": "Termination of Benefits",
+        "content": "All processes, actions, petitions or follow-ups are subject to the current status of THE USERS within the affiliated companies, and may terminate without notice or resolution in case of termination of their relationship with them."
+      },
+      "obligations": {
+        "title": "Obligations of THE USERS",
+        "intro": "THE USERS agree to use the Application and the contents found therein in a diligent, correct, lawful manner and in particular, undertake NOT to perform the conduct described below:",
+        "items": [
+          "(a) Use the contents for purposes or effects contrary to law, morality and generally accepted good customs or public order;",
+          "(b) Reproduce, copy, represent, use, distribute, transform or modify the contents of the Application, by any procedure or on any support, in whole or in part, or allow public access through any form of public communication;",
+          "(c) Use the contents in any way that entails a risk of damage or disabling of the Application or the contents or third parties;",
+          "(d) Suppress, circumvent or manipulate copyright and other identifying data of copyright rights incorporated into the contents, as well as technical protection devices, or any information mechanisms that the contents may have;",
+          "(e) Use the contents and, in particular, information of any kind obtained through the application to distribute, transmit, send, modify, refuse or report advertising or contents thereof for direct sale purposes or with any other kind of commercial purpose, unsolicited messages addressed to a plurality of people regardless of their purpose, as well as market or disclose such information in any way;",
+          "(f) Allow third parties to use the mobile application with their key;",
+          "(g) Use the application and contents for lawful and/or unlawful purposes, contrary to what is established in these Terms and Conditions, or to the use of the Application itself, that are harmful to the rights and interests of third parties, or that in any way may damage, disable, overload or deteriorate the application and contents or prevent the normal use or enjoyment thereof by THE USERS."
+        ]
+      },
+      "final": {
+        "title": "Final Provisions",
+        "content": "These Terms and Conditions of Use are governed entirely by Mexican law. For the resolution of any conflict related to their interpretation or application, THE USERS expressly submit to the jurisdiction of the courts of Irapuato, Guanajuato, Mexico."
+      }
+    }
+  },
+  "error": {
+    "title": "問題が発生しました",
+    "description": "予期しないエラーが発生しました。もう一度試すか、ホームページに戻ってください。",
+    "technicalDetails": "技術的詳細（開発のみ）",
+    "errorDigest": "エラーID",
+    "tryAgain": "再試行",
+    "goHome": "ホームに移動",
+    "helpText": "問題が解決しない場合は、テクニカルサポートにお問い合わせください。"
+  },
+  "chatbot": {
+    "welcomeBubble": {
+      "greeting": "👋 こんにちは！何かお手伝いできますか？",
+      "message": "SITIMMに関するご質問にお答えします。",
+      "demoGreeting": "👋 デモモード有効！",
+      "demoMessage": "チャットボットはデモモードです。誰でも見て使用できます。"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sitimm.app",
+      "sha256_cert_fingerprints": [
+        "D0:5D:45:3F:A5:6A:B7:76:53:E4:CA:6E:FF:A5:44:A2:2D:E8:CF:B0:34:6A:E2:59:91:2B:39:E2:64:A2:4A:9D"
+      ]
+    }
+  }
+]

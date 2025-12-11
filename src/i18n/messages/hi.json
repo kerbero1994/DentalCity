@@ -1,0 +1,1086 @@
+{
+  "common": {
+    "search": "खोजें",
+    "close": "बंद करें",
+    "open": "खोलें",
+    "menu": "मेनू",
+    "home": "होम",
+    "about": "के बारे में",
+    "services": "सेवाएं",
+    "contact": "संपर्क",
+    "language": "भाषा",
+    "settings": "सेटिंग्स",
+    "theme": "थीम",
+    "darkMode": "डार्क मोड",
+    "lightMode": "लाइट मोड",
+    "spanish": "स्पेनिश",
+    "english": "अंग्रेज़ी",
+    "skipToContent": "सामग्री पर जाएं",
+    "learnMore": "और जानें",
+    "viewMore": "और देखें",
+    "download": "डाउनलोड करें",
+    "programs": "कार्यक्रम",
+    "magazines": "पत्रिकाएं",
+    "blog": "ब्लॉग",
+    "bulletins": "सूचनाएं",
+    "benefits": "छूट",
+    "faq": "सामान्य प्रश्न",
+    "files": "फ़ाइल(लें)",
+    "languageLabel": "भाषा / Idioma",
+    "selectLanguage": "भाषा चुनें",
+    "toggleTheme": "थीम बदलें",
+    "sitimmLogo": "SITIMM लोगो",
+    "storeBadges": {
+      "appStore": {
+        "downloadOn": "पर डाउनलोड करें",
+        "name": "App Store",
+        "aria": "App Store पर डाउनलोड करें"
+      },
+      "googlePlay": {
+        "getItOn": "इसे प्राप्त करें",
+        "name": "Google Play",
+        "aria": "Google Play पर प्राप्त करें"
+      }
+    }
+  },
+  "header": {
+    "searchPlaceholder": "खोजें...",
+    "ctaButton": "शुरू करें",
+    "brandSubtitle": "सच्चा श्रमिकवाद",
+    "a11y": {
+      "mainNav": "मुख्य नेविगेशन",
+      "searchMobile": "खोजें (मोबाइल)"
+    }
+  },
+  "footer": {
+    "brandSubtitle": "सच्चा श्रमिकवाद",
+    "tagline": "1948 से श्रमिकों के अधिकारों की रक्षा करने वाला मेक्सिको का सबसे महत्वपूर्ण संघ।",
+    "copyright": "© {year} SITIMM। सर्वाधिकार सुरक्षित।",
+    "quickLinks": "त्वरित लिंक",
+    "institutional": "संस्थागत",
+    "contact": "संपर्क",
+    "ourOffices": "हमारे कार्यालय",
+    "a11y": {
+      "socialMedia": "सोशल मीडिया",
+      "facebook": "फेसबुक",
+      "twitter": "ट्विटर",
+      "instagram": "इंस्टाग्राम",
+      "youtube": "यूट्यूब",
+      "quickLinks": "त्वरित लिंक",
+      "institutional": "संस्थागत",
+      "legalInfo": "कानूनी जानकारी",
+      "backToTop": "शीर्ष पर वापस जाएं"
+    },
+    "links": {
+      "affiliation": "सदस्यता",
+      "consultations": "परामर्श",
+      "discounts": "छूट",
+      "training": "प्रशिक्षण",
+      "medicalServices": "चिकित्सा सेवाएं",
+      "aboutUs": "हमारे बारे में",
+      "history": "इतिहास",
+      "organization": "संगठन चार्ट",
+      "transparency": "पारदर्शिता",
+      "agreements": "समझौते",
+      "privacy": "गोपनीयता नीति",
+      "terms": "नियम और शर्तें",
+      "policies": "उपयोग नीतियां",
+      "contact": "संपर्क",
+      "benefits": "छूट",
+      "events": "कार्यक्रम",
+      "programs": "कार्यक्रम",
+      "blog": "ब्लॉग",
+      "bulletins": "बुलेटिन",
+      "magazines": "पत्रिकाएं",
+      "faq": "सामान्य प्रश्न",
+      "search": "खोजें",
+      "home": "होम"
+    },
+    "contactInfo": {
+      "address": ["Victorino de las Fuentes #944", "Prolongación La Moderna, Irapuato, Guanajuato"],
+      "mapsUrl": "https://www.google.com/maps/place/CEFORMA+IRAPUATO+MODERNA/@20.6778165,-101.3632499,17z/data=!4m6!3m5!1s0x842c7f506667d27b:0xc57b1eb3daa53b6!8m2!3d20.67739!4d-101.3620912!16s%2Fg%2F11q58f6yp0",
+      "offices": [
+        {
+          "name": "IRAPUATO",
+          "address": "Victorino de las Fuentes #944, Prolongación La Moderna",
+          "phone": "(462) 626 06 97",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victorino+de+las+Fuentes+944+Prolongación+La+Moderna+Irapuato+Guanajuato"
+        },
+        {
+          "name": "SILAO",
+          "address": "Benito Juárez #65 esq. San Dimas, डाउनटाउन",
+          "phone": "(472) 722 35 01",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benito+Juárez+65+San+Dimas+Silao+Guanajuato"
+        },
+        {
+          "name": "CELAYA",
+          "address": "Rio Bravo #107, डाउनटाउन",
+          "phone": "(461) 608 02 30",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio+Bravo+107+Celaya+Guanajuato"
+        },
+        {
+          "name": "SAN JOSÉ ITURBIDE",
+          "address": "Priv Paseo de la Venta #7, डाउनटाउन",
+          "phone": "(419) 690 85 65",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Priv+Paseo+de+la+Venta+7+San+José+Iturbide+Guanajuato"
+        },
+        {
+          "name": "VILLAGRÁN",
+          "address": "16 de Septiembre #909, डाउनटाउन",
+          "phone": "(411) 165 31 49",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=16+de+Septiembre+909+Villagrán+Guanajuato"
+        }
+      ],
+      "email": "sitimm.ctm@gmail.com"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "SITIMM",
+      "subtitle": "सच्चा श्रमिक संघवाद",
+      "description": "मेक्सिको का सबसे महत्वपूर्ण संघ। हम प्रतिबद्धता, पारदर्शिता और ठोस परिणामों के साथ श्रमिकों के अधिकारों की रक्षा करते हैं।",
+      "primaryCta": {
+        "label": "शामिल हों"
+      },
+      "secondaryCta": {
+        "label": "संपर्क करें"
+      },
+      "stats": {
+        "affiliates": "सदस्य",
+        "advisors": "वर्ष",
+        "companies": "कंपनियां"
+      }
+    },
+    "carousel": {
+      "showing": "प्रदर्शित हो रहा है",
+      "featuredLabel": "विशेष सामग्री",
+      "changeItem": "कैरोसेल आइटम बदलें",
+      "previous": "पिछला",
+      "next": "अगला",
+      "fallbackItems": {
+        "highlight": {
+          "eyebrow": "हमारी गतिविधियां",
+          "title": "वार्षिक महासभा",
+          "description": "उपलब्धियों की समीक्षा और संघ के भविष्य की योजना।",
+          "linkLabel": "और पढ़ें",
+          "imageAlt": "निर्माण में मैक्सिकन श्रमिक"
+        },
+        "solidarity": {
+          "eyebrow": "एकजुटता",
+          "title": "तत्काल सहायता कार्यक्रम",
+          "description": "महत्वपूर्ण क्षणों में प्रत्येक सदस्य का समर्थन करने के लिए डिज़ाइन किए गए लाभ और सेवाएं।",
+          "linkLabel": "कार्यक्रमों का अन्वेषण करें",
+          "imageAlt": "महासभा में एकत्रित संघ के सदस्य"
+        },
+        "training": {
+          "eyebrow": "प्रशिक्षण",
+          "title": "हमारे आधार के लिए निरंतर प्रशिक्षण",
+          "description": "पाठ्यक्रम और कार्यशालाएं जो व्यापार को पेशेवर बनाती हैं और नए रोजगार के अवसर खोलती हैं।",
+          "linkLabel": "कैलेंडर देखें",
+          "imageAlt": "कक्षा में प्रशिक्षण प्राप्त करते श्रमिक"
+        }
+      },
+      "apiItems": {
+        "item1": {
+          "title": "मेक्सिको: राजनीतिक स्वतंत्रता बनाम आर्थिक स्वायत्तता",
+          "description": "मेक्सिको में आर्थिक और राजनीतिक स्वायत्तता का गहन विश्लेषण।",
+          "linkLabel": "और पढ़ें"
+        },
+        "item2": {
+          "title": "SITIMMFORMA DIGITAL 37-2025",
+          "description": "संघ की जानकारी और समाचार के साथ हमारी डिजिटल पत्रिका का नया संस्करण।",
+          "linkLabel": "और पढ़ें"
+        },
+        "item3": {
+          "title": "समझौते पर हस्ताक्षर",
+          "description": "हमारे सदस्यों को लाभ पहुंचाने वाले सामूहिक समझौते पर हस्ताक्षर।",
+          "linkLabel": "और पढ़ें"
+        },
+        "item4": {
+          "title": "5 कंपनियों में CCT समीक्षा स्वीकृत",
+          "description": "पांच संबद्ध कंपनियों में सामूहिक अनुबंधों की सफल समीक्षा।",
+          "linkLabel": "और पढ़ें"
+        },
+        "item5": {
+          "title": "2025 की साधारण संघ परिषद महासभा",
+          "description": "गतिविधियों और योजना की समीक्षा के लिए साधारण संघ परिषद बैठक।",
+          "linkLabel": "और पढ़ें"
+        },
+        "item6": {
+          "title": "SITIMMFORMA Digital 39-2025",
+          "description": "महत्वपूर्ण अपडेट के साथ हमारी डिजिटल पत्रिका का नया संस्करण।",
+          "linkLabel": "और पढ़ें"
+        }
+      },
+      "viewFullImage": "पूर्ण छवि देखें",
+      "fullImageView": "पूर्ण छवि दृश्य",
+      "closeModal": "बंद करें"
+    },
+    "services": {
+      "title": "सेवाएं",
+      "subtitle": "आपकी ताकत, हमारा मिशन",
+      "description": "हमारे सदस्यों का समर्थन करने वाली सेवाओं और कार्यक्रमों के बारे में जानें: संघ प्रतिनिधित्व, कानूनी सलाह, प्रशिक्षण, सामूहिक समझौते और विशेष लाभ।",
+      "primaryCta": {
+        "label": "सलाहकार से संपर्क करें"
+      },
+      "items": {
+        "unionMembership": {
+          "title": "संघ सदस्यता",
+          "description": "बाजियो क्षेत्र में उपस्थिति और कई उद्योगों में प्रतिनिधित्व वाले संघ संगठन में शामिल हों।"
+        },
+        "legalAdvice": {
+          "title": "कानूनी सलाह",
+          "description": "आपके अधिकारों की रक्षा और सामूहिक समझौतों के अनुपालन के लिए विशेष श्रम सहायता और प्रबंधन।"
+        },
+        "professionalTraining": {
+          "title": "व्यावसायिक प्रशिक्षण",
+          "description": "आपके विकास और रोजगार क्षमता को बढ़ाने के लिए राज्य और शैक्षिक भागीदारों के साथ पाठ्यक्रम और कार्यक्रम।"
+        },
+        "collectiveAgreements": {
+          "title": "सामूहिक समझौते",
+          "description": "वेतन वृद्धि और व्यापक सुधार के साथ सामूहिक अनुबंधों की बातचीत और समीक्षा।"
+        },
+        "benefitsAndDiscounts": {
+          "title": "लाभ और छूट",
+          "description": "सदस्यों के लिए भाग लेने वाले प्रतिष्ठानों में विशेष लाभ और छूट।"
+        },
+        "creditsAndSupport": {
+          "title": "क्रेडिट और सहायता",
+          "description": "सार्वजनिक संस्थानों के माध्यम से वरीयता दरों के साथ उपभोक्ता ऋण कार्यक्रमों का प्रसार और पहुंच।"
+        }
+      },
+      "learnMore": "और जानें",
+      "knowMore": "और जानें"
+    },
+    "cta": {
+      "readyToJoin": "शामिल होने के लिए तैयार",
+      "brandName": "SITIMM",
+      "description": "मेक्सिको के सबसे महत्वपूर्ण संघ में शामिल हों और विशेष लाभ, श्रम सुरक्षा और विकास के अवसरों का उपयोग करें।",
+      "startAffiliation": "सदस्यता शुरू करें",
+      "downloadInfo": "जानकारी डाउनलोड करें",
+      "title": "¿Listo para formar parte de la familia {brandName}?"
+    },
+    "organization": {
+      "transparencyAndDemocracy": "पारदर्शिता और लोकतंत्र",
+      "organizationalStructure": "हमारी",
+      "structure": "संरचना",
+      "description": "हमारी संगठनात्मक संरचना और उन लोगों के बारे में जानें जो आपके श्रम अधिकारों की रक्षा के लिए हर दिन काम करते हैं।",
+      "executiveCommitteeTitle": "राष्ट्रीय कार्यकारी समिति",
+      "executiveCommitteeDesc": "लोकतांत्रिक रूप से चुने गए 35 सदस्यों से बनी संघ प्रबंधन निकाय।",
+      "unionSections": "संघ अनुभाग",
+      "unionSectionsDesc": "श्रमिकों के अधिकारों की रक्षा करने वाले प्रतिनिधियों के साथ 137 कंपनियों में प्रतिनिधित्व।",
+      "ourAdvisors": "हमारे सलाहकार",
+      "specializedCommissionsDesc": "190 विशेषज्ञ सलाहकार जो सदस्यों को सहायता और मार्गदर्शन प्रदान करते हैं।",
+      "downloadChart": "संगठन चार्ट डाउनलोड करें",
+      "viewPdf": "पूर्ण PDF देखें",
+      "chartTitle": "आधिकारिक संगठन चार्ट",
+      "chartSubtitle": "राष्ट्रीय कार्यकारी समिति 2024-2028",
+      "clickToView": "पूर्ण दस्तावेज़ देखने के लिए क्लिक करें",
+      "officialChart": "SITIMM आधिकारिक संगठन चार्ट",
+      "viewDocument": "दस्तावेज़ देखें",
+      "advisorsSubtitle": "श्रमिकों की सेवा में पेशेवर",
+      "advisorsDocument": "संघ सलाहकारों की सूची",
+      "coverAlt": "SITIMM राष्ट्रीय कार्यकारी समिति",
+      "advisors": {
+        "imageAlt": "SITIMM संघ सलाहकार",
+        "downloadPdf": "Descargar PDF de Asesores",
+        "listPlaceholder": "La lista detallada de asesores se agregará próximamente"
+      },
+      "executives": {
+        "title": "कार्यकारी समिति के सदस्य",
+        "subtitle": "SITIMM 2023-2029",
+        "positions": {
+          "generalSecretary": "महासचिव",
+          "honoraryPresident": "मानद अध्यक्ष",
+          "deputyGeneralSecretary": "उप महासचिव",
+          "assistantGeneralSecretary": "सहायक महासचिव",
+          "organizationSecretary": "संगठन सचिव",
+          "workSecretary": "श्रम सचिव",
+          "womensAttentionSecretary": "महिला मामले और लैंगिक समानता सचिव",
+          "unionEducationSecretary": "संघ शिक्षा सचिव",
+          "financeSecretary": "वित्त सचिव",
+          "politicalLinkageSecretary": "राजनीतिक संपर्क सचिव",
+          "youthAttentionSecretary": "युवा मामले और समावेश सचिव",
+          "internationalRelationsSecretary": "अंतर्राष्ट्रीय संबंध और मामले सचिव",
+          "internationalRelationsUndersecretary": "अंतर्राष्ट्रीय संबंध और मामले उप सचिव",
+          "formalEducationSecretary": "औपचारिक और श्रम शिक्षा सचिव",
+          "communicationSecretary": "संचार और संघ प्रचार सचिव",
+          "workerSportsSecretary": "श्रमिक खेल सचिव",
+          "economicAffairsSecretary": "आर्थिक मामले और रोजगार सचिव",
+          "cultureSecretary": "संस्कृति और मनोरंजन सचिव",
+          "minutesSecretary": "कार्यवृत्त और समझौते सचिव",
+          "electionsSecretary": "चुनाव और लोकतांत्रिक परामर्श सचिव",
+          "electionsUndersecretary": "चुनाव और लोकतांत्रिक परामर्श उप सचिव",
+          "statisticsSecretary": "सांख्यिकी, अनुसंधान और संघ नवाचार सचिव",
+          "legalAttentionSecretary": "व्यापक कानूनी सहायता सचिव",
+          "healthSecretary": "श्रम और पारिवारिक स्वास्थ्य सचिव",
+          "housingSecretary": "आवास मामले सचिव",
+          "pensionsSecretary": "पेंशन और सेवानिवृत्ति निधि सचिव",
+          "ecologicalPromotionSecretary": "पारिस्थितिक, श्रम और पारिवारिक प्रचार सचिव",
+          "addictionPreventionSecretary": "मार्गदर्शन और नशा रोकथाम सचिव",
+          "marginalizedGroupsSecretary": "हाशिए के समूहों की सहायता सचिव",
+          "honorCommissionPresident": "सम्मान और न्याय संघ आयोग के अध्यक्ष",
+          "honorCommissionSecretary": "सम्मान और न्याय संघ आयोग के सचिव"
+        }
+      },
+      "companies": {
+        "american": "अमेरिकी कंपनियां (AAM)",
+        "japanese": "जापानी कंपनियां",
+        "german": "जर्मन कंपनियां",
+        "mexicanAndOther": "मैक्सिकन और अन्य राष्ट्रीयताएं",
+        "service": "सेवा कंपनियां",
+        "other": "अन्य उल्लेखनीय कंपनियां"
+      },
+      "executiveCommittee": "Comité Ejecutivo Nacional",
+      "executiveCommitteeMetric": "12 integrantes",
+      "unionSectionsMetric": "500+ secciones",
+      "specializedCommissions": "Comisiones Especializadas",
+      "specializedCommissionsMetric": "15 comisiones"
+    },
+    "programs": {
+      "eyebrow": "हमारे कार्यक्रम",
+      "titleLeading": "लाभ और",
+      "titleAccent": "कार्यक्रम",
+      "titleTrailing": "सदस्यों के लिए",
+      "description": "हमारे सदस्यों और उनके परिवारों के जीवन की गुणवत्ता में सुधार के लिए डिज़ाइन किए गए सभी कार्यक्रमों और लाभों को खोजें।",
+      "knowMoreAbout": "के बारे में और जानें",
+      "knowMore": "और जानें"
+    },
+    "about": {
+      "eyebrow": "हम कौन हैं",
+      "title": {
+        "leading": "मेक्सिको का सबसे",
+        "accent": "महत्वपूर्ण",
+        "trailing": "संघ"
+      },
+      "paragraph1": "SITIMM 75 से अधिक वर्षों के इतिहास वाला एक संघ संगठन है, जो धातु विज्ञान, इस्पात और समान उद्योगों के श्रमिकों के श्रम अधिकारों की रक्षा के लिए समर्पित है।",
+      "paragraph2": "मेक्सिको के 4 राज्यों में उपस्थिति और 69,000 से अधिक सदस्यों के साथ, हम अपने सभी सदस्यों के लिए निष्पक्ष कामकाजी परिस्थितियों, उचित वेतन और विकास के अवसरों को सुनिश्चित करने के लिए हर दिन काम करते हैं।",
+      "stats": {
+        "members": "सदस्य",
+        "states": "राज्य",
+        "companies": "कंपनियां"
+      },
+      "cta": {
+        "label": "और जानें"
+      },
+      "image": {
+        "alt": "सभा में SITIMM श्रमिक",
+        "badge": "75 वर्षों का संघर्ष"
+      }
+    },
+    "missionVisionValues": {
+      "eyebrow": "हमारे सिद्धांत",
+      "titleLeading": "मिशन, दृष्टि और",
+      "titleAccent": "मूल्य",
+      "mission": {
+        "title": "मिशन",
+        "description": "उचित कामकाजी परिस्थितियों, निष्पक्ष वेतन और व्यावसायिक विकास के अवसरों को सुनिश्चित करके हमारे सदस्यों के श्रम अधिकारों की रक्षा और प्रचार करना।",
+        "imageAlt": "SITIMM मिशन"
+      },
+      "vision": {
+        "title": "दृष्टि",
+        "description": "मेक्सिको में अग्रणी संघ बनना, जो अपनी पारदर्शिता, आंतरिक लोकतंत्र और श्रमिकों की भलाई के प्रति प्रतिबद्धता के लिए मान्यता प्राप्त हो।",
+        "imageAlt": "SITIMM दृष्टि"
+      },
+      "values": {
+        "title": "मूल्य",
+        "description": "एकजुटता, ईमानदारी, पारदर्शिता, लोकतंत्र, सामाजिक न्याय और हमारे सदस्यों के प्रति प्रतिबद्धता वे स्तंभ हैं जो हमारे दैनिक कार्य का मार्गदर्शन करते हैं।",
+        "imageAlt": "SITIMM मूल्य"
+      }
+    },
+    "discountsBanner": {
+      "topBadge": "विशेष लाभ",
+      "mainTitle": "विशेष छूट",
+      "mainTitleSpecial": "सदस्यों के लिए",
+      "subtitle": "100 से अधिक",
+      "subtitleBrand": "SITIMM संबद्ध प्रतिष्ठानों में बचत करें",
+      "stats": {
+        "businesses": "Businesses",
+        "cities": "Cities",
+        "categories": "Categories",
+        "maxDiscount": "Up to"
+      },
+      "ctaText": "Show your card and save",
+      "ctaButton": "View Discounts",
+      "logoAlt": "SITIMM लोगो"
+    },
+    "appDownloadBanner": {
+      "badge": "ऐप डाउनलोड करें",
+      "title": "हमारा ऐप डाउनलोड करें",
+      "subtitle": "SITIMM के सभी लाभ अपनी जेब में लें। अपने फोन से विशेष छूट, महत्वपूर्ण सूचनाएं और बहुत कुछ एक्सेस करें।",
+      "phoneAlt": "SITIMM ऐप मॉकअप",
+      "benefits": {
+        "notifications": {
+          "title": "तत्काल सूचनाएं",
+          "description": "संघ से घटनाओं, समाचार और महत्वपूर्ण अपडेट के बारे में अलर्ट प्राप्त करें।"
+        },
+        "security": {
+          "title": "सुरक्षित एक्सेस",
+          "description": "आपकी जानकारी उच्चतम सुरक्षा मानकों से सुरक्षित है।"
+        },
+        "discounts": {
+          "title": "विशेष छूट",
+          "description": "SITIMM सदस्यों के लिए सभी छूट और प्रचार एक्सेस करें।"
+        }
+      },
+      "qr": {
+        "appStore": "App Store",
+        "playStore": "Google Play",
+        "appStoreAlt": "App Store पर डाउनलोड करने के लिए QR कोड",
+        "playStoreAlt": "Google Play पर डाउनलोड करने के लिए QR कोड"
+      },
+      "buttons": {
+        "availableOn": "पर उपलब्ध",
+        "getItOn": "पर प्राप्त करें",
+        "appStore": "App Store",
+        "playStore": "Google Play"
+      }
+    },
+    "identity": {
+      "title": "हम मेक्सिको के धातुकर्म श्रमिकों की आवाज हैं",
+      "cite": "SITIMM - मेक्सिकन गणराज्य के धातु विज्ञान, इस्पात और समान उद्योगों के श्रमिकों का संघ",
+      "ctaLabel": "हमारे इतिहास को जानें"
+    },
+    "opengraph": {
+      "brandName": "SITIMM",
+      "subtitle": "Sindicato de Trabajadores de la Industria Metálica y Metalúrgica",
+      "tagline": "Protegiendo los derechos de los trabajadores"
+    },
+    "appPromo": {
+      "appStore": "App Store",
+      "platforms": "iOS · Android",
+      "techLabel": "Tecnología Sindical",
+      "iAm": "Yo soy",
+      "brandName": "SITIMM",
+      "description": "Mantente informado y conectado con tu sindicato desde cualquier lugar.",
+      "feature1": "Comunicación efectiva",
+      "feature1Description": "entre afiliados y asesores sindicales al alcance de tu mano.",
+      "downloadApp": "Descargar la app",
+      "phoneAlt": "Pantalla de un teléfono mostrando la app del SITIMM",
+      "notifications": "Notificaciones",
+      "notificationsDesc": "Información al momento",
+      "directChat": "Chat Directo",
+      "directChatDesc": "Con asesores sindicales",
+      "documents": "Documentos",
+      "documentsDesc": "Convenios y contratos",
+      "events": "Eventos",
+      "eventsDesc": "Asambleas y actividades",
+      "availableOn": "Disponible en",
+      "getItOn": "Consíguelo en",
+      "googlePlay": "Google Play"
+    },
+    "discounts": {
+      "exclusiveBenefits": "Beneficios Exclusivos",
+      "specialDiscounts": "Descuentos",
+      "special": "Especiales",
+      "description": "Accede a descuentos exclusivos en más de 10,000 establecimientos afiliados. Desde supermercados y farmacias hasta servicios médicos y educativos.",
+      "viewAllDiscounts": "Ver Todos los Descuentos",
+      "establishments": "Establecimientos",
+      "imageAlt": "Personas revisando un convenio de descuentos",
+      "bullet1": "Hasta 30% en supermercados",
+      "bullet2": "15% en gasolineras afiliadas",
+      "bullet3": "20% en farmacias y consultorios",
+      "bullet4": "Descuentos en educación"
+    }
+  },
+  "search": {
+    "title": "खोजें",
+    "description": "सभी साइट सामग्री खोजें",
+    "placeholder": "सामग्री खोजें...",
+    "search": "खोजें",
+    "clearSearch": "खोज साफ़ करें",
+    "pageTitle": "खोजें - SITIMM",
+    "pageDescription": "सभी SITIMM साइट सामग्री खोजें: कार्यक्रम, कार्यक्रम, लाभ, ब्लॉग लेख और अधिक संघ जानकारी",
+    "noResults": "कोई परिणाम नहीं मिला",
+    "noResultsDescription": "विभिन्न खोज शब्दों का प्रयास करें या उपलब्ध फ़िल्टर का उपयोग करें",
+    "results": "{count, plural, =0 {कोई परिणाम नहीं} =1 {1 परिणाम} other {# परिणाम}}",
+    "resultsFor": "खोज परिणाम",
+    "resultFound": "परिणाम मिला",
+    "resultsFound": "परिणाम मिले",
+    "searching": "खोज रहा है...",
+    "emptyStateTitle": "खोज शुरू करें",
+    "emptyStateDescription": "कार्यक्रम, लेख, कार्यक्रम और अधिक खोजने के लिए खोज बार में एक शब्द दर्ज करें",
+    "filterByType": "प्रकार के अनुसार फ़िल्टर करें",
+    "types": {
+      "event": "कार्यक्रम",
+      "blog": "ब्लॉग",
+      "program": "कार्यक्रम",
+      "magazine": "पत्रिकाएं",
+      "faq": "सामान्य प्रश्न",
+      "bonus": "छूट",
+      "bulletin": "बुलेटिन"
+    },
+    "previous": "पिछला",
+    "next": "अगला",
+    "page": "पृष्ठ",
+    "of": "का"
+  },
+  "events": {
+    "title": "कार्यक्रम",
+    "description": "हमारे सभी कार्यक्रमों और गतिविधियों की खोज करें",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "कार्यक्रम",
+      "description": "हमारे आगामी कार्यक्रमों और गतिविधियों की खोज करें"
+    },
+    "header": {
+      "title": "संघ कार्यक्रम",
+      "description": "हमारे पाठ्यक्रमों, कार्यशालाओं, सभाओं और विशेष कार्यक्रमों के बारे में सूचित रहें। शिक्षा और भागीदारी के माध्यम से हमारे संघ समुदाय को मजबूत करना।"
+    },
+    "upcoming": "आगामी कार्यक्रम",
+    "past": "पिछले कार्यक्रम",
+    "all": "सभी",
+    "date": "तिथि",
+    "time": "समय",
+    "location": "स्थान",
+    "allLocations": "सभी स्थान",
+    "category": "श्रेणी",
+    "noEvents": "कोई कार्यक्रम उपलब्ध नहीं",
+    "noEventsDescription": "चयनित मानदंड के साथ कोई कार्यक्रम नहीं मिला",
+    "loadMore": "अधिक कार्यक्रम लोड करें",
+    "filter": "फ़िल्टर",
+    "search": "कार्यक्रम खोजें",
+    "searchPlaceholder": "कार्यक्रम खोजें...",
+    "eventsFound": "कार्यक्रम मिले",
+    "viewDetails": "विवरण देखें",
+    "requiresRegistration": "पंजीकरण आवश्यक",
+    "mobilityAvailable": "परिवहन उपलब्ध",
+    "private": "निजी",
+    "loading": "कार्यक्रम लोड हो रहे हैं...",
+    "register": "कार्यक्रम के लिए पंजीकरण करें",
+    "joinVirtual": "Zoom मीटिंग में शामिल हों",
+    "close": "बंद करें",
+    "dateAndTime": "तिथि और समय",
+    "eventDescription": "कार्यक्रम विवरण",
+    "virtualAccess": "आभासी पहुंच",
+    "joinZoomMeeting": "Zoom मीटिंग में शामिल हों",
+    "attachedFiles": "संलग्न फ़ाइलें",
+    "targetAudience": "लक्षित दर्शक",
+    "workersAndDelegates": "श्रमिक, प्रतिनिधि",
+    "registerForEvent": "कार्यक्रम के लिए पंजीकरण करें",
+    "registerViaApp": "इस कार्यक्रम के लिए पंजीकरण करने के लिए हमारे Yo Soy SITIMM ऐप का उपयोग करें",
+    "categories": {
+      "workshop": "कार्यशाला",
+      "assembly": "सभा",
+      "course": "पाठ्यक्रम"
+    },
+    "locations": {
+      "celaya": "सेलाया",
+      "irapuato": "इरापुआटो",
+      "virtual": "आभासी"
+    },
+    "a11y": {
+      "gridView": "ग्रिड दृश्य",
+      "listView": "सूची दृश्य",
+      "eventVideo": "कार्यक्रम वीडियो",
+      "eventPromotionalVideo": "कार्यक्रम प्रचार वीडियो",
+      "closeVideo": "वीडियो बंद करें",
+      "playVideo": "वीडियो चलाएं",
+      "eventImage": "कार्यक्रम छवि",
+      "eventImageAlt": "कार्यक्रम छवि: {title}",
+      "file": "file_{number}.pdf"
+    }
+  },
+  "programs": {
+    "title": "संघ कार्यक्रम",
+    "description": "SITIMM द्वारा आपके लिए तैयार किए गए सभी कार्यक्रमों और लाभों को खोजें",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "कार्यक्रम",
+      "description": "हमारे सहायता कार्यक्रमों और लाभों की खोज करें"
+    },
+    "header": {
+      "title": "SITIMM आधार कार्यक्रम",
+      "description": "SITIMM संबद्ध श्रमिकों के एकीकरण और एकता को बढ़ावा देता है ताकि उनकी सामाजिक और आर्थिक आवश्यकताओं, श्रम अधिकारों और सांस्कृतिक और संघ प्रशिक्षण के प्रबंधन और समाधान के मामले में एक सुखद संघ सेवा प्रदान की जा सके जो उन्हें अपने जीवन स्तर और काम करने की स्थिति में सुधार के अवसर प्रदान करता है। इस प्रकार, विधानसभा के आदेश से, SITIMM कार्यकारी समिति ने 5 कार्यक्रमों को लागू किया है जो अपने सदस्यों की अर्थव्यवस्था, जीवन की गुणवत्ता और मानव विकास को मजबूत करने में योगदान करते हैं।"
+    },
+    "card": {
+      "label": "कार्यक्रम",
+      "button": "अन्वेषण करें"
+    },
+    "detail": {
+      "subprogramsTitle": "उप-कार्यक्रम",
+      "subprogramLabel": "उप-कार्यक्रम",
+      "galleryButton": "गैलरी देखें",
+      "galleryModal": {
+        "title": "छवि गैलरी",
+        "close": "बंद करें",
+        "backToGallery": "गैलरी पर वापस जाएं",
+        "imageCounter": "{current} / {total}",
+        "a11y": {
+          "previousImage": "पिछली छवि",
+          "nextImage": "अगली छवि",
+          "closeGallery": "गैलरी बंद करें",
+          "imageName": "छवि"
+        }
+      },
+      "viewDetails": "कार्यक्रम विवरण देखें"
+    },
+    "a11y": {
+      "viewProgramDetails": "कार्यक्रम विवरण देखें: {title}",
+      "imageFallback": "छवि {number}"
+    },
+    "lightbox": {
+      "a11y": {
+        "closeGallery": "गैलरी बंद करें",
+        "previousImage": "पिछली छवि",
+        "nextImage": "अगली छवि",
+        "imageFallback": "छवि {number}"
+      }
+    }
+  },
+  "magazines": {
+    "title": "पत्रिकाएं",
+    "description": "SITIMM द्वारा प्रकाशित सभी पत्रिकाओं को ब्राउज़ करें",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "पत्रिकाएं",
+      "description": "हमारे प्रकाशनों और विशेष संस्करणों को पढ़ें"
+    },
+    "header": {
+      "title": "पत्रिकाएं",
+      "subtitle": "SITIMMINFORMA"
+    },
+    "readPdf": "PDF पढ़ें",
+    "noPdfAvailable": "इस पत्रिका के लिए कोई PDF उपलब्ध नहीं है",
+    "loading": "पत्रिकाएं लोड हो रही हैं...",
+    "noMagazines": "कोई पत्रिका उपलब्ध नहीं",
+    "totalMagazines": "कुल पत्रिकाएं"
+  },
+  "faq": {
+    "title": "सामान्य प्रश्न",
+    "description": "SITIMM के बारे में सबसे सामान्य प्रश्नों के उत्तर खोजें",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "सामान्य प्रश्न",
+      "description": "अपने सबसे सामान्य प्रश्नों के उत्तर खोजें"
+    },
+    "header": {
+      "label": "सामान्य प्रश्न",
+      "title": "आपके प्रश्नों के उत्तर एक स्थान पर",
+      "description": "हमने अपने सदस्यों से सबसे अधिक पूछे जाने वाले प्रश्नों को संकलित किया है। यदि आप जो खोज रहे हैं वह नहीं मिलता है, तो हमें बताएं और हम आपकी सहायता करने में खुश होंगे।"
+    },
+    "searchPlaceholder": "प्रश्न खोजें...",
+    "categories": {
+      "all": "सभी",
+      "SITIMM": "SITIMM",
+      "IMSS": "IMSS",
+      "INFONAVIT": "INFONAVIT",
+      "FONACOT": "FONACOT",
+      "AFORE": "AFORE"
+    },
+    "card": {
+      "viewMoreAbout": "इसके बारे में अधिक जानकारी देखें: {question}",
+      "closeModal": "मॉडल विंडो बंद करें",
+      "relatedVideo": "संबंधित वीडियो: {question}",
+      "usefulLinks": "उपयोगी लिंक:",
+      "moreVideos": "अधिक वीडियो:"
+    },
+    "moreInfo": "अधिक जानकारी देखें",
+    "seeMoreInfo": "अधिक जानकारी देखें",
+    "closeModal": "मॉडल विंडो बंद करें",
+    "relatedVideo": "संबंधित वीडियो",
+    "usefulLinks": "उपयोगी लिंक",
+    "moreVideos": "अधिक वीडियो",
+    "resultsCount": "{count, plural, =0 {कोई परिणाम नहीं मिला} =1 {1 परिणाम मिला} other {# परिणाम मिले}}",
+    "noResults": "कोई प्रश्न नहीं मिला",
+    "noResultsDescription": "विभिन्न खोज शब्दों का प्रयास करें या दूसरी श्रेणी चुनें",
+    "searchAriaLabel": "सामान्य प्रश्न खोजें",
+    "clearFilters": "फ़िल्टर साफ़ करें"
+  },
+  "errors": {
+    "404": {
+      "title": "पृष्ठ नहीं मिला",
+      "description": "आप जो पृष्ठ खोज रहे हैं वह मौजूद नहीं है",
+      "backHome": "होम पर वापस जाएं"
+    },
+    "500": {
+      "title": "सर्वर त्रुटि",
+      "description": "हमारे सर्वर पर कुछ गड़बड़ हुई",
+      "retry": "फिर से प्रयास करें"
+    }
+  },
+  "a11y": {
+    "skipToContent": "मुख्य सामग्री पर जाएं",
+    "closeDialog": "संवाद बंद करें",
+    "openMenu": "मेनू खोलें",
+    "closeMenu": "मेनू बंद करें",
+    "searchLabel": "खोजें",
+    "viewMore": "और देखें",
+    "viewLess": "कम देखें"
+  },
+  "ui": {
+    "alert": {
+      "closeAlert": "चेतावनी बंद करें"
+    },
+    "avatar": {
+      "defaultAlt": "अवतार",
+      "statusOnline": "स्थिति: ऑनलाइन",
+      "statusOffline": "स्थिति: ऑफ़लाइन",
+      "statusAway": "स्थिति: दूर",
+      "statusBusy": "स्थिति: व्यस्त"
+    },
+    "breadcrumbs": {
+      "ariaLabel": "ब्रेडक्रंब नेविगेशन"
+    },
+    "callToAction": {
+      "dismiss": "खारिज करें"
+    },
+    "button": {
+      "loading": "लोड हो रहा है..."
+    },
+    "searchInput": {
+      "defaultPlaceholder": "खोजें...",
+      "defaultAriaLabel": "खोज फ़ील्ड",
+      "clearSearch": "खोज साफ़ करें"
+    },
+    "searchBar": {
+      "defaultPlaceholder": "खोजें...",
+      "defaultAriaLabel": "खोज फ़ील्ड",
+      "clearSearch": "खोज साफ़ करें",
+      "toggleFilters": "फ़िल्टर टॉगल करें",
+      "filters": "फ़िल्टर",
+      "gridView": "ग्रिड दृश्य",
+      "listView": "सूची दृश्य",
+      "compactView": "कॉम्पैक्ट दृश्य",
+      "result": "परिणाम",
+      "results": "परिणाम"
+    },
+    "spinner": {
+      "loading": "लोड हो रहा है..."
+    },
+    "sectionRenderer": {
+      "notImplemented": "अनुभाग प्रकार \"{type}\" अभी तक लागू नहीं किया गया है",
+      "comingSoon": "जल्द आ रहा है...",
+      "unknownType": "अज्ञात अनुभाग प्रकार"
+    }
+  },
+  "auth": {
+    "loading": "लोड हो रहा है...",
+    "pleaseLogin": "इस पृष्ठ तक पहुंचने के लिए कृपया लॉगिन करें",
+    "accessDenied": "पहुंच अस्वीकृत। केवल व्यवस्थापक।",
+    "context": {
+      "loginFailed": "लॉगिन विफल",
+      "registrationFailed": "पंजीकरण विफल",
+      "useAuthError": "useAuth का उपयोग AuthProvider के भीतर किया जाना चाहिए"
+    }
+  },
+  "blog": {
+    "title": "ब्लॉग",
+    "description": "SITIMM से नवीनतम समाचार और अपडेट के बारे में सूचित रहें",
+    "header": {
+      "label": "ब्लॉग",
+      "title": "समाचार और अपडेट",
+      "description": "SITIMM से नवीनतम समाचार, कार्यक्रमों और उपलब्धियों के साथ अद्यतित रहें। यहां आप हमारी गतिविधियों और सदस्यों पर प्रभाव के बारे में प्रासंगिक जानकारी पाएंगे।"
+    },
+    "searchPlaceholder": "लेख खोजें...",
+    "filter": "फ़िल्टर",
+    "postsFound": "पोस्ट मिले",
+    "viewMode": {
+      "grid": "ग्रिड दृश्य",
+      "list": "सूची दृश्य"
+    },
+    "readMore": "और पढ़ें",
+    "by": "द्वारा",
+    "noResults": "कोई लेख नहीं मिला",
+    "noResultsDescription": "विभिन्न शब्दों के साथ खोजने का प्रयास करें",
+    "loading": "लेख लोड हो रहे हैं...",
+    "post": {
+      "updated": "अद्यतन",
+      "shareArticle": "इस लेख को साझा करें:",
+      "backToBlog": "ब्लॉग पर वापस जाएं",
+      "socialMedia": {
+        "twitter": "ट्विटर",
+        "facebook": "फेसबुक",
+        "linkedin": "लिंक्डइन"
+      }
+    },
+    "a11y": {
+      "articleImage": "लेख छवि: {title}",
+      "readFullArticle": "पूर्ण लेख पढ़ें: {title}",
+      "postedOn": "{date} को पोस्ट किया गया",
+      "searchArticles": "ब्लॉग लेख खोजें",
+      "changeView": "लेख दृश्य बदलें",
+      "filterArticles": "ब्लॉग लेख फ़िल्टर करें",
+      "searchAriaLabel": "लेख खोजें",
+      "openFilters": "फ़िल्टर खोलें"
+    },
+    "filters": {
+      "category": "श्रेणी",
+      "tags": "टैग",
+      "clear": "फ़िल्टर साफ़ करें"
+    },
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "ब्लॉग",
+      "description": "संघ से समाचार और अपडेट"
+    }
+  },
+  "bonuses": {
+    "label": "लाभ",
+    "title": "लाभ और छूट",
+    "description": "SITIMM सदस्यों के लिए सभी विशेष छूट खोजें। अपना सदस्यता कार्ड प्रस्तुत करके, स्वास्थ्य सेवाओं, सौंदर्य, भोजन, मनोरंजन और बहुत कुछ पर छूट प्राप्त करें।",
+    "searchPlaceholder": "व्यवसाय, पते या छूट खोजें...",
+    "result": "लाभ",
+    "results": "लाभ",
+    "viewDetails": "{business} का विवरण देखें",
+    "off": "छूट",
+    "filter": "फ़िल्टर",
+    "viewMode": "दृश्य मोड",
+    "gridView": "ग्रिड",
+    "listView": "सूची",
+    "compactView": "संक्षिप्त",
+    "mapView": "मानचित्र",
+    "filterByCategory": "श्रेणी",
+    "allCategories": "सभी श्रेणियां",
+    "filterByCity": "शहर",
+    "allCities": "सभी शहर",
+    "sortBy": "इसके अनुसार क्रमबद्ध करें",
+    "sortByName": "नाम",
+    "sortByDiscount": "छूट",
+    "sortByCity": "शहर",
+    "sortByCategory": "श्रेणी",
+    "noResults": "कोई लाभ नहीं मिला",
+    "noResultsDescription": "विभिन्न फ़िल्टर या खोज शब्दों का प्रयास करें",
+    "mapComingSoon": "मानचित्र जल्द आ रहा है",
+    "mapDescription": "हम एक इंटरैक्टिव मानचित्र पर सभी व्यवसायों को दिखाने के लिए काम कर रहे हैं",
+    "discount": "छूट",
+    "address": "पता",
+    "city": "शहर",
+    "category": "श्रेणी",
+    "brandName": "SITIMM",
+    "call": "कॉल करें",
+    "website": "वेबसाइट",
+    "web": "वेब",
+    "reserve": "आरक्षित करें",
+    "requiresReservation": "आरक्षण आवश्यक",
+    "moreInfo": "+{count} और",
+    "paymentMethods": {
+      "card": "कार्ड स्वीकार",
+      "cardTooltip": "क्रेडिट/डेबिट कार्ड",
+      "cash": "नकद स्वीकार",
+      "cashTooltip": "नकद"
+    },
+    "amenities": {
+      "accessible": "सुलभ",
+      "wifi": "वाईफाई",
+      "parking": "पार्किंग"
+    },
+    "badges": {
+      "featured": "विशेष",
+      "new": "नया"
+    },
+    "modal": {
+      "close": "बंद करें",
+      "discount": "छूट",
+      "validity": "शर्तें",
+      "redemptionCode": "छूट कोड",
+      "copyCode": "कोड कॉपी करें",
+      "address": "पता",
+      "hours": "समय",
+      "phone": "फ़ोन",
+      "website": "वेबसाइट",
+      "visitWebsite": "वेबसाइट पर जाएं",
+      "amenities": "सुविधाएं",
+      "paymentMethods": "भुगतान विधियां",
+      "viewOnMap": "मानचित्र पर देखें",
+      "gallery": "तस्वीरें"
+    },
+    "logoAlt": "{business} लोगो",
+    "filters": "फ़िल्टर",
+    "categories": "श्रेणियां",
+    "all": "सभी",
+    "minDiscountLabel": "न्यूनतम छूट: {discount}%",
+    "specials": "विशेष",
+    "featured": "विशेष रुप से प्रदर्शित",
+    "new": "नया",
+    "opengraph": {
+      "title": "लाभ और छूट",
+      "description": "सदस्यों के लिए विशेष छूट"
+    },
+    "categoryNames": {
+      "Salud": "स्वास्थ्य",
+      "Belleza": "सौंदर्य",
+      "Alimentos y Bebidas": "खाद्य और पेय",
+      "Gimnasios": "जिम",
+      "Entretenimiento": "मनोरंजन",
+      "Educación": "शिक्षा",
+      "Moda y Calzado": "फैशन और जूते",
+      "Joyería": "आभूषण",
+      "Hogar y Muebles": "घर और फर्नीचर",
+      "Ferreterías": "हार्डवेयर स्टोर",
+      "Tecnología": "प्रौद्योगिकी",
+      "Automotriz": "ऑटोमोटिव",
+      "Servicios Funerarios": "अंतिम संस्कार सेवाएं",
+      "Fotografía": "फोटोग्राफी",
+      "Papelería": "स्टेशनरी",
+      "Dulcería": "कैंडी स्टोर",
+      "Florería": "फूलों की दुकान",
+      "Lavandería": "लॉन्ड्री",
+      "Hoteles": "होटल",
+      "Seguros": "बीमा",
+      "Viajes": "यात्रा",
+      "Tiendas de Abarrotes": "किराने की दुकानें",
+      "Botánica": "वनस्पति",
+      "Sonido": "ध्वनि",
+      "Limpieza": "सफाई",
+      "Bicicletas": "साइकिल",
+      "Artesanía": "हस्तशिल्प",
+      "Otros": "अन्य"
+    }
+  },
+  "bulletins": {
+    "label": "बुलेटिन",
+    "title": "सूचना बुलेटिन",
+    "description": "SITIMM द्वारा प्रकाशित सभी बुलेटिनों को ब्राउज़ करें। संघ समाचार, कार्यक्रमों और गतिविधियों के बारे में सूचित रहें।",
+    "searchPlaceholder": "बुलेटिन खोजें...",
+    "result": "बुलेटिन",
+    "results": "बुलेटिन",
+    "filter": "फ़िल्टर",
+    "gridView": "ग्रिड",
+    "listView": "सूची",
+    "filterByType": "बुलेटिन प्रकार",
+    "allTypes": "सभी प्रकार",
+    "general": "सामान्य",
+    "sport": "खेल",
+    "filterByYear": "वर्ष",
+    "allYears": "सभी वर्ष",
+    "sortBy": "इसके अनुसार क्रमबद्ध करें",
+    "sortByNewest": "नवीनतम",
+    "sortByOldest": "सबसे पुराना",
+    "sortByTitle": "शीर्षक",
+    "noResults": "कोई बुलेटिन नहीं मिला",
+    "noResultsDescription": "विभिन्न फ़िल्टर या खोज शब्दों का प्रयास करें",
+    "viewPdf": "PDF देखें",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "बुलेटिन",
+      "description": "सभी सूचना बुलेटिनों को ब्राउज़ करें"
+    }
+  },
+  "notFound": {
+    "title": "पृष्ठ नहीं मिला",
+    "description": "क्षमा करें, आप जो पृष्ठ खोज रहे हैं वह मौजूद नहीं है या स्थानांतरित कर दिया गया है। कृपया URL की जांच करें या नेविगेट करने के लिए नीचे दिए गए लिंक का उपयोग करें।",
+    "goHome": "होम पर जाएं",
+    "search": "खोजें",
+    "goBack": "वापस जाएं",
+    "helpfulLinks": "उपयोगी लिंक",
+    "links": {
+      "blog": "ब्लॉग",
+      "events": "कार्यक्रम",
+      "programs": "कार्यक्रम",
+      "benefits": "छूट",
+      "faq": "सामान्य प्रश्न",
+      "magazines": "पत्रिकाएं"
+    }
+  },
+  "appBanner": {
+    "title": "SITIMM ऐप में खोलें",
+    "description": "मोबाइल ऐप में बेहतर अनुभव",
+    "open": "खोलें",
+    "dismiss": "बंद करें"
+  },
+  "appPromotion": {
+    "title": "Yo Soy SITIMM ऐप डाउनलोड करें",
+    "subtitle": "अपने फ़ोन से सभी लाभों और सेवाओं तक पहुंचें। QR कोड स्कैन करें या सीधे डाउनलोड करें।",
+    "downloadOn": "पर डाउनलोड करें",
+    "getItOn": "पर उपलब्ध",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "downloadIOS": "iOS के लिए डाउनलोड करें",
+    "downloadAndroid": "Android के लिए डाउनलोड करें",
+    "iosQrAlt": "App Store पर डाउनलोड करने के लिए QR कोड",
+    "androidQrAlt": "Google Play पर डाउनलोड करने के लिए QR कोड",
+    "featureSecure": "सुरक्षित पहुंच",
+    "featureFast": "तेज़ और आसान",
+    "featureNotifications": "सूचनाएं"
+  },
+  "deepLink": {
+    "title": "ऐप में खोलें",
+    "description": "यदि आपने इंस्टॉल किया है, तो यह पेज SITIMM मोबाइल ऐप में स्वचालित रूप से खुलेगा।",
+    "openApp": "ऐप में खोलें",
+    "continueWeb": "ब्राउज़र में जारी रखें",
+    "noApp": "ऐप नहीं है? डाउनलोड करें:",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "privacyPolicy": {
+    "title": "उपयोग की शर्तें - Yo Soy SITIMM",
+    "description": "धातु-यांत्रिक उद्योग श्रमिक संघ के Yo Soy SITIMM एप्लिकेशन के उपयोग की शर्तें",
+    "pageTitle": "TERMS AND CONDITIONS OF USE OF THE \"YO SOY SITIMM\" APPLICATION",
+    "sections": {
+      "intellectualProperty": {
+        "title": "Intellectual and Industrial Property Rights",
+        "content": "The Service and all materials included or transferred, including, without limitation, software, images, text, graphics, logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music and all Intellectual Property Rights related to them, are the exclusive property of the Union of Workers of the Metal-Mechanical, Automotive, Similar and Related Industries of the Mexican Republic (SITIMM). Unless explicitly stated in this document, nothing in these Terms shall be deemed to create a license in or under any such Intellectual Property Rights, and you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works thereof."
+      },
+      "scope": {
+        "title": "Scope and Use",
+        "p1": "The user of the application understands and accepts that although it is operated by the Union of Workers of the Metal-Mechanical, Automotive, Similar and Related Industries of the Mexican Republic (hereinafter SITIMM), the information contained therein will be that relating to their contractual relationship, through the Collective Labor Agreement, with the workers of the companies affiliated to the Union (hereinafter THE USERS), therefore, the functionalities offered by the application will be delivered by SITIMM according to their affiliation.",
+        "p2": "The application will make information available to THE USERS and/or allow interaction between the parties. SITIMM may add, modify or remove functionalities at any time, which the user accepts by installing the application. In any case, when making such modifications, they will be notified to the user through the same mobile application once they log in.",
+        "p3": "The user accepts and authorizes that the electronic records of the mentioned activities carried out in the application constitute full proof of them."
+      },
+      "suspension": {
+        "title": "Right to Suspend or Cancel User Account",
+        "p1": "We may terminate or suspend permanently or temporarily THE USERS' access to the service, without prior notice and liability for any reason, even if at our sole discretion they violate any provision of these terms or any applicable law or regulation. Without prejudice to the foregoing.",
+        "p2": "Likewise, when any of THE USERS ceases to work for the company to which they are affiliated, their access to the application will be suspended, once SITIMM becomes aware of such event through the updated list of workers.",
+        "p3": "However, if this user enters to work for any of the affiliated companies, they will have access to the application again."
+      },
+      "indemnification": {
+        "title": "Indemnification",
+        "content": "THE USERS will be penalized, in accordance with the provisions of the precepts of the infringed matter, resulting from inappropriate use of the application, violation of intellectual property rights, attempts to steal information, unacceptable conduct, exploitation of flaws or errors."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "p1": "To the maximum extent permitted by applicable law, SITIMM shall not be liable for any indirect, punitive, incidental, special, consequential or exemplary damages, including, without limitation, damages for loss of profits, goodwill, use, data or other intangible losses, arising out of or related to the use of or inability to use the application.",
+        "p2": "To the maximum extent permitted by applicable law, SITIMM assumes no liability for (i) errors, mistakes or inaccuracies of content; (ii) personal injury or property damage, of any nature whatsoever, as a result of access to or use of our application; and (iii) any unauthorized access to or use of our secure servers and/or all personal information stored therein."
+      },
+      "modifications": {
+        "title": "Right to Change and Modify the Terms",
+        "content": "SITIMM reserves the right to modify these terms at our sole discretion. Therefore, THE USERS should review these pages periodically. Continued use of the Application or our service after such change constitutes THE USERS' acceptance of the new Terms. If any of THE USERS do not accept these terms or any future version thereof, they should not use or access (or continue to access) the website, Application or service."
+      },
+      "privacy": {
+        "title": "Use of Information and Privacy",
+        "p1": "By downloading the Application, THE USERS accept and authorize SITIMM to use their data as data controller for purposes derived from the execution of the Application.",
+        "p2": "SITIMM reserves the right to monitor THE USERS' activity in the Application in order to generate statistical information necessary for the control and improvement of the services and content offered by the Union and the Application.",
+        "p3": "The information provided in any of the communication mechanisms provided in the Application will be recorded in the Application's information storage systems and SITIMM reserves the right to maintain it at the end of the use of the Application or the relationship with THE USERS."
+      },
+      "termination": {
+        "title": "Termination of Benefits",
+        "content": "All processes, actions, petitions or follow-ups are subject to the current status of THE USERS within the affiliated companies, and may terminate without notice or resolution in case of termination of their relationship with them."
+      },
+      "obligations": {
+        "title": "Obligations of THE USERS",
+        "intro": "THE USERS agree to use the Application and the contents found therein in a diligent, correct, lawful manner and in particular, undertake NOT to perform the conduct described below:",
+        "items": [
+          "(a) Use the contents for purposes or effects contrary to law, morality and generally accepted good customs or public order;",
+          "(b) Reproduce, copy, represent, use, distribute, transform or modify the contents of the Application, by any procedure or on any support, in whole or in part, or allow public access through any form of public communication;",
+          "(c) Use the contents in any way that entails a risk of damage or disabling of the Application or the contents or third parties;",
+          "(d) Suppress, circumvent or manipulate copyright and other identifying data of copyright rights incorporated into the contents, as well as technical protection devices, or any information mechanisms that the contents may have;",
+          "(e) Use the contents and, in particular, information of any kind obtained through the application to distribute, transmit, send, modify, refuse or report advertising or contents thereof for direct sale purposes or with any other kind of commercial purpose, unsolicited messages addressed to a plurality of people regardless of their purpose, as well as market or disclose such information in any way;",
+          "(f) Allow third parties to use the mobile application with their key;",
+          "(g) Use the application and contents for lawful and/or unlawful purposes, contrary to what is established in these Terms and Conditions, or to the use of the Application itself, that are harmful to the rights and interests of third parties, or that in any way may damage, disable, overload or deteriorate the application and contents or prevent the normal use or enjoyment thereof by THE USERS."
+        ]
+      },
+      "final": {
+        "title": "Final Provisions",
+        "content": "These Terms and Conditions of Use are governed entirely by Mexican law. For the resolution of any conflict related to their interpretation or application, THE USERS expressly submit to the jurisdiction of the courts of Irapuato, Guanajuato, Mexico."
+      }
+    }
+  },
+  "error": {
+    "title": "कुछ गलत हो गया",
+    "description": "एक अप्रत्याशित त्रुटि हुई है। कृपया फिर से प्रयास करें या होम पेज पर लौटें।",
+    "technicalDetails": "तकनीकी विवरण (केवल विकास)",
+    "errorDigest": "त्रुटि ID",
+    "tryAgain": "फिर से प्रयास करें",
+    "goHome": "होम पर जाएं",
+    "helpText": "यदि समस्या बनी रहती है, तो कृपया तकनीकी सहायता से संपर्क करें।"
+  },
+  "chatbot": {
+    "welcomeBubble": {
+      "greeting": "👋 नमस्ते! मैं आपकी कैसे मदद कर सकता हूं?",
+      "message": "मैं SITIMM के बारे में आपके सवालों का जवाब देने के लिए यहां हूं।",
+      "demoGreeting": "👋 डेमो मोड सक्रिय!",
+      "demoMessage": "चैटबॉट डेमो मोड में है। हर कोई इसे देख और उपयोग कर सकता है।"
+    }
+  }
+}

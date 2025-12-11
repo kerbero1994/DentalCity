@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Salud",
+    "icon": "Heart",
+    "color": "#ef4444",
+    "count": 15
+  },
+  {
+    "name": "Belleza",
+    "icon": "Scissors",
+    "color": "#ec4899",
+    "count": 2
+  },
+  {
+    "name": "Alimentos y Bebidas",
+    "icon": "UtensilsCrossed",
+    "color": "#f97316",
+    "count": 6
+  },
+  {
+    "name": "Gimnasios",
+    "icon": "Dumbbell",
+    "color": "#8b5cf6",
+    "count": 4
+  },
+  {
+    "name": "Entretenimiento",
+    "icon": "PartyPopper",
+    "color": "#06b6d4",
+    "count": 3
+  },
+  {
+    "name": "Educación",
+    "icon": "GraduationCap",
+    "color": "#3b82f6",
+    "count": 2
+  },
+  {
+    "name": "Moda y Calzado",
+    "icon": "Shirt",
+    "color": "#a855f7",
+    "count": 13
+  },
+  {
+    "name": "Joyería",
+    "icon": "Gem",
+    "color": "#fbbf24",
+    "count": 3
+  },
+  {
+    "name": "Hogar y Muebles",
+    "icon": "Home",
+    "color": "#84cc16",
+    "count": 1
+  },
+  {
+    "name": "Ferreterías",
+    "icon": "Wrench",
+    "color": "#64748b",
+    "count": 2
+  },
+  {
+    "name": "Tecnología",
+    "icon": "Laptop",
+    "color": "#6366f1",
+    "count": 1
+  },
+  {
+    "name": "Automotriz",
+    "icon": "Car",
+    "color": "#0ea5e9",
+    "count": 6
+  },
+  {
+    "name": "Servicios Funerarios",
+    "icon": "Cross",
+    "color": "#475569",
+    "count": 4
+  },
+  {
+    "name": "Fotografía",
+    "icon": "Camera",
+    "color": "#f59e0b",
+    "count": 1
+  },
+  {
+    "name": "Papelería",
+    "icon": "FileText",
+    "color": "#14b8a6",
+    "count": 2
+  },
+  {
+    "name": "Dulcería",
+    "icon": "Candy",
+    "color": "#f472b6",
+    "count": 1
+  },
+  {
+    "name": "Florería",
+    "icon": "Flower",
+    "color": "#d946ef",
+    "count": 1
+  },
+  {
+    "name": "Lavandería",
+    "icon": "Sparkles",
+    "color": "#22d3ee",
+    "count": 2
+  },
+  {
+    "name": "Hoteles",
+    "icon": "Hotel",
+    "color": "#10b981",
+    "count": 1
+  },
+  {
+    "name": "Seguros",
+    "icon": "Shield",
+    "color": "#059669",
+    "count": 1
+  },
+  {
+    "name": "Viajes",
+    "icon": "Plane",
+    "color": "#0891b2",
+    "count": 1
+  },
+  {
+    "name": "Tiendas de Abarrotes",
+    "icon": "ShoppingCart",
+    "color": "#65a30d",
+    "count": 16
+  },
+  {
+    "name": "Botánica",
+    "icon": "Leaf",
+    "color": "#15803d",
+    "count": 0
+  },
+  {
+    "name": "Sonido",
+    "icon": "Volume2",
+    "color": "#7c3aed",
+    "count": 1
+  },
+  {
+    "name": "Limpieza",
+    "icon": "Droplet",
+    "color": "#2563eb",
+    "count": 1
+  },
+  {
+    "name": "Bicicletas",
+    "icon": "Bike",
+    "color": "#dc2626",
+    "count": 1
+  },
+  {
+    "name": "Artesanía",
+    "icon": "Palette",
+    "color": "#c026d3",
+    "count": 1
+  }
+]

@@ -1,0 +1,10 @@
+echo "🔦 Running Lighthouse performance audit..."
+echo "⚠️  This may take a few minutes..."
+
+# Kill any existing dev servers on port 3031 to avoid conflicts
+lsof -ti:3031 | xargs kill -9 2>/dev/null || true
+
+# Run lighthouse (it will start and stop the dev server automatically)
+npm run lighthouse
+
+echo "✅ Lighthouse audit passed!"

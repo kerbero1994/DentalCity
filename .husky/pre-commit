@@ -1,0 +1,13 @@
+echo "🔍 Running linting and validation..."
+npx lint-staged
+
+echo "🌐 Validating translations..."
+npm run i18n:validate
+
+echo "📝 Generating translation types..."
+npm run i18n:types
+
+echo "✅ Type checking..."
+npm run type-check
+
+echo "✅ All pre-commit checks passed!"

@@ -1,0 +1,2199 @@
+{
+  "bonuses": [
+    {
+      "id": 208,
+      "uuid": "2fe33bfd-7084-4c8e-a9dc-5c685d847b64",
+      "business": "AIRE ACONDICIONADO AUTOMOTRIZ \"SEGOVIA\"",
+      "address": " CALLE MARIANO ABASOLO #1571 COLONIA LOS PRESIDENTES \nTEL. 462 182 0956",
+      "discount": "20% ",
+      "city": "IRAPUATO",
+      "createdAt": "2022-04-04T16:07:06.487Z",
+      "updatedAt": "2024-08-09T19:10:02.240Z",
+      "deletedAt": null,
+      "category": "Automotriz",
+      "categoryIcon": "Car",
+      "categoryColor": "#0ea5e9",
+      "discountNormalized": {
+        "min": 20,
+        "max": 20,
+        "type": "percentage",
+        "original": "20% "
+      }
+    },
+    {
+      "id": 292,
+      "uuid": "0d3cfb27-9ded-4f50-b47a-ec6148a48951",
+      "business": "“Aladino” Joyas",
+      "address": "Michoacán # 27 Tel: 418 187 9873 y 418 182 4082 \n",
+      "discount": "40% de descuento",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2023-10-19T15:50:07.275Z",
+      "updatedAt": "2023-10-19T15:50:07.275Z",
+      "deletedAt": null,
+      "category": "Joyería",
+      "categoryIcon": "Gem",
+      "categoryColor": "#fbbf24",
+      "discountNormalized": {
+        "min": 40,
+        "max": 40,
+        "type": "percentage",
+        "original": "40% de descuento"
+      }
+    },
+    {
+      "id": 290,
+      "uuid": "a48d7899-b9d3-466d-9f6f-86c80bd1bab9",
+      "business": "ATENCION PSICOLÓGICA ",
+      "address": "Fracc. LAS TROJES",
+      "discount": "30% de descuento en cada sesion del tratamiento.\nAplica para el trabajador, conyuge, hijos y padres.\nTel. 429 107 64 48  ",
+      "city": "IRAPUATO",
+      "createdAt": "2023-01-09T18:54:55.512Z",
+      "updatedAt": "2023-01-09T19:05:34.301Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 30,
+        "max": 429,
+        "type": "percentage",
+        "original": "30% de descuento en cada sesion del tratamiento.\nAplica para el trabajador, conyuge, hijos y padres.\nTel. 429 107 64 48  "
+      }
+    },
+    {
+      "id": 197,
+      "uuid": "6f502160-65c2-4e46-850b-3eb72306a180",
+      "business": "Balneario Acuabella",
+      "address": "Carr. San José Iturbide Dc. Mora km.18 Loma de los Terreros SJI.",
+      "discount": "15% de descuento en entrada general.",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2022-03-09T23:46:55.666Z",
+      "updatedAt": "2022-03-09T23:46:55.666Z",
+      "deletedAt": null,
+      "category": "Entretenimiento",
+      "categoryIcon": "PartyPopper",
+      "categoryColor": "#06b6d4",
+      "discountNormalized": {
+        "min": 15,
+        "max": 15,
+        "type": "percentage",
+        "original": "15% de descuento en entrada general."
+      }
+    },
+    {
+      "id": 296,
+      "uuid": "c6fc1d12-ab9b-420f-a31a-bf578543ab36",
+      "business": "Balneario “El Oasis”",
+      "address": "Carretera a San Felipe Km. 7 Tel: 418 110 6878",
+      "discount": "$60.00 pesos de descuento",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2023-10-19T15:59:34.159Z",
+      "updatedAt": "2023-10-19T15:59:34.159Z",
+      "deletedAt": null,
+      "category": "Entretenimiento",
+      "categoryIcon": "PartyPopper",
+      "categoryColor": "#06b6d4",
+      "discountNormalized": {
+        "min": 60,
+        "max": 60,
+        "type": "fixed",
+        "original": "$60.00 pesos de descuento"
+      }
+    },
+    {
+      "id": 55,
+      "uuid": "536090b9-20ea-402a-97d7-3bbf527c6014",
+      "business": "BARDA PONCE",
+      "address": "PROL. AV. INSURGENTES N°397",
+      "discount": "30%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.891Z",
+      "updatedAt": "2020-03-10T07:16:32.891Z",
+      "deletedAt": null,
+      "category": "Alimentos y Bebidas",
+      "categoryIcon": "UtensilsCrossed",
+      "categoryColor": "#f97316",
+      "discountNormalized": {
+        "min": 30,
+        "max": 30,
+        "type": "percentage",
+        "original": "30%"
+      }
+    },
+    {
+      "id": 21,
+      "uuid": "cdbec34a-f4b3-44a2-ab36-50fd67506f53",
+      "business": "BEST DENTAL CLÍNICAS DENTIBUS",
+      "address": "BLVD. GÓMEZ MORÍN N°4036 PLANTA ALTA",
+      "discount": "25% EN TODOS LOS TRATAMIENTOS, BRACKETS, SIN PAGO INICIAL",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.888Z",
+      "updatedAt": "2020-03-10T07:16:32.888Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 25,
+        "max": 25,
+        "type": "percentage",
+        "original": "25% EN TODOS LOS TRATAMIENTOS, BRACKETS, SIN PAGO INICIAL"
+      }
+    },
+    {
+      "id": 241,
+      "uuid": "645512c6-c377-4546-9ad3-14b835d108ce",
+      "business": "Bio Dental- Dra. Gabriela Rangel Loya",
+      "address": "Marco Polo #13 Fracc. Las Arboledas",
+      "discount": "Odontología General del 10 al 20% --Cirugía maxilofacial y bucal 10 y 15%--- Implantología 10%---\nEndodoncia 10 y 15% --- Ortodoncia 15% inicial--- Ortopedia funcional de los  maxilares 15% inicial--- Prótesis fija, Removible y  prostodoncia 10% inicial.\n",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2022-08-30T19:37:20.954Z",
+      "updatedAt": "2022-08-30T19:37:20.954Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 10,
+        "max": 20,
+        "type": "percentage",
+        "original": "Odontología General del 10 al 20% --Cirugía maxilofacial y bucal 10 y 15%--- Implantología 10%---\nEndodoncia 10 y 15% --- Ortodoncia 15% inicial--- Ortopedia funcional de los  maxilares 15% inicial--- Prótesis fija, Removible y  prostodoncia 10% inicial.\n"
+      }
+    },
+    {
+      "id": 307,
+      "uuid": "35a84dbf-1037-4aa4-8dd5-de033b375e8e",
+      "business": "CALZA MAGIC",
+      "address": "CALLE JUÁREZ #189 ZONA CENTRO",
+      "discount": "10% DE DESCUENTO",
+      "city": "IRAPUATO",
+      "createdAt": "2024-01-26T17:35:18.553Z",
+      "updatedAt": "2024-01-26T17:35:18.553Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10% DE DESCUENTO"
+      }
+    },
+    {
+      "id": 301,
+      "uuid": "5be7fc31-ef8e-4770-923a-b3b02bc8ce34",
+      "business": "Carnicerías Ibarra",
+      "address": "Río Nilo 540 Tel: 418 182 2726",
+      "discount": "Promociones del Día",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2023-10-19T17:35:53.039Z",
+      "updatedAt": "2023-10-19T17:35:53.039Z",
+      "deletedAt": null,
+      "category": "Alimentos y Bebidas",
+      "categoryIcon": "UtensilsCrossed",
+      "categoryColor": "#f97316",
+      "discountNormalized": {
+        "min": 0,
+        "max": 0,
+        "type": "special",
+        "original": "Promociones del Día"
+      }
+    },
+    {
+      "id": 45,
+      "uuid": "4d2b2294-f277-44bd-93d6-e1b97b3d7317",
+      "business": "\"CARNITAS MICHOACAN\", BOTANAS Y BANQUETES",
+      "address": "BLVD. LOS REYES N° 247 ESQ. AV. SOLIDARIDAD Y SUCURSALES DE RINCONADA DE LOS ARCOS Y AVENIDA ARANDAS",
+      "discount": "10%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.890Z",
+      "updatedAt": "2020-05-15T00:49:28.826Z",
+      "deletedAt": null,
+      "category": "Alimentos y Bebidas",
+      "categoryIcon": "UtensilsCrossed",
+      "categoryColor": "#f97316",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 163,
+      "uuid": "da624e63-7bb4-49be-a3b5-e070d846dae7",
+      "business": "CENTRO BOTANICO \"LA ORTIGA\"",
+      "address": "CALLE MANUEL DOBLADO ESQUINA CON CALLE ALVARO OBREGON ZONA CENTRO Y AVENIDA GUANAJUATO # 1043 COLONIA EL REFUGIO",
+      "discount": "15% DESCUENTO EN COMPRA TOTAL A PARTIR DE $200.00",
+      "city": "IRAPUATO",
+      "createdAt": "2020-05-15T00:39:06.072Z",
+      "updatedAt": "2020-05-15T00:39:06.072Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 200,
+        "max": 200,
+        "type": "fixed",
+        "original": "15% DESCUENTO EN COMPRA TOTAL A PARTIR DE $200.00"
+      }
+    },
+    {
+      "id": 171,
+      "uuid": "1fc25791-21e0-44a9-a4c4-78b3f3d87295",
+      "business": "CENTRO ÓPTICO",
+      "address": "BOULEVARD ADOLFO LÓPEZ MATEOS #207, A IN LADO DE PINTURAS BEREL",
+      "discount": "10%",
+      "city": "CELAYA",
+      "createdAt": "2020-07-09T17:44:42.295Z",
+      "updatedAt": "2020-07-09T17:44:42.295Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 126,
+      "uuid": "0edaf51e-5bec-44db-8f1e-6c2ac137a356",
+      "business": "CICLO PEÑA",
+      "address": "PORTAL CONSTITUCIÓN N° 228-A\n",
+      "discount": "10% EN REFACCIONES Y 5% EN BICICLETAS\n",
+      "city": "VILLAGRÁN",
+      "createdAt": "2020-03-19T18:01:37.820Z",
+      "updatedAt": "2020-03-19T18:01:37.820Z",
+      "deletedAt": null,
+      "category": "Bicicletas",
+      "categoryIcon": "Bike",
+      "categoryColor": "#dc2626",
+      "discountNormalized": {
+        "min": 5,
+        "max": 10,
+        "type": "percentage",
+        "original": "10% EN REFACCIONES Y 5% EN BICICLETAS\n"
+      }
+    },
+    {
+      "id": 199,
+      "uuid": "007ad862-b801-49da-9622-538b61587328",
+      "business": "Comercial Allende",
+      "address": "Allende #51 Zona Centro.",
+      "discount": "10% de descuento compras generales",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2022-03-09T23:49:29.510Z",
+      "updatedAt": "2022-03-09T23:49:29.510Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10% de descuento compras generales"
+      }
+    },
+    {
+      "id": 120,
+      "uuid": "182e846f-0b62-4a26-b1e0-4e304a5e0b57",
+      "business": "CONSULTORIO DEL  DR PODÓLOGO",
+      "address": "MORELOS 134 INT 9 CONSULTORIO 9\n",
+      "discount": "30%",
+      "city": "CELAYA",
+      "createdAt": "2020-03-19T17:46:36.920Z",
+      "updatedAt": "2020-03-19T17:46:36.920Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 30,
+        "max": 30,
+        "type": "percentage",
+        "original": "30%"
+      }
+    },
+    {
+      "id": 294,
+      "uuid": "bae9968a-6916-41e8-bb0b-455dfe4b5e8f",
+      "business": "Consultorio Dental",
+      "address": "Salvador González #2 Tel: 418 105 9548",
+      "discount": "10% al 15%  de descuento",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2023-10-19T15:51:48.649Z",
+      "updatedAt": "2023-10-19T15:51:48.649Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 10,
+        "max": 15,
+        "type": "percentage",
+        "original": "10% al 15%  de descuento"
+      }
+    },
+    {
+      "id": 286,
+      "uuid": "a712dff0-51a0-41fb-a4d6-689d942225d3",
+      "business": "CONSULTORIO DENTAL",
+      "address": "Leandro valle #475 altos, zona centro",
+      "discount": "20% general.\nAplica para trabajador, conyuge, hijos y padres.\nTel. 462 627 13 77",
+      "city": "IRAPUATO",
+      "createdAt": "2023-01-09T18:15:51.616Z",
+      "updatedAt": "2023-01-09T19:10:33.456Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 13,
+        "max": 627,
+        "type": "percentage",
+        "original": "20% general.\nAplica para trabajador, conyuge, hijos y padres.\nTel. 462 627 13 77"
+      }
+    },
+    {
+      "id": 52,
+      "uuid": "c6d7b4cc-fd0d-4330-aa98-53fab6709093",
+      "business": "CONSULTORIO DENTAL LAGUNILLA",
+      "address": "LAGUNILLA N°643-1 COL. 12 DE DICIEMBRE",
+      "discount": "15%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.891Z",
+      "updatedAt": "2020-07-11T04:44:49.536Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 15,
+        "max": 15,
+        "type": "percentage",
+        "original": "15%"
+      }
+    },
+    {
+      "id": 297,
+      "uuid": "2c050b84-23f6-4fec-b680-c1ac5c190fd5",
+      "business": "Consultorio de Psicología",
+      "address": "Hidalgo #63 Tel: 418 132 7526",
+      "discount": "40% de descuento",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2023-10-19T16:00:09.422Z",
+      "updatedAt": "2023-10-19T16:00:09.422Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 40,
+        "max": 40,
+        "type": "percentage",
+        "original": "40% de descuento"
+      }
+    },
+    {
+      "id": 299,
+      "uuid": "04a772f2-748a-4106-9b54-eb39085f1187",
+      "business": "Consultorio Médico",
+      "address": "Insurgentes #210 Tel: 418 110 0082",
+      "discount": "20% de descuento",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2023-10-19T17:34:18.650Z",
+      "updatedAt": "2023-10-19T17:34:18.650Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 20,
+        "max": 20,
+        "type": "percentage",
+        "original": "20% de descuento"
+      }
+    },
+    {
+      "id": 287,
+      "uuid": "a36c254b-9ee8-48b9-916c-0754a82a8f7f",
+      "business": "CORPORATIVO DENTAL MIS BRACKETS",
+      "address": "Plaza fieta local 9-b",
+      "discount": "25% de descuento en tratamientos dentales. Aplica para trabajadores, conyuge , hijos y padres.\nTel. 462 369 49 21\nTel. 462 368 30 92 \nTel. 462 113 33 69 \nTel. 462 375 78 16 ",
+      "city": "IRAPUATO",
+      "createdAt": "2023-01-09T18:28:42.356Z",
+      "updatedAt": "2023-01-09T19:13:05.542Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 16,
+        "max": 462,
+        "type": "percentage",
+        "original": "25% de descuento en tratamientos dentales. Aplica para trabajadores, conyuge , hijos y padres.\nTel. 462 369 49 21\nTel. 462 368 30 92 \nTel. 462 113 33 69 \nTel. 462 375 78 16 "
+      }
+    },
+    {
+      "id": 303,
+      "uuid": "8a9a059f-dc28-4bfe-91ee-58be3ba75dc3",
+      "business": "CORPORATIVO DENTAL MIS BRACKETS",
+      "address": "PLAZA FIESA LOSCAL 9-B, EXTERIOR DE LA CENTRAL CAMIONERA EN EL ESTACIONAMIENTO, GOMEZ MORIN #3475 PLAZA SANTA LUCIA Y PLAZA FIESTA LOCAL 4-H",
+      "discount": "25% EN TRATAMIENTOS DENTALES",
+      "city": "IRAPUATO",
+      "createdAt": "2024-01-26T17:32:57.532Z",
+      "updatedAt": "2024-01-26T17:32:57.532Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 25,
+        "max": 25,
+        "type": "percentage",
+        "original": "25% EN TRATAMIENTOS DENTALES"
+      }
+    },
+    {
+      "id": 285,
+      "uuid": "c7fa4fc9-ebb0-4afe-b496-020aec96e57a",
+      "business": "COSMETICA FACIAL",
+      "address": "Blvd. Díaz Ordaz #361 zona centro y Blvd. Gomez Morin #3631 Col. Las heras. ",
+      "discount": "15% de descuento general. \nAplica para el trabajador, conyuge, hijos y padres\nTel. 462 621 83 83\nTel. 462 20043 94",
+      "city": "IRAPUATO",
+      "createdAt": "2023-01-09T18:07:47.331Z",
+      "updatedAt": "2023-01-09T19:09:19.290Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 15,
+        "max": 20043,
+        "type": "percentage",
+        "original": "15% de descuento general. \nAplica para el trabajador, conyuge, hijos y padres\nTel. 462 621 83 83\nTel. 462 20043 94"
+      }
+    },
+    {
+      "id": 283,
+      "uuid": "3cb1fad4-c2e5-45b4-b39a-f24079a3777e",
+      "business": "DENTAL MINT",
+      "address": "Bvld. Diaz Ordaz #361, zona centro",
+      "discount": "20% general. Aplica para trabajador, conyuge, hijos y padres.\nTel. 462 200 43 94",
+      "city": "IRAPUATO",
+      "createdAt": "2023-01-09T17:39:42.972Z",
+      "updatedAt": "2023-01-09T18:56:12.558Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 20,
+        "max": 462,
+        "type": "percentage",
+        "original": "20% general. Aplica para trabajador, conyuge, hijos y padres.\nTel. 462 200 43 94"
+      }
+    },
+    {
+      "id": 305,
+      "uuid": "d6bfa6ce-650b-4eed-9595-6b214a3f9a5e",
+      "business": "DENTALO MX",
+      "address": "CALZADA DE LAS VILLAS ",
+      "discount": "15% DESCUENTO",
+      "city": "IRAPUATO",
+      "createdAt": "2024-01-26T17:34:31.403Z",
+      "updatedAt": "2024-01-26T17:34:31.403Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 15,
+        "max": 15,
+        "type": "percentage",
+        "original": "15% DESCUENTO"
+      }
+    },
+    {
+      "id": 39,
+      "uuid": "c05d7446-8439-4f82-a330-56fc0733e895",
+      "business": "DEPORTES LUGÓN",
+      "address": "PORTAL CARRANZA N°12 Z.C.",
+      "discount": "10%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.890Z",
+      "updatedAt": "2020-03-10T07:16:32.890Z",
+      "deletedAt": null,
+      "category": "Gimnasios",
+      "categoryIcon": "Dumbbell",
+      "categoryColor": "#8b5cf6",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 282,
+      "uuid": "d2e78b84-3c82-4e34-9807-73bf6fbe0682",
+      "business": "Distrito Tecnológico",
+      "address": "Ayuntamiento 5\nTel 4731343222",
+      "discount": "10%",
+      "city": "SILAO DE LA VICTORIA",
+      "createdAt": "2022-11-17T21:21:01.832Z",
+      "updatedAt": "2022-11-17T21:21:01.832Z",
+      "deletedAt": null,
+      "category": "Tecnología",
+      "categoryIcon": "Laptop",
+      "categoryColor": "#6366f1",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 202,
+      "uuid": "4d0801e1-d0cf-4318-b993-466d32ffcc6a",
+      "business": "Dulcería Universo",
+      "address": "Libramiento poniente #42",
+      "discount": "15% de descuento",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2022-03-09T23:53:08.068Z",
+      "updatedAt": "2022-03-09T23:53:08.068Z",
+      "deletedAt": null,
+      "category": "Dulcería",
+      "categoryIcon": "Candy",
+      "categoryColor": "#f472b6",
+      "discountNormalized": {
+        "min": 15,
+        "max": 15,
+        "type": "percentage",
+        "original": "15% de descuento"
+      }
+    },
+    {
+      "id": 207,
+      "uuid": "f5154662-a235-427d-83ff-212c287f3cf9",
+      "business": "EL ASADOR DE GEN",
+      "address": "BLVD. PASEO SOLIDARIDAD #10770, COL. LAS DELICIAS \nTEL. 462 431 62 39\nTEL. 462 264 72 00",
+      "discount": "10% EN UN CONSUMO MÍNIMO DE $500",
+      "city": "IRAPUATO",
+      "createdAt": "2022-04-04T16:04:49.000Z",
+      "updatedAt": "2022-10-18T15:11:22.390Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 500,
+        "max": 500,
+        "type": "fixed",
+        "original": "10% EN UN CONSUMO MÍNIMO DE $500"
+      }
+    },
+    {
+      "id": 159,
+      "uuid": "c53cb13c-0158-4596-9f7a-ba58efb0dccc",
+      "business": "\"EL PARNA\" ARTICULOS PARA EL HOGAR Y DE TEMPORADA",
+      "address": "MERCADO HIDALGO MESAS 163 Y 164",
+      "discount": "DEL 5% AL 15% SEGUN COMPRA DE ARTICULO",
+      "city": "IRAPUATO",
+      "createdAt": "2020-05-15T00:29:26.968Z",
+      "updatedAt": "2020-05-15T00:29:26.968Z",
+      "deletedAt": null,
+      "category": "Hogar y Muebles",
+      "categoryIcon": "Home",
+      "categoryColor": "#84cc16",
+      "discountNormalized": {
+        "min": 5,
+        "max": 15,
+        "type": "percentage",
+        "original": "DEL 5% AL 15% SEGUN COMPRA DE ARTICULO"
+      }
+    },
+    {
+      "id": 165,
+      "uuid": "ec3a5e50-ffee-4995-802e-038d8cae6582",
+      "business": "ESCUELA DE FUTBOL \"PACHUCA FILIAL IRAPUATO\" CEFOR",
+      "address": "CAMPOS MARISTAS DEL COLEGIO PEDRO MARTINEZ VAZQUEZ, COLONIA C.F.E.",
+      "discount": "50% EN INSCRIPCION Y 30% EN MENSUALIDAD",
+      "city": "IRAPUATO",
+      "createdAt": "2020-05-15T00:43:55.391Z",
+      "updatedAt": "2020-05-15T00:43:55.391Z",
+      "deletedAt": null,
+      "category": "Gimnasios",
+      "categoryIcon": "Dumbbell",
+      "categoryColor": "#8b5cf6",
+      "discountNormalized": {
+        "min": 30,
+        "max": 50,
+        "type": "percentage",
+        "original": "50% EN INSCRIPCION Y 30% EN MENSUALIDAD"
+      }
+    },
+    {
+      "id": 304,
+      "uuid": "142a3c34-4ea2-4a94-9d58-f6293b4edc74",
+      "business": "ESTUDIO JAZMIN” (ALACIADOS PERMANENTES, MANICURA, PEDICURA, PESTAÑAS, MAQUILLAJE PROFESIONAL, EXTENSIONES DE CABELLO, UÑAS Y TINTES",
+      "address": "CALLE GENOVA NUMERO 627 INTERIOR 2, FRACCIONAMIENTO RESIDENCIAL CAMPESTRE",
+      "discount": "15% DE DESCUENTO",
+      "city": "IRAPUATO",
+      "createdAt": "2024-01-26T17:33:34.676Z",
+      "updatedAt": "2024-01-26T17:33:34.676Z",
+      "deletedAt": null,
+      "category": "Belleza",
+      "categoryIcon": "Scissors",
+      "categoryColor": "#ec4899",
+      "discountNormalized": {
+        "min": 15,
+        "max": 15,
+        "type": "percentage",
+        "original": "15% DE DESCUENTO"
+      }
+    },
+    {
+      "id": 15,
+      "uuid": "f5d02214-d2fb-4828-b292-cf813d3e9e13",
+      "business": "EXPRESIÓN VIOLETA",
+      "address": "GUADALUPE VICTORIA N° 301-A COL. LAS ARBOLEDAS",
+      "discount": "20%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.887Z",
+      "updatedAt": "2022-03-31T00:13:55.837Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 20,
+        "max": 20,
+        "type": "percentage",
+        "original": "20%"
+      }
+    },
+    {
+      "id": 300,
+      "uuid": "0d59fee1-939a-4983-ab79-04f3e7f9310e",
+      "business": "Farmacia Papillón",
+      "address": "Insurgentes #210 Tel: 418 110 0082",
+      "discount": "20% de descuento",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2023-10-19T17:35:25.520Z",
+      "updatedAt": "2023-10-19T17:35:25.520Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 20,
+        "max": 20,
+        "type": "percentage",
+        "original": "20% de descuento"
+      }
+    },
+    {
+      "id": 32,
+      "uuid": "224d8cdf-39f6-4cec-981f-dc5d7dfa52ad",
+      "business": "FLORERÍA D´MARGARITA",
+      "address": "INT. MERCADO HIDALGO MESA 39",
+      "discount": "10%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.889Z",
+      "updatedAt": "2020-03-10T07:16:32.889Z",
+      "deletedAt": null,
+      "category": "Florería",
+      "categoryIcon": "Flower",
+      "categoryColor": "#d946ef",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 302,
+      "uuid": "ecb3428b-8623-445b-a971-6b00f274e182",
+      "business": "Force Gym",
+      "address": "Guerrero #33 Tel: 418 110 0070",
+      "discount": "10% de descuento",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2023-10-19T17:36:18.726Z",
+      "updatedAt": "2023-10-19T17:36:18.726Z",
+      "deletedAt": null,
+      "category": "Gimnasios",
+      "categoryIcon": "Dumbbell",
+      "categoryColor": "#8b5cf6",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10% de descuento"
+      }
+    },
+    {
+      "id": 198,
+      "uuid": "3d08ec76-a9b6-487e-9548-035e0a704cf8",
+      "business": "Fotos Morales",
+      "address": "Aldaba #6-A Zona Centro San José Iturbide",
+      "discount": "30% de descuento menudeo 40% de descuento mayoreo.",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2022-03-09T23:48:09.096Z",
+      "updatedAt": "2022-03-09T23:48:09.096Z",
+      "deletedAt": null,
+      "category": "Fotografía",
+      "categoryIcon": "Camera",
+      "categoryColor": "#f59e0b",
+      "discountNormalized": {
+        "min": 30,
+        "max": 40,
+        "type": "percentage",
+        "original": "30% de descuento menudeo 40% de descuento mayoreo."
+      }
+    },
+    {
+      "id": 243,
+      "uuid": "e8359b0a-8122-4aea-9d2c-e8a807ffb4b6",
+      "business": "Funerales \"La Cruz\"",
+      "address": "Tel. 4191014903\nTel. 4191542695\n",
+      "discount": "Paquetes desde $10,000 (ataúd de madera, equipo de velación, trámites, carroza, mobiliario, moño, cafetería básica).",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2022-10-17T20:05:35.884Z",
+      "updatedAt": "2022-10-17T20:05:35.884Z",
+      "deletedAt": null,
+      "category": "Servicios Funerarios",
+      "categoryIcon": "Cross",
+      "categoryColor": "#475569",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "fixed",
+        "original": "Paquetes desde $10,000 (ataúd de madera, equipo de velación, trámites, carroza, mobiliario, moño, cafetería básica)."
+      }
+    },
+    {
+      "id": 200,
+      "uuid": "85278866-d312-42c2-ae95-1afde7a1a101",
+      "business": "Funerales Monarca",
+      "address": "Frente a la Glorieta Bicentenario s/n Col. La Huerta",
+      "discount": "15% de descuento en paquetes funerarios",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2022-03-09T23:50:31.464Z",
+      "updatedAt": "2022-03-09T23:50:31.464Z",
+      "deletedAt": null,
+      "category": "Servicios Funerarios",
+      "categoryIcon": "Cross",
+      "categoryColor": "#475569",
+      "discountNormalized": {
+        "min": 15,
+        "max": 15,
+        "type": "percentage",
+        "original": "15% de descuento en paquetes funerarios"
+      }
+    },
+    {
+      "id": 28,
+      "uuid": "aeaf1268-43a9-4122-a36c-8f23eb681060",
+      "business": "FUNERALES PAZ Y BIEN",
+      "address": "CALZADA INSURENTES N°438 ESQ. CALLE ÉBANO",
+      "discount": "30% PAGO INMEDIATO 50% PREVENCIÓN TELEFONO DE ATENCION: 462 185 98 78",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.889Z",
+      "updatedAt": "2020-05-15T00:52:50.708Z",
+      "deletedAt": null,
+      "category": "Servicios Funerarios",
+      "categoryIcon": "Cross",
+      "categoryColor": "#475569",
+      "discountNormalized": {
+        "min": 30,
+        "max": 462,
+        "type": "percentage",
+        "original": "30% PAGO INMEDIATO 50% PREVENCIÓN TELEFONO DE ATENCION: 462 185 98 78"
+      }
+    },
+    {
+      "id": 66,
+      "uuid": "dddbc6da-d207-4ef7-8c37-aa6df95df085",
+      "business": "FUNERALES SAN RAFAEL DEL CENTRO, S.A. DE C.V.",
+      "address": "BENITO JUÁREZ N°434-A Z.C.",
+      "discount": "20%",
+      "city": "CELAYA",
+      "createdAt": "2020-03-10T07:16:32.892Z",
+      "updatedAt": "2020-03-10T07:16:32.892Z",
+      "deletedAt": null,
+      "category": "Servicios Funerarios",
+      "categoryIcon": "Cross",
+      "categoryColor": "#475569",
+      "discountNormalized": {
+        "min": 20,
+        "max": 20,
+        "type": "percentage",
+        "original": "20%"
+      }
+    },
+    {
+      "id": 17,
+      "uuid": "4456dbce-a4a8-4211-a809-f683a028424e",
+      "business": "GRUPO ZONA DE PTTS, S.A. DE C.V. (TALLER MECÁNICO) ",
+      "address": "AV. GUADALUPE VICTORIA N°2061 FRACC. GUERRERO",
+      "discount": "10%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.887Z",
+      "updatedAt": "2020-03-10T07:16:32.887Z",
+      "deletedAt": null,
+      "category": "Educación",
+      "categoryIcon": "GraduationCap",
+      "categoryColor": "#3b82f6",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 288,
+      "uuid": "2d058767-ce99-41e5-95b2-d7d7f9c517d0",
+      "business": "JAICER FERRETERO",
+      "address": "Revolucion #414 Col. Independencia",
+      "discount": "10% de descuento",
+      "city": "IRAPUATO",
+      "createdAt": "2023-01-09T18:39:28.389Z",
+      "updatedAt": "2023-01-09T18:56:59.467Z",
+      "deletedAt": null,
+      "category": "Ferreterías",
+      "categoryIcon": "Wrench",
+      "categoryColor": "#64748b",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10% de descuento"
+      }
+    },
+    {
+      "id": 122,
+      "uuid": "515ac73e-fae7-4b2d-9d3d-a0f06638edac",
+      "business": "JOYERIA Y REGALOS LA CALZADA",
+      "address": "CALZADA INDEPENDENCIA 101-C\n",
+      "discount": "20% EN TODA LA TIENDA, EXCEPTO PROMOCIONES\n",
+      "city": "CELAYA",
+      "createdAt": "2020-03-19T17:47:40.352Z",
+      "updatedAt": "2020-03-19T17:47:40.352Z",
+      "deletedAt": null,
+      "category": "Artesanía",
+      "categoryIcon": "Palette",
+      "categoryColor": "#c026d3",
+      "discountNormalized": {
+        "min": 20,
+        "max": 20,
+        "type": "percentage",
+        "original": "20% EN TODA LA TIENDA, EXCEPTO PROMOCIONES\n"
+      }
+    },
+    {
+      "id": 60,
+      "uuid": "cdfb1df1-6891-4428-a06f-e05633903afb",
+      "business": "KASA HOTEL & SUITES",
+      "address": "JUVENTINO ROSAS N°444 Z.C.",
+      "discount": "10%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.892Z",
+      "updatedAt": "2020-03-10T07:16:32.892Z",
+      "deletedAt": null,
+      "category": "Hoteles",
+      "categoryIcon": "Hotel",
+      "categoryColor": "#10b981",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 291,
+      "uuid": "8b2ae198-c2e8-459c-8aa2-53f42a6efb5d",
+      "business": "Laboratorio Nuestra Señora de la Luz",
+      "address": "Plaza Principal #30-A  Tel: 418 182 0530\n",
+      "discount": "30% de descuento",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2023-10-19T15:49:06.129Z",
+      "updatedAt": "2023-10-19T15:49:06.129Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 30,
+        "max": 30,
+        "type": "percentage",
+        "original": "30% de descuento"
+      }
+    },
+    {
+      "id": 308,
+      "uuid": "7734211b-b4f6-4b0b-839d-cf7a66775e0f",
+      "business": "LAVANDERÍA DULCE AROMA",
+      "address": "IRAPUATO #5, FRACC. GUANAJUATO",
+      "discount": "15% DE DESCUENTO",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2024-07-30T18:28:10.256Z",
+      "updatedAt": "2024-07-30T18:28:10.256Z",
+      "deletedAt": null,
+      "category": "Lavandería",
+      "categoryIcon": "Sparkles",
+      "categoryColor": "#22d3ee",
+      "discountNormalized": {
+        "min": 15,
+        "max": 15,
+        "type": "percentage",
+        "original": "15% DE DESCUENTO"
+      }
+    },
+    {
+      "id": 293,
+      "uuid": "04dbbd43-56c8-4452-8ef6-e07e66664ce5",
+      "business": "Lavandería “Rafa”",
+      "address": "Río Nilo esq. Río Papaloapan #520 Tel: 444 165 7389 ",
+      "discount": "10% de descuento",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2023-10-19T15:50:40.456Z",
+      "updatedAt": "2023-10-19T15:50:40.456Z",
+      "deletedAt": null,
+      "category": "Lavandería",
+      "categoryIcon": "Sparkles",
+      "categoryColor": "#22d3ee",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10% de descuento"
+      }
+    },
+    {
+      "id": 14,
+      "uuid": "9e4cbca6-be37-4c41-b7cd-ef01cfafd64e",
+      "business": "LAVISTA SERVICIOS ÓPTICOS",
+      "address": "GUERRERO N°1302 INT. 4-D",
+      "discount": "20%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.887Z",
+      "updatedAt": "2020-03-10T07:16:32.887Z",
+      "deletedAt": null,
+      "category": "Salud",
+      "categoryIcon": "Heart",
+      "categoryColor": "#ef4444",
+      "discountNormalized": {
+        "min": 20,
+        "max": 20,
+        "type": "percentage",
+        "original": "20%"
+      }
+    },
+    {
+      "id": 284,
+      "uuid": "9b48372f-d639-483b-9273-be1c335f3e27",
+      "business": "LF BARRIENTOS MUEBLERIA",
+      "address": "zona centro, Blvd. Díaz Ordaz #1150, Lerdo de tejada #500 y 20 de noviembre #230",
+      "discount": "5%-15% de descuento.\nTel. 462 197 11 52\nTel. 462 170 87 19",
+      "city": "IRAPUATO",
+      "createdAt": "2023-01-09T17:59:28.480Z",
+      "updatedAt": "2023-01-09T19:17:36.557Z",
+      "deletedAt": null,
+      "category": "Alimentos y Bebidas",
+      "categoryIcon": "UtensilsCrossed",
+      "categoryColor": "#f97316",
+      "discountNormalized": {
+        "min": 5,
+        "max": 462,
+        "type": "percentage",
+        "original": "5%-15% de descuento.\nTel. 462 197 11 52\nTel. 462 170 87 19"
+      }
+    },
+    {
+      "id": 2,
+      "uuid": "4f961dc8-d9f5-4f6c-9e49-50fdc639b505",
+      "business": "MARISCOS EL OSTIÓN",
+      "address": "MERCADO HIDALGO INTERIOR CUADRO 1 MESAS 19 Y 20",
+      "discount": "10% EN CONSUMO TOTAL",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.886Z",
+      "updatedAt": "2020-05-15T00:46:45.352Z",
+      "deletedAt": null,
+      "category": "Alimentos y Bebidas",
+      "categoryIcon": "UtensilsCrossed",
+      "categoryColor": "#f97316",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10% EN CONSUMO TOTAL"
+      }
+    },
+    {
+      "id": 278,
+      "uuid": "51d88e6a-ce77-488b-abba-b4270b9753fa",
+      "business": "MODA HOMBRE",
+      "address": "5 DE MAYO S/N CENTRO COMERCIAL LA JOYA, LOCAL #8\nTEL. 472 748 4131\n",
+      "discount": "15%",
+      "city": "SILAO DE LA VICTORIA",
+      "createdAt": "2022-10-18T18:39:20.904Z",
+      "updatedAt": "2022-10-18T18:39:20.904Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 15,
+        "max": 15,
+        "type": "percentage",
+        "original": "15%"
+      }
+    },
+    {
+      "id": 277,
+      "uuid": "3c830ca2-4b62-499e-99a3-8346d16690a1",
+      "business": "MODA HOMBRE",
+      "address": "CALLE ZARAGOZA #4 ALTOS\nTEL. 472 722 29 23\n",
+      "discount": "15% ",
+      "city": "SILAO DE LA VICTORIA",
+      "createdAt": "2022-10-18T18:37:17.861Z",
+      "updatedAt": "2022-10-18T18:37:17.861Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 15,
+        "max": 15,
+        "type": "percentage",
+        "original": "15% "
+      }
+    },
+    {
+      "id": 295,
+      "uuid": "7905cced-564b-44de-a0c0-69b5b7bc50e6",
+      "business": "Monster Gym",
+      "address": "Av. Mariano Jiménez #270 Tel 418 184 4466",
+      "discount": "25% de descuento",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2023-10-19T15:54:37.779Z",
+      "updatedAt": "2023-10-19T15:54:37.779Z",
+      "deletedAt": null,
+      "category": "Gimnasios",
+      "categoryIcon": "Dumbbell",
+      "categoryColor": "#8b5cf6",
+      "discountNormalized": {
+        "min": 25,
+        "max": 25,
+        "type": "percentage",
+        "original": "25% de descuento"
+      }
+    },
+    {
+      "id": 201,
+      "uuid": "67101841-59cb-439a-ab95-4b90a2de7987",
+      "business": "Mundo de Papel",
+      "address": "Aldama #41 Zona Centro",
+      "discount": "10% de descuento",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2022-03-09T23:51:22.426Z",
+      "updatedAt": "2022-03-09T23:51:22.426Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10% de descuento"
+      }
+    },
+    {
+      "id": 176,
+      "uuid": "0071c26f-fb37-4470-9aa3-39b769645309",
+      "business": "NEW AGE LANGUAGE (NAL)",
+      "address": "CALLE ZACATECAS #208 COL. VILLA DE LOS REYES (EL ZAPOTE)\n5 DE MAYO #105 INT.1 ZONA CENTRO\n(461)6150560",
+      "discount": "INSCRIPCIÓN AFILIADO SITIMM $200 (PRECIO NORMAL $400)\nMENSUALIDAD AFILIADO SITIMM $800 (PRECIO NORMAL $1000)",
+      "city": "CELAYA",
+      "createdAt": "2020-07-18T01:13:03.031Z",
+      "updatedAt": "2020-07-18T01:13:03.031Z",
+      "deletedAt": null,
+      "category": "Educación",
+      "categoryIcon": "GraduationCap",
+      "categoryColor": "#3b82f6",
+      "discountNormalized": {
+        "min": 1000,
+        "max": 1000,
+        "type": "fixed",
+        "original": "INSCRIPCIÓN AFILIADO SITIMM $200 (PRECIO NORMAL $400)\nMENSUALIDAD AFILIADO SITIMM $800 (PRECIO NORMAL $1000)"
+      }
+    },
+    {
+      "id": 309,
+      "uuid": "385230c6-1244-4171-85c0-27cc37c81a21",
+      "business": "NUTRIOLOGO ADAN TAPIA SANCHEZ (NEGOCIO NUTRICION CLINIC)",
+      "address": "MINA #36, CENTRO DE SAN JOSE ITURBIDE, GTO ",
+      "discount": "10% DE DESCUENTO ",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2024-08-10T17:08:04.233Z",
+      "updatedAt": "2024-08-10T17:08:04.233Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10% DE DESCUENTO "
+      }
+    },
+    {
+      "id": 298,
+      "uuid": "d34d2b20-15d9-48ac-ac08-c0aafe4d2b3a",
+      "business": "Panadería San Carlos",
+      "address": "Prol. Justicia #5 Tel: 462 139 4260 ",
+      "discount": "14% de descuento",
+      "city": "DOLORES HIDALGO",
+      "createdAt": "2023-10-19T17:33:46.910Z",
+      "updatedAt": "2023-10-19T17:33:46.910Z",
+      "deletedAt": null,
+      "category": "Alimentos y Bebidas",
+      "categoryIcon": "UtensilsCrossed",
+      "categoryColor": "#f97316",
+      "discountNormalized": {
+        "min": 14,
+        "max": 14,
+        "type": "percentage",
+        "original": "14% de descuento"
+      }
+    },
+    {
+      "id": 244,
+      "uuid": "4687509e-fa24-48ce-8c33-a1f91cf10ea1",
+      "business": "Papelería Raser",
+      "address": "Moctezuma #42 \nCol. Centro de San José Iturbide\nTel. 419 101 12 00",
+      "discount": "17% en todos los productos presentando su credencial de afiliación SITIMM",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2022-10-17T20:25:13.839Z",
+      "updatedAt": "2022-10-17T20:25:13.839Z",
+      "deletedAt": null,
+      "category": "Papelería",
+      "categoryIcon": "FileText",
+      "categoryColor": "#14b8a6",
+      "discountNormalized": {
+        "min": 17,
+        "max": 17,
+        "type": "percentage",
+        "original": "17% en todos los productos presentando su credencial de afiliación SITIMM"
+      }
+    },
+    {
+      "id": 12,
+      "uuid": "2cbfa7a0-5348-45bd-beb0-c30938362343",
+      "business": "PAPER ZONE",
+      "address": "OAXACA N°2032 FRACC. GUERRERO",
+      "discount": "5%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.887Z",
+      "updatedAt": "2020-03-10T07:16:32.887Z",
+      "deletedAt": null,
+      "category": "Papelería",
+      "categoryIcon": "FileText",
+      "categoryColor": "#14b8a6",
+      "discountNormalized": {
+        "min": 5,
+        "max": 5,
+        "type": "percentage",
+        "original": "5%"
+      }
+    },
+    {
+      "id": 158,
+      "uuid": "fb31bd97-714d-4f9b-9d6d-7a748f73b219",
+      "business": "PARQUE ACUÁTICO \"VILLAGASCA\"",
+      "address": "Noreste de Villagrán Km 6\nVillagrán (Guanajuato)\n",
+      "discount": "Menores de 4 años: Sin Costo\nEntre 5 y 10 años: $100 (32% de descuento)\nDe 11 años en adelante: $200(32% de descuento)\n\nPresentarse directamente con la Credencial de Afiliación al SITIMM, de Trabajador y Elector.  Aplica para el titular y 4 acompañantes.\n\nNo aplica en Semana Santa ni Semana de Pascua. \n\nVálido hasta Diciembre 2024.",
+      "city": "VILLAGRÁN",
+      "createdAt": "2020-03-26T03:57:08.431Z",
+      "updatedAt": "2024-04-25T19:18:48.631Z",
+      "deletedAt": null,
+      "category": "Entretenimiento",
+      "categoryIcon": "PartyPopper",
+      "categoryColor": "#06b6d4",
+      "discountNormalized": {
+        "min": 2024,
+        "max": 2024,
+        "type": "fixed",
+        "original": "Menores de 4 años: Sin Costo\nEntre 5 y 10 años: $100 (32% de descuento)\nDe 11 años en adelante: $200(32% de descuento)\n\nPresentarse directamente con la Credencial de Afiliación al SITIMM, de Trabajador y Elector.  Aplica para el titular y 4 acompañantes.\n\nNo aplica en Semana Santa ni Semana de Pascua. \n\nVálido hasta Diciembre 2024."
+      }
+    },
+    {
+      "id": 30,
+      "uuid": "bcf95564-752c-42ff-acf6-130f67a6e294",
+      "business": "PINTURAS PRISA",
+      "address": "AV. 1° DE MAYO N°479 FRENTE CENTRAL CAMIONERA",
+      "discount": "15% AL 10% COMPRA CUBETA",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.889Z",
+      "updatedAt": "2020-03-10T07:16:32.889Z",
+      "deletedAt": null,
+      "category": "Ferreterías",
+      "categoryIcon": "Wrench",
+      "categoryColor": "#64748b",
+      "discountNormalized": {
+        "min": 10,
+        "max": 15,
+        "type": "percentage",
+        "original": "15% AL 10% COMPRA CUBETA"
+      }
+    },
+    {
+      "id": 245,
+      "uuid": "f9f02972-bea2-4116-813a-dde673a9aaea",
+      "business": "Podología Integral ",
+      "address": "Moctezuma #38 \nCol. Centro \nTel. 419 180 18 76",
+      "discount": "25% ",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2022-10-17T20:27:15.222Z",
+      "updatedAt": "2022-10-17T20:27:15.222Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 25,
+        "max": 25,
+        "type": "percentage",
+        "original": "25% "
+      }
+    },
+    {
+      "id": 42,
+      "uuid": "01db2daa-7daf-45df-9784-43c5b73264e8",
+      "business": "PRODUCTOS DE LIMPIEZA LIMELY",
+      "address": "MANUEL M. PONCE N°156 GUTY CÁRDENAS EL CANTADOR",
+      "discount": "15% A PARTIR DE $ 300.00",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.890Z",
+      "updatedAt": "2020-03-10T07:16:32.890Z",
+      "deletedAt": null,
+      "category": "Limpieza",
+      "categoryIcon": "Droplet",
+      "categoryColor": "#2563eb",
+      "discountNormalized": {
+        "min": 300,
+        "max": 300,
+        "type": "fixed",
+        "original": "15% A PARTIR DE $ 300.00"
+      }
+    },
+    {
+      "id": 279,
+      "uuid": "65d3f0c4-8219-4a15-b981-dce6a437989d",
+      "business": "QUÁLITAS COMPAÑÍA DE SEGUROS",
+      "address": "CARRETERA ROMITA-SILAO \nTEL. 432  688 0445",
+      "discount": "30% EN VEHÍCULOS PARTICULARES (NO APLICA EN MOTOS)",
+      "city": "ROMITA",
+      "createdAt": "2022-10-18T18:53:03.368Z",
+      "updatedAt": "2022-10-18T18:53:03.368Z",
+      "deletedAt": null,
+      "category": "Seguros",
+      "categoryIcon": "Shield",
+      "categoryColor": "#059669",
+      "discountNormalized": {
+        "min": 30,
+        "max": 30,
+        "type": "percentage",
+        "original": "30% EN VEHÍCULOS PARTICULARES (NO APLICA EN MOTOS)"
+      }
+    },
+    {
+      "id": 26,
+      "uuid": "a1afbf65-eb3c-4ad8-8f74-202237be3eaa",
+      "business": "QUINTA SANTA LUISA (BALNEARIO Y SALÓN DE FIESTAS)",
+      "address": "CAMINO A LA GARRIDA N°35 EJIDO LO DE JUÁREZ",
+      "discount": "20% ENTRADA 15% EVENTOS",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.888Z",
+      "updatedAt": "2020-03-10T07:16:32.888Z",
+      "deletedAt": null,
+      "category": "Belleza",
+      "categoryIcon": "Scissors",
+      "categoryColor": "#ec4899",
+      "discountNormalized": {
+        "min": 15,
+        "max": 20,
+        "type": "percentage",
+        "original": "20% ENTRADA 15% EVENTOS"
+      }
+    },
+    {
+      "id": 48,
+      "uuid": "56c10580-d4bc-40da-abd3-5d2245ab87ab",
+      "business": "REFACCIONARIA TALAVERA",
+      "address": "PRIMO VERDAD N°628 ESQ. MANUEL ACUÑA BARRIO SAN CAYETANO",
+      "discount": "10%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.891Z",
+      "updatedAt": "2020-03-10T07:16:32.891Z",
+      "deletedAt": null,
+      "category": "Automotriz",
+      "categoryIcon": "Car",
+      "categoryColor": "#0ea5e9",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 44,
+      "uuid": "d576a2da-6c6f-4496-8ba7-6b05d201215e",
+      "business": "REFACCIONARIA TALAVERA",
+      "address": "CALZADA INSURGENTES N°760 PONIENTE",
+      "discount": "10%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.890Z",
+      "updatedAt": "2020-03-10T07:16:32.890Z",
+      "deletedAt": null,
+      "category": "Automotriz",
+      "categoryIcon": "Car",
+      "categoryColor": "#0ea5e9",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 184,
+      "uuid": "db02ac07-3c5e-4f88-b77b-48f56eb60246",
+      "business": "RYSE ABASTOS",
+      "address": "CENTRAL DE ABASTOS SALIDA A PUEBLO NUEVO,\nANDÉN BODEGA 32 ",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "IRAPUATO",
+      "createdAt": "2021-11-02T23:13:22.919Z",
+      "updatedAt": "2021-11-02T23:13:22.919Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 187,
+      "uuid": "507cfbde-5f71-4ff3-a64b-50b24cb2de3e",
+      "business": "RYSE ANTONIO PLAZA I",
+      "address": "ANTONIO PLAZA ESQ.  PINO SUÁREZ #200\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "CELAYA",
+      "createdAt": "2021-11-02T23:20:34.165Z",
+      "updatedAt": "2021-11-02T23:20:34.165Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 188,
+      "uuid": "4a2e4472-98a6-4a74-8553-c5a3dc27d060",
+      "business": "RYSE ANTONIO PLAZA II",
+      "address": "ANTONIO PLAZA # 221 CON ESQ. IGNACIO RAMIREZ  C.P. 3800 \n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "CELAYA",
+      "createdAt": "2021-11-02T23:21:30.831Z",
+      "updatedAt": "2021-11-02T23:21:30.831Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 190,
+      "uuid": "1670c1ee-9d78-42d1-b578-e73ab803dfff",
+      "business": "RYSE CONSTITUYENTES",
+      "address": "CONSTITUYENTES  PUENTE #27 ESQ. LUIS M. VEGA COL. CIMATARIO C.P. 76030\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "QUERÉTARO",
+      "createdAt": "2021-11-02T23:28:29.533Z",
+      "updatedAt": "2021-11-02T23:28:29.533Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 193,
+      "uuid": "4437e741-103e-48d3-82b7-6490e648a595",
+      "business": "RYSE CORTAZAR",
+      "address": "IGNACIO ALDAMA #206 COL. CENTRO",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "CORTAZAR",
+      "createdAt": "2021-11-02T23:38:53.522Z",
+      "updatedAt": "2021-11-02T23:38:53.522Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 182,
+      "uuid": "9a02c387-ea76-4bf8-bd45-7353508fe3a8",
+      "business": "RYSE ESPIGAS",
+      "address": "BLVD. DIAZ ORDAZ #3184, FRACC. LAS REYNAS  C.P. 3660\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "IRAPUATO",
+      "createdAt": "2021-11-02T23:10:08.917Z",
+      "updatedAt": "2021-11-02T23:10:08.917Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 192,
+      "uuid": "80c06aff-7578-4a37-855c-cd699351f22a",
+      "business": "RYSE FAJA DE ORO",
+      "address": "AV. FAJA DE ORO #403  BARRIO DE SAN GONZALO C.P. 36700\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "SALAMANCA",
+      "createdAt": "2021-11-02T23:35:08.715Z",
+      "updatedAt": "2021-11-02T23:35:08.715Z",
+      "deletedAt": null,
+      "category": "Joyería",
+      "categoryIcon": "Gem",
+      "categoryColor": "#fbbf24",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 183,
+      "uuid": "7495f361-9105-4963-a6de-ebc5eac116eb",
+      "business": "RYSE GUERRERO",
+      "address": "GUERRERO ESQ. MORELOS S/N,  ZONA CENTRO\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "IRAPUATO",
+      "createdAt": "2021-11-02T23:11:50.041Z",
+      "updatedAt": "2021-11-02T23:11:50.041Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 196,
+      "uuid": "c099cea6-8154-4a49-a99a-7f2836d5d36b",
+      "business": "RYSE LA PIEDAD",
+      "address": "BLVD. LÁZARO CÁRDENAS #36. C.P. 59300\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "LA PIEDAD",
+      "createdAt": "2021-11-02T23:43:58.525Z",
+      "updatedAt": "2021-11-02T23:43:58.525Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 186,
+      "uuid": "621c0ef4-6761-4e12-bc28-38789f77635c",
+      "business": "RYSE MANUEL DOBLADO",
+      "address": "MANUEL DOBLADO #102-B. ZONA CENTRO.  C.P. 38000\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "CELAYA",
+      "createdAt": "2021-11-02T23:15:50.288Z",
+      "updatedAt": "2021-11-02T23:15:50.288Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 185,
+      "uuid": "936e509e-ecd9-46bf-ab18-464047bffa4a",
+      "business": "RYSE MEGA",
+      "address": "PROL. GUERRERO #2371 COL. UNIDAD MODELO DEL IMSS\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "IRAPUATO",
+      "createdAt": "2021-11-02T23:14:35.690Z",
+      "updatedAt": "2021-11-02T23:14:35.690Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 191,
+      "uuid": "8e91bdc4-827c-4fa9-8c38-47fabcb78648",
+      "business": "RYSE MORELOS",
+      "address": "MORELOS #103 ESQ.¿' TOMASA ESTEVES ZONA CENTRO\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "SALAMANCA",
+      "createdAt": "2021-11-02T23:34:11.980Z",
+      "updatedAt": "2021-11-02T23:34:11.980Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 61,
+      "uuid": "1dc88d2d-b462-4047-b6a7-3f9b9337f47f",
+      "business": "RYSE RAMÓN CORONA",
+      "address": "RAMÓN CORONA #137, ZONA CENTRO. CP 36500\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.892Z",
+      "updatedAt": "2021-11-02T23:05:03.375Z",
+      "deletedAt": null,
+      "category": "Joyería",
+      "categoryIcon": "Gem",
+      "categoryColor": "#fbbf24",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 181,
+      "uuid": "6b419e80-37b1-42ee-8c60-0c48830dccde",
+      "business": "RYSE REVOLUCIÓN",
+      "address": "AV. REVOLUCIÓN, ESQUINA CON MANUEL DOBLADO S/N, ZONA CENTRO.  C.P. 36500\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "IRAPUATO",
+      "createdAt": "2021-11-02T23:08:19.615Z",
+      "updatedAt": "2021-11-02T23:08:19.615Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 194,
+      "uuid": "16b91d43-ffad-45c8-bbaa-7a20c0c27601",
+      "business": "RYSE SMA",
+      "address": "CARRETERA SMA - CELAYA #3 LOCAL 1 PLANTA BAJA EDIFICIO A C.P.37700\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "SAN MIGUEL DE ALLENDE",
+      "createdAt": "2021-11-02T23:40:05.191Z",
+      "updatedAt": "2021-11-02T23:40:05.191Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 189,
+      "uuid": "3aecb056-6feb-4054-bc47-704adc5a9d70",
+      "business": "RYSE TECNOLÓGICO",
+      "address": "AV. TECNOLÓGICO #627 COL. FOVISSTE C.P. 308010\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "CELAYA",
+      "createdAt": "2021-11-02T23:27:01.347Z",
+      "updatedAt": "2021-11-02T23:27:01.347Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 195,
+      "uuid": "f9a6a227-4515-4f17-bbd3-ad7b6c6aef07",
+      "business": "RYSE VALLE DE SANTIAGO",
+      "address": "OBREGÓN #142 H ZONA CENTRO C.P. 38400\n",
+      "discount": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda.",
+      "city": "VALLE DE SANTIAGO",
+      "createdAt": "2021-11-02T23:41:18.270Z",
+      "updatedAt": "2021-11-02T23:41:18.270Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 1,
+        "max": 8,
+        "type": "percentage",
+        "original": "El código para hacerse merecedor de dicho descuento es  SITIMM001.\n8% de descuento sobre el precio normal de cualquier producto. \n3% de descuento sobre el precio de productos que ya tengan un descuento por parte de la tienda."
+      }
+    },
+    {
+      "id": 31,
+      "uuid": "11c0b747-ce4a-4e99-87ed-42a338e506b5",
+      "business": "SASTRERÍA NEGRETE",
+      "address": "BLVD. TORRES LANDA N°165 BARRIO LA SALUD",
+      "discount": "20%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.889Z",
+      "updatedAt": "2020-03-10T07:16:32.889Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 20,
+        "max": 20,
+        "type": "percentage",
+        "original": "20%"
+      }
+    },
+    {
+      "id": 20,
+      "uuid": "c7201a53-80da-4f0d-b330-800b5dee1d96",
+      "business": "SASTRE ROBLES",
+      "address": "GUADALUPE VICTORIA N° 102 COL. LAS ARBOLEDAS",
+      "discount": "15%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.888Z",
+      "updatedAt": "2020-03-10T07:16:32.888Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 15,
+        "max": 15,
+        "type": "percentage",
+        "original": "15%"
+      }
+    },
+    {
+      "id": 37,
+      "uuid": "033aa99c-1ab7-4346-a3e7-4744f9b9d3e9",
+      "business": "SERVICIO AUTOMOTRIZ HERNÁNDEZ",
+      "address": "AV. INSURGENTES SUR N°1289 LOS REYES",
+      "discount": "10%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.889Z",
+      "updatedAt": "2020-03-10T07:16:32.889Z",
+      "deletedAt": null,
+      "category": "Automotriz",
+      "categoryIcon": "Car",
+      "categoryColor": "#0ea5e9",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 306,
+      "uuid": "338fdfdf-689b-423f-84a4-1c82ee17a6d3",
+      "business": "SERVICIO DE ORIENTACIÓN PSICOLÓGICA",
+      "address": "CALLE MADRID #120 COL. SAN MARTÍN DE CAMARGO",
+      "discount": "PRECIO ESPECIAL",
+      "city": "IRAPUATO",
+      "createdAt": "2024-01-26T17:34:58.045Z",
+      "updatedAt": "2024-01-26T17:34:58.045Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 0,
+        "max": 0,
+        "type": "special",
+        "original": "PRECIO ESPECIAL"
+      }
+    },
+    {
+      "id": 203,
+      "uuid": "bec9bf0d-2c1b-448e-89ab-42d415eb514f",
+      "business": "Servillantas Plaza",
+      "address": "Moctezuma #24 Zona Centro",
+      "discount": "5% de descuento en Refacciones y Llantas",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2022-03-09T23:54:06.189Z",
+      "updatedAt": "2022-03-09T23:54:06.189Z",
+      "deletedAt": null,
+      "category": "Automotriz",
+      "categoryIcon": "Car",
+      "categoryColor": "#0ea5e9",
+      "discountNormalized": {
+        "min": 5,
+        "max": 5,
+        "type": "percentage",
+        "original": "5% de descuento en Refacciones y Llantas"
+      }
+    },
+    {
+      "id": 47,
+      "uuid": "2e9f0c65-06bc-4bd6-bae4-6db25d482882",
+      "business": "SONIDO CASTRO",
+      "address": "GUILLERMO PRIETO N°517 BARRIO DE SANTA ANITA",
+      "discount": "10% de descuento.\nTel. 462 130 70 38.",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.890Z",
+      "updatedAt": "2023-01-09T19:15:08.992Z",
+      "deletedAt": null,
+      "category": "Sonido",
+      "categoryIcon": "Volume2",
+      "categoryColor": "#7c3aed",
+      "discountNormalized": {
+        "min": 10,
+        "max": 462,
+        "type": "percentage",
+        "original": "10% de descuento.\nTel. 462 130 70 38."
+      }
+    },
+    {
+      "id": 289,
+      "uuid": "715949c2-c051-4007-ac47-08ae45bbcfa0",
+      "business": "TAQUERIA LOS AMIGOS",
+      "address": "Ley federal del trabajo #615 Col. primero de mayo",
+      "discount": "10% de descuento consumo minimo de $200.\nTel. 462 370 42 46",
+      "city": "IRAPUATO",
+      "createdAt": "2023-01-09T18:49:04.454Z",
+      "updatedAt": "2023-01-09T19:24:32.152Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 462,
+        "max": 462,
+        "type": "fixed",
+        "original": "10% de descuento consumo minimo de $200.\nTel. 462 370 42 46"
+      }
+    },
+    {
+      "id": 121,
+      "uuid": "aa31476a-70a3-4e57-b3b3-b56a4698548e",
+      "business": "TIENDA DE ROPA PARA CABALLERO DOXXA",
+      "address": "ALVARO OBREGON 105 Z.C.\n",
+      "discount": "5%",
+      "city": "CELAYA",
+      "createdAt": "2020-03-19T17:47:03.203Z",
+      "updatedAt": "2020-03-19T17:47:03.203Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 5,
+        "max": 5,
+        "type": "percentage",
+        "original": "5%"
+      }
+    },
+    {
+      "id": 204,
+      "uuid": "5796d007-1b42-4c66-8d37-1c6ec0254215",
+      "business": "Tiendas Bonsai",
+      "address": "En sus 5 sucursales #",
+      "discount": "Precio de mayoreo al presentar tu credencial de afiliación al SITIMM",
+      "city": "SAN JOSÉ ITURBIDE",
+      "createdAt": "2022-03-09T23:59:01.401Z",
+      "updatedAt": "2022-03-09T23:59:01.401Z",
+      "deletedAt": null,
+      "category": "Tiendas de Abarrotes",
+      "categoryIcon": "ShoppingCart",
+      "categoryColor": "#65a30d",
+      "discountNormalized": {
+        "min": 0,
+        "max": 0,
+        "type": "special",
+        "original": "Precio de mayoreo al presentar tu credencial de afiliación al SITIMM"
+      }
+    },
+    {
+      "id": 46,
+      "uuid": "7780ba57-7ff5-4174-b977-b0a295dc9707",
+      "business": "TRANSMISIONES AUTOMÁTICAS GUTIÉRREZ",
+      "address": "AV. INSURGENTES SUR N°1026 EL CANTADOR",
+      "discount": "10%",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.890Z",
+      "updatedAt": "2020-03-10T07:16:32.890Z",
+      "deletedAt": null,
+      "category": "Automotriz",
+      "categoryIcon": "Car",
+      "categoryColor": "#0ea5e9",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 40,
+      "uuid": "14c32502-c7d6-40d2-a15e-da36800749f0",
+      "business": "VIAJES ANDRADE",
+      "address": "AV. GUERRERO N°503-6 Z.C.",
+      "discount": "5% AL 10% DEPENDIENDO EL DESTINO",
+      "city": "IRAPUATO",
+      "createdAt": "2020-03-10T07:16:32.890Z",
+      "updatedAt": "2020-05-15T00:48:34.436Z",
+      "deletedAt": null,
+      "category": "Viajes",
+      "categoryIcon": "Plane",
+      "categoryColor": "#0891b2",
+      "discountNormalized": {
+        "min": 5,
+        "max": 10,
+        "type": "percentage",
+        "original": "5% AL 10% DEPENDIENDO EL DESTINO"
+      }
+    },
+    {
+      "id": 124,
+      "uuid": "36f2d9ec-1b35-4626-8cb5-8e1224ed9a13",
+      "business": "ZAPATERIA DESTROYER",
+      "address": "ZONA CENTRO\n",
+      "discount": "PRECIO DE MAYOREO DESDE UN PAR DE CALZADO\n",
+      "city": "CELAYA",
+      "createdAt": "2020-03-19T17:49:56.425Z",
+      "updatedAt": "2020-03-19T17:49:56.425Z",
+      "deletedAt": null,
+      "category": "Otros",
+      "categoryIcon": "Store",
+      "categoryColor": "#6b7280",
+      "discountNormalized": {
+        "min": 0,
+        "max": 0,
+        "type": "special",
+        "original": "PRECIO DE MAYOREO DESDE UN PAR DE CALZADO\n"
+      }
+    },
+    {
+      "id": 104,
+      "uuid": "8e1576bf-dcac-4498-9e54-423d74a67224",
+      "business": "ZAPATERÍA DON CARMELO",
+      "address": "HIDALGO #95",
+      "discount": "5% MENUDEO 10% MAYOREO",
+      "city": "SILAO DE LA VICTORIA",
+      "createdAt": "2020-03-10T07:16:32.900Z",
+      "updatedAt": "2020-03-10T07:16:32.900Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 5,
+        "max": 10,
+        "type": "percentage",
+        "original": "5% MENUDEO 10% MAYOREO"
+      }
+    },
+    {
+      "id": 106,
+      "uuid": "c8412c8b-d5ce-40ec-a6ef-5e02539eb880",
+      "business": "ZAPATERÍA EL OFERTÓN",
+      "address": "HIDALGO N°26 Y ZARAGOZA N°|9",
+      "discount": "5% MENUDEO 10% MAYOREO",
+      "city": "SILAO DE LA VICTORIA",
+      "createdAt": "2020-03-10T07:16:32.900Z",
+      "updatedAt": "2020-03-10T07:16:32.900Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 5,
+        "max": 10,
+        "type": "percentage",
+        "original": "5% MENUDEO 10% MAYOREO"
+      }
+    },
+    {
+      "id": 178,
+      "uuid": "8a4882f2-62fd-41d6-9bc0-53eecd645132",
+      "business": "ZAPATERÍA EXCLUSIVAS DE FLEXI",
+      "address": "CENTRO COMERCIAL \"LA JOYA\" LOCAL #8\nCOLONIA \"LA JOYITA\"",
+      "discount": "5%-10%",
+      "city": "SILAO DE LA VICTORIA",
+      "createdAt": "2021-05-19T03:03:07.037Z",
+      "updatedAt": "2021-05-19T03:03:07.037Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 5,
+        "max": 10,
+        "type": "percentage",
+        "original": "5%-10%"
+      }
+    },
+    {
+      "id": 96,
+      "uuid": "f1f7619d-e2ac-4ba3-89e1-cac043470813",
+      "business": "ZAPATERÍA FABIOLA",
+      "address": "HIDALGO N°18",
+      "discount": "10%",
+      "city": "SAN DIEGO DE LA UNIÓN",
+      "createdAt": "2020-03-10T07:16:32.895Z",
+      "updatedAt": "2020-03-10T07:16:32.895Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 108,
+      "uuid": "f2423a54-5e4a-420f-9740-7808868b6bb3",
+      "business": "ZAPATERÍA FLEXI FUNDACIÓN",
+      "address": "FUNDACIÓN N°13",
+      "discount": "10%",
+      "city": "SILAO DE LA VICTORIA",
+      "createdAt": "2020-03-10T07:16:32.901Z",
+      "updatedAt": "2020-03-10T07:16:32.901Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 10,
+        "max": 10,
+        "type": "percentage",
+        "original": "10%"
+      }
+    },
+    {
+      "id": 177,
+      "uuid": "1a18e276-6d2b-49e1-a61c-b516655a53fe",
+      "business": "ZAPATERÍA FRANJADO",
+      "address": "PORTAL ZARAGOZA #8 y #20\nZONA CENTRO DE SILAO",
+      "discount": "5%-10%",
+      "city": "SILAO DE LA VICTORIA",
+      "createdAt": "2021-05-19T02:56:39.228Z",
+      "updatedAt": "2021-05-19T02:56:39.228Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 5,
+        "max": 10,
+        "type": "percentage",
+        "original": "5%-10%"
+      }
+    },
+    {
+      "id": 179,
+      "uuid": "568f0e73-2dd8-4f96-a253-9dc3db36548f",
+      "business": "ZAPATERÍA GONA",
+      "address": "PORTAL ZARAGOZA #20 \nZONA CENTRO, SILAO",
+      "discount": "5%-10%",
+      "city": "SILAO DE LA VICTORIA",
+      "createdAt": "2021-05-19T03:05:16.728Z",
+      "updatedAt": "2021-05-19T03:05:16.728Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 5,
+        "max": 10,
+        "type": "percentage",
+        "original": "5%-10%"
+      }
+    },
+    {
+      "id": 101,
+      "uuid": "2cbccbb9-f168-4632-95f2-223510b9b115",
+      "business": "ZAPATERÍA LADY SHOES",
+      "address": "MORELOS N°12",
+      "discount": "5% MENUDEO 10% MAYOREO",
+      "city": "SILAO DE LA VICTORIA",
+      "createdAt": "2020-03-10T07:16:32.900Z",
+      "updatedAt": "2020-03-10T07:16:32.900Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 5,
+        "max": 10,
+        "type": "percentage",
+        "original": "5% MENUDEO 10% MAYOREO"
+      }
+    },
+    {
+      "id": 105,
+      "uuid": "d2de59c3-4d2a-4a59-b1a6-8ddb34e8910b",
+      "business": "ZAPATERÍA MODEL",
+      "address": "PORTAL ZARAGOZA N°19-A",
+      "discount": "5% MENUDEO 10% MAYOREO",
+      "city": "SILAO DE LA VICTORIA",
+      "createdAt": "2020-03-10T07:16:32.901Z",
+      "updatedAt": "2020-03-10T07:16:32.901Z",
+      "deletedAt": null,
+      "category": "Moda y Calzado",
+      "categoryIcon": "Shirt",
+      "categoryColor": "#a855f7",
+      "discountNormalized": {
+        "min": 5,
+        "max": 10,
+        "type": "percentage",
+        "original": "5% MENUDEO 10% MAYOREO"
+      }
+    }
+  ],
+  "stats": {
+    "total": 107,
+    "byCategory": {
+      "Automotriz": 6,
+      "Joyería": 3,
+      "Otros": 15,
+      "Entretenimiento": 3,
+      "Alimentos y Bebidas": 6,
+      "Salud": 15,
+      "Bicicletas": 1,
+      "Gimnasios": 4,
+      "Tecnología": 1,
+      "Dulcería": 1,
+      "Hogar y Muebles": 1,
+      "Belleza": 2,
+      "Florería": 1,
+      "Fotografía": 1,
+      "Servicios Funerarios": 4,
+      "Educación": 2,
+      "Ferreterías": 2,
+      "Artesanía": 1,
+      "Hoteles": 1,
+      "Lavandería": 2,
+      "Moda y Calzado": 13,
+      "Papelería": 2,
+      "Limpieza": 1,
+      "Seguros": 1,
+      "Tiendas de Abarrotes": 16,
+      "Sonido": 1,
+      "Viajes": 1
+    },
+    "byCity": {
+      "IRAPUATO": 48,
+      "DOLORES HIDALGO": 13,
+      "SAN JOSÉ ITURBIDE": 13,
+      "CELAYA": 11,
+      "VILLAGRÁN": 2,
+      "SILAO DE LA VICTORIA": 11,
+      "ROMITA": 1,
+      "QUERÉTARO": 1,
+      "CORTAZAR": 1,
+      "SALAMANCA": 2,
+      "LA PIEDAD": 1,
+      "SAN MIGUEL DE ALLENDE": 1,
+      "VALLE DE SANTIAGO": 1,
+      "SAN DIEGO DE LA UNIÓN": 1
+    },
+    "byDiscountType": {
+      "percentage": 95,
+      "fixed": 8,
+      "special": 4,
+      "variable": 0,
+      "unknown": 0
+    }
+  }
+}

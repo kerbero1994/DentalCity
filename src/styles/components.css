@@ -1,0 +1,319 @@
+/**
+ * Shared Component Utilities for SITIMM Design System
+ *
+ * This file contains reusable component patterns to reduce CSS duplication
+ * across modules and maintain consistent styling.
+ */
+
+@import "tailwindcss";
+
+/* ========================================
+   CARD COMPONENTS
+   ======================================== */
+
+/**
+ * Base card styling used across bulletin-card, bonus-card, program-card, etc.
+ * Apply with: @apply card-base
+ */
+.card-base {
+  @apply relative rounded-2xl border-0 bg-white shadow-sm transition-all duration-200 dark:border dark:border-red-700/20 dark:bg-[rgba(28,0,5,0.6)] dark:shadow-md;
+}
+
+/**
+ * Card hover effects with lift animation
+ * Apply with: @apply card-hover
+ */
+.card-hover {
+  @apply cursor-pointer hover:-translate-y-0.5 hover:shadow-lg dark:hover:border-red-700/30 dark:hover:shadow-red-700/30;
+}
+
+/**
+ * Enhanced card hover with stronger lift
+ * Used in: programs-section, services-section
+ */
+.card-hover-strong {
+  @apply cursor-pointer hover:-translate-y-1 hover:shadow-2xl dark:hover:border-red-700/40 dark:hover:shadow-red-700/40;
+}
+
+/**
+ * Card with glass morphism effect
+ * Used in: services-section, about-section
+ */
+.card-glass {
+  @apply relative rounded-3xl border border-white/60 bg-white/90 shadow-lg backdrop-blur-sm transition-all duration-300 dark:border-gray-700/50 dark:bg-gray-800/80 dark:shadow-2xl;
+}
+
+/* ========================================
+   LIST ITEMS (Horizontal Cards)
+   ======================================== */
+
+/**
+ * Base list item styling for horizontal card layouts
+ * Used in: bulletin-card, bonus-card
+ */
+.list-item-base {
+  @apply relative flex cursor-pointer rounded-2xl border-0 bg-white p-6 shadow-sm transition-all duration-200 dark:border dark:border-red-700/20 dark:bg-[rgba(28,0,5,0.6)] dark:shadow-md;
+}
+
+/**
+ * List item hover effects
+ */
+.list-item-hover {
+  @apply hover:-translate-y-0.5 hover:shadow-lg dark:hover:border-red-700/30 dark:hover:shadow-red-700/30;
+}
+
+/* ========================================
+   SECTION HEADERS
+   ======================================== */
+
+/**
+ * Section eyebrow text (small uppercase label)
+ * Used in: programs-section, services-section, about-section
+ */
+.section-eyebrow {
+  @apply text-xs font-bold tracking-[0.2em] text-red-700 uppercase dark:text-red-400;
+}
+
+/**
+ * Section title with responsive sizing
+ */
+.section-title {
+  @apply text-3xl font-semibold tracking-tight md:text-4xl md:font-extrabold;
+}
+
+/**
+ * Accent text for section titles (red color)
+ */
+.section-title-accent {
+  @apply text-red-700 dark:text-red-400;
+}
+
+/**
+ * Section description text
+ */
+.section-description {
+  @apply text-base leading-relaxed text-gray-600/85 md:text-lg dark:text-gray-300/85;
+}
+
+/* ========================================
+   BUTTONS & CTAs
+   ======================================== */
+
+/**
+ * Primary CTA button (red background)
+ * Used in: services-section, about-section
+ */
+.cta-primary {
+  @apply inline-flex items-center gap-2.5 rounded-full bg-[var(--color-primary)] px-6 py-3 font-bold text-white shadow-lg transition-all duration-200 hover:-translate-y-0.5 hover:bg-[var(--color-primary-hover)] hover:shadow-xl focus-visible:ring-2 focus-visible:ring-red-600 focus-visible:outline-none;
+}
+
+/**
+ * Text link with red color and hover underline
+ * Used in: program-card, service-card
+ */
+.link-primary {
+  @apply inline-flex items-center gap-2 text-red-700 underline-offset-4 transition-colors duration-200 hover:text-red-800 hover:underline dark:text-red-400 dark:hover:text-red-300;
+}
+
+/* ========================================
+   BADGES
+   ======================================== */
+
+/**
+ * Circular badge (typically for numbers)
+ * Used in: programs-section, services-section
+ */
+.badge-circular {
+  @apply inline-flex h-8 w-8 items-center justify-center rounded-full bg-red-600 text-xs font-bold text-white shadow-md shadow-red-600/30 md:h-10 md:w-10;
+}
+
+/**
+ * Sport/category badge (pill-shaped)
+ * Used in: bulletin-card, event-card
+ */
+.badge-sport {
+  @apply rounded-full bg-red-600 px-3 py-1.5 text-xs font-semibold tracking-wide text-white uppercase;
+}
+
+/**
+ * Discount badge (circular, larger)
+ * Used in: bonus-card
+ */
+.badge-discount {
+  @apply flex h-16 w-16 flex-col items-center justify-center rounded-full bg-red-600 text-white shadow-lg shadow-red-600/30 md:h-[70px] md:w-[70px];
+}
+
+/**
+ * Small label badge
+ * Used in: about-section
+ */
+.badge-label {
+  @apply inline-flex items-center rounded-full bg-white/90 px-3 py-2 text-xs font-semibold text-red-700 shadow-lg dark:bg-gray-800/90 dark:text-red-400;
+}
+
+/* ========================================
+   IMAGE CONTAINERS
+   ======================================== */
+
+/**
+ * Image container for cards
+ * Used in: bulletin-card, program-card
+ */
+.image-container {
+  @apply relative w-full overflow-hidden bg-gray-100 transition-all duration-300 dark:bg-[rgba(28,0,5,0.8)];
+}
+
+/**
+ * Responsive image styling
+ */
+.image-responsive {
+  @apply block h-auto w-full align-top transition-all duration-300;
+}
+
+/**
+ * Image with glass frame
+ * Used in: about-section
+ */
+.image-frame {
+  @apply relative rounded-3xl border border-white/50 bg-white/90 p-3 shadow-2xl md:p-4 dark:border-gray-700/50 dark:bg-gray-800/80;
+}
+
+/* ========================================
+   CONTENT SECTIONS
+   ======================================== */
+
+/**
+ * Card content area padding
+ */
+.card-content {
+  @apply flex flex-1 flex-col p-4 md:p-6;
+}
+
+/**
+ * Card title styling
+ */
+.card-title {
+  @apply mb-2 line-clamp-2 text-lg font-semibold text-gray-900 dark:text-gray-50;
+}
+
+/**
+ * Card description text
+ */
+.card-description {
+  @apply mb-4 line-clamp-3 text-sm leading-relaxed text-gray-600 dark:text-gray-300;
+}
+
+/**
+ * Card footer with border
+ */
+.card-footer {
+  @apply flex items-center justify-between border-t border-gray-200 pt-4 dark:border-red-700/20;
+}
+
+/* ========================================
+   ICON WRAPPERS
+   ======================================== */
+
+/**
+ * Icon circle background
+ * Used in: programs-section, services-section
+ */
+.icon-circle {
+  @apply inline-flex h-12 w-12 items-center justify-center rounded-2xl bg-red-100 text-red-700 md:h-14 md:w-14 dark:bg-red-900/20 dark:text-red-400;
+}
+
+/**
+ * Small icon wrapper
+ */
+.icon-wrapper {
+  @apply inline-flex h-4 w-4 flex-shrink-0 items-center justify-center text-gray-500 md:h-5 md:w-5 dark:text-gray-400;
+}
+
+/* ========================================
+   INFO ROWS & META DATA
+   ======================================== */
+
+/**
+ * Info row with icon and text
+ * Used in: bulletin-card, bonus-card, event-card
+ */
+.info-row {
+  @apply flex items-center gap-2 text-sm text-gray-600 dark:text-gray-300;
+}
+
+/**
+ * Date display with icon
+ */
+.date-display {
+  @apply flex items-center gap-2 text-sm text-gray-600 dark:text-gray-300;
+}
+
+/* ========================================
+   RESPONSIVE GRIDS
+   ======================================== */
+
+/**
+ * Standard responsive grid (1 → 2 → 3 columns)
+ */
+.grid-responsive {
+  @apply grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3;
+}
+
+/**
+ * Two column responsive grid (1 → 2 columns)
+ */
+.grid-responsive-2 {
+  @apply grid grid-cols-1 gap-5 sm:grid-cols-2;
+}
+
+/* ========================================
+   STAT DISPLAYS
+   ======================================== */
+
+/**
+ * Stat card for displaying metrics
+ * Used in: about-section
+ */
+.stat-card {
+  @apply grid justify-items-center gap-2 rounded-2xl border border-white/50 bg-white/70 p-4 shadow-lg backdrop-blur-sm dark:border-gray-700/50 dark:bg-gray-800/70 dark:shadow-2xl;
+}
+
+/**
+ * Stat value (large number)
+ */
+.stat-value {
+  @apply text-xl font-bold;
+}
+
+/**
+ * Stat label (small uppercase text)
+ */
+.stat-label {
+  @apply text-[0.65rem] tracking-widest text-gray-600/70 uppercase dark:text-gray-300/70;
+}
+
+/* ========================================
+   ACCESSIBILITY & ANIMATIONS
+   ======================================== */
+
+/**
+ * Reduce motion for users with motion sensitivity
+ */
+@media (prefers-reduced-motion: reduce) {
+  .card-base,
+  .card-hover,
+  .card-hover-strong,
+  .list-item-base,
+  .list-item-hover,
+  .cta-primary,
+  .link-primary {
+    @apply transition-none;
+  }
+}
+
+/**
+ * Focus styles for keyboard navigation
+ */
+.focus-premium {
+  @apply focus-visible:ring-2 focus-visible:ring-red-600 focus-visible:ring-offset-2 focus-visible:outline-none;
+}

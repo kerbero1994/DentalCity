@@ -1,0 +1,1086 @@
+{
+  "common": {
+    "search": "搜索",
+    "close": "关闭",
+    "open": "打开",
+    "menu": "菜单",
+    "home": "首页",
+    "about": "关于",
+    "services": "服务",
+    "contact": "联系",
+    "language": "语言",
+    "settings": "设置",
+    "theme": "主题",
+    "darkMode": "深色模式",
+    "lightMode": "浅色模式",
+    "spanish": "西班牙语",
+    "english": "英语",
+    "skipToContent": "跳至内容",
+    "learnMore": "了解更多",
+    "viewMore": "查看更多",
+    "download": "下载",
+    "programs": "项目",
+    "magazines": "杂志",
+    "blog": "博客",
+    "bulletins": "公告栏",
+    "benefits": "折扣",
+    "faq": "常见问题",
+    "files": "文件",
+    "languageLabel": "语言 / Idioma",
+    "selectLanguage": "选择语言",
+    "toggleTheme": "切换主题",
+    "sitimmLogo": "SITIMM 徽标",
+    "storeBadges": {
+      "appStore": {
+        "downloadOn": "下载于",
+        "name": "App Store",
+        "aria": "在 App Store 下载"
+      },
+      "googlePlay": {
+        "getItOn": "下载于",
+        "name": "Google Play",
+        "aria": "在 Google Play 下载"
+      }
+    }
+  },
+  "header": {
+    "searchPlaceholder": "搜索...",
+    "ctaButton": "开始",
+    "brandSubtitle": "真正的工会主义",
+    "a11y": {
+      "mainNav": "主导航",
+      "searchMobile": "搜索（移动版）"
+    }
+  },
+  "footer": {
+    "brandSubtitle": "真正的工会主义",
+    "tagline": "自1948年以来捍卫工人权利的墨西哥最重要的工会。",
+    "copyright": "© {year} SITIMM。保留所有权利。",
+    "quickLinks": "快速链接",
+    "institutional": "机构",
+    "contact": "联系",
+    "ourOffices": "我们的办公室",
+    "a11y": {
+      "socialMedia": "社交媒体",
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "quickLinks": "快速链接",
+      "institutional": "机构",
+      "legalInfo": "法律信息",
+      "backToTop": "返回顶部"
+    },
+    "links": {
+      "affiliation": "会员加入",
+      "consultations": "咨询",
+      "discounts": "折扣",
+      "training": "培训",
+      "medicalServices": "医疗服务",
+      "aboutUs": "关于我们",
+      "history": "历史",
+      "organization": "组织结构图",
+      "transparency": "透明度",
+      "agreements": "协议",
+      "privacy": "隐私政策",
+      "terms": "条款和条件",
+      "policies": "使用政策",
+      "contact": "联系",
+      "benefits": "折扣",
+      "events": "活动",
+      "programs": "计划",
+      "blog": "博客",
+      "bulletins": "公告",
+      "magazines": "杂志",
+      "faq": "常见问题",
+      "search": "搜索",
+      "home": "首页"
+    },
+    "contactInfo": {
+      "address": ["Victorino de las Fuentes #944", "Prolongación La Moderna, Irapuato, Guanajuato"],
+      "mapsUrl": "https://www.google.com/maps/place/CEFORMA+IRAPUATO+MODERNA/@20.6778165,-101.3632499,17z/data=!4m6!3m5!1s0x842c7f506667d27b:0xc57b1eb3daa53b6!8m2!3d20.67739!4d-101.3620912!16s%2Fg%2F11q58f6yp0",
+      "offices": [
+        {
+          "name": "IRAPUATO",
+          "address": "Victorino de las Fuentes #944, Prolongación La Moderna",
+          "phone": "(462) 626 06 97",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victorino+de+las+Fuentes+944+Prolongación+La+Moderna+Irapuato+Guanajuato"
+        },
+        {
+          "name": "SILAO",
+          "address": "Benito Juárez #65 esq. San Dimas, 市中心",
+          "phone": "(472) 722 35 01",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benito+Juárez+65+San+Dimas+Silao+Guanajuato"
+        },
+        {
+          "name": "CELAYA",
+          "address": "Rio Bravo #107, 市中心",
+          "phone": "(461) 608 02 30",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio+Bravo+107+Celaya+Guanajuato"
+        },
+        {
+          "name": "SAN JOSÉ ITURBIDE",
+          "address": "Priv Paseo de la Venta #7, 市中心",
+          "phone": "(419) 690 85 65",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Priv+Paseo+de+la+Venta+7+San+José+Iturbide+Guanajuato"
+        },
+        {
+          "name": "VILLAGRÁN",
+          "address": "16 de Septiembre #909, 市中心",
+          "phone": "(411) 165 31 49",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=16+de+Septiembre+909+Villagrán+Guanajuato"
+        }
+      ],
+      "email": "sitimm.ctm@gmail.com"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "SITIMM",
+      "subtitle": "真正的工会主义",
+      "description": "墨西哥最重要的工会。我们以承诺、透明度和切实成果捍卫工人的权利。",
+      "primaryCta": {
+        "label": "加入我们"
+      },
+      "secondaryCta": {
+        "label": "联系"
+      },
+      "stats": {
+        "affiliates": "成员",
+        "advisors": "年",
+        "companies": "公司"
+      }
+    },
+    "carousel": {
+      "showing": "显示中",
+      "featuredLabel": "精选内容",
+      "changeItem": "更改轮播项目",
+      "previous": "上一个",
+      "next": "下一个",
+      "fallbackItems": {
+        "highlight": {
+          "eyebrow": "我们的活动",
+          "title": "年度大会",
+          "description": "回顾成就并规划工会的未来。",
+          "linkLabel": "阅读更多",
+          "imageAlt": "建筑中的墨西哥工人"
+        },
+        "solidarity": {
+          "eyebrow": "团结",
+          "title": "即时支持计划",
+          "description": "旨在在关键时刻支持每位成员的福利和服务。",
+          "linkLabel": "探索计划",
+          "imageAlt": "工会成员集会"
+        },
+        "training": {
+          "eyebrow": "培训",
+          "title": "为我们的基础持续培训",
+          "description": "使职业专业化并开辟新就业机会的课程和研讨会。",
+          "linkLabel": "查看日历",
+          "imageAlt": "在教室接受培训的工人"
+        }
+      },
+      "apiItems": {
+        "item1": {
+          "title": "墨西哥：政治独立 对 经济自治",
+          "description": "对墨西哥经济和政治自治的深入分析。",
+          "linkLabel": "了解更多"
+        },
+        "item2": {
+          "title": "SITIMMFORMA DIGITAL 37-2025",
+          "description": "我们数字杂志的新版，包含工会信息和新闻。",
+          "linkLabel": "了解更多"
+        },
+        "item3": {
+          "title": "协议签署",
+          "description": "签署使我们会员受益的集体协议。",
+          "linkLabel": "了解更多"
+        },
+        "item4": {
+          "title": "5家公司批准CCT审查",
+          "description": "成功审查五家附属公司的集体合同。",
+          "linkLabel": "了解更多"
+        },
+        "item5": {
+          "title": "2025年常规工会理事会大会",
+          "description": "审查活动和规划的常规工会理事会会议。",
+          "linkLabel": "了解更多"
+        },
+        "item6": {
+          "title": "SITIMMFORMA Digital 39-2025",
+          "description": "我们数字杂志的新版，包含重要更新。",
+          "linkLabel": "了解更多"
+        }
+      },
+      "viewFullImage": "查看完整图片",
+      "fullImageView": "完整图片视图",
+      "closeModal": "关闭"
+    },
+    "services": {
+      "title": "服务",
+      "subtitle": "您的力量，我们的使命",
+      "description": "了解支持我们会员的服务和计划：工会代表、法律咨询、培训、集体协议和独家福利。",
+      "primaryCta": {
+        "label": "联系顾问"
+      },
+      "items": {
+        "unionMembership": {
+          "title": "工会会员",
+          "description": "加入在巴希奥地区有业务并在多个行业有代表的工会组织。"
+        },
+        "legalAdvice": {
+          "title": "法律咨询",
+          "description": "专业的劳动援助和管理，以捍卫您的权利并遵守集体协议。"
+        },
+        "professionalTraining": {
+          "title": "专业培训",
+          "description": "与州和教育合作伙伴的课程和计划，以提升您的发展和就业能力。"
+        },
+        "collectiveAgreements": {
+          "title": "集体协议",
+          "description": "协商和审查集体合同，包括工资增长和全面改进。"
+        },
+        "benefitsAndDiscounts": {
+          "title": "福利和折扣",
+          "description": "为会员提供参与机构的独家福利和折扣。"
+        },
+        "creditsAndSupport": {
+          "title": "信贷和支持",
+          "description": "通过公共机构传播和获得优惠利率的消费信贷计划。"
+        }
+      },
+      "learnMore": "了解更多",
+      "knowMore": "了解更多"
+    },
+    "cta": {
+      "readyToJoin": "准备加入",
+      "brandName": "SITIMM",
+      "description": "加入墨西哥最重要的工会，获得独家福利、劳动保护和成长机会。",
+      "startAffiliation": "开始加入",
+      "downloadInfo": "下载信息",
+      "title": "¿Listo para formar parte de la familia {brandName}?"
+    },
+    "organization": {
+      "transparencyAndDemocracy": "透明与民主",
+      "organizationalStructure": "我们的",
+      "structure": "结构",
+      "description": "了解我们的组织结构以及每天为捍卫您的劳动权利而工作的人们。",
+      "executiveCommitteeTitle": "全国执行委员会",
+      "executiveCommitteeDesc": "由35名民主选举产生的成员组成的工会管理机构。",
+      "unionSections": "工会分会",
+      "unionSectionsDesc": "在137家公司中设有代表，保护工人的权利。",
+      "ourAdvisors": "我们的顾问",
+      "specializedCommissionsDesc": "190名专业顾问为会员提供支持和指导。",
+      "downloadChart": "下载组织结构图",
+      "viewPdf": "查看完整PDF",
+      "chartTitle": "官方组织结构图",
+      "chartSubtitle": "全国执行委员会 2024-2028",
+      "clickToView": "点击查看完整文档",
+      "officialChart": "SITIMM官方组织结构图",
+      "viewDocument": "查看文档",
+      "advisorsSubtitle": "为工人服务的专业人士",
+      "advisorsDocument": "工会顾问名单",
+      "coverAlt": "SITIMM全国执行委员会",
+      "advisors": {
+        "imageAlt": "SITIMM工会顾问",
+        "downloadPdf": "Descargar PDF de Asesores",
+        "listPlaceholder": "La lista detallada de asesores se agregará próximamente"
+      },
+      "executives": {
+        "title": "执行委员会成员",
+        "subtitle": "SITIMM 2023-2029",
+        "positions": {
+          "generalSecretary": "秘书长",
+          "honoraryPresident": "荣誉主席",
+          "deputyGeneralSecretary": "副秘书长",
+          "assistantGeneralSecretary": "助理秘书长",
+          "organizationSecretary": "组织秘书",
+          "workSecretary": "劳动秘书",
+          "womensAttentionSecretary": "妇女事务与性别平等秘书",
+          "unionEducationSecretary": "工会教育秘书",
+          "financeSecretary": "财务秘书",
+          "politicalLinkageSecretary": "政治联络秘书",
+          "youthAttentionSecretary": "青年事务与包容秘书",
+          "internationalRelationsSecretary": "国际关系与国际事务秘书",
+          "internationalRelationsUndersecretary": "国际关系与国际事务副秘书",
+          "formalEducationSecretary": "正规教育与劳动教育秘书",
+          "communicationSecretary": "宣传与工会促进秘书",
+          "workerSportsSecretary": "工人体育秘书",
+          "economicAffairsSecretary": "经济事务与就业秘书",
+          "cultureSecretary": "文化与娱乐秘书",
+          "minutesSecretary": "会议记录与协议秘书",
+          "electionsSecretary": "选举与民主协商秘书",
+          "electionsUndersecretary": "选举与民主协商副秘书",
+          "statisticsSecretary": "统计、研究与工会创新秘书",
+          "legalAttentionSecretary": "综合法律援助秘书",
+          "healthSecretary": "劳动与家庭健康秘书",
+          "housingSecretary": "住房事务秘书",
+          "pensionsSecretary": "养老金与退休基金秘书",
+          "ecologicalPromotionSecretary": "生态、劳动与家庭促进秘书",
+          "addictionPreventionSecretary": "指导与成瘾预防秘书",
+          "marginalizedGroupsSecretary": "边缘群体援助秘书",
+          "honorCommissionPresident": "荣誉与正义工会委员会主席",
+          "honorCommissionSecretary": "荣誉与正义工会委员会秘书"
+        }
+      },
+      "companies": {
+        "american": "美国公司 (AAM)",
+        "japanese": "日本公司",
+        "german": "德国公司",
+        "mexicanAndOther": "墨西哥及其他国籍",
+        "service": "服务公司",
+        "other": "其他著名公司"
+      },
+      "executiveCommittee": "Comité Ejecutivo Nacional",
+      "executiveCommitteeMetric": "12 integrantes",
+      "unionSectionsMetric": "500+ secciones",
+      "specializedCommissions": "Comisiones Especializadas",
+      "specializedCommissionsMetric": "15 comisiones"
+    },
+    "programs": {
+      "eyebrow": "我们的计划",
+      "titleLeading": "福利和",
+      "titleAccent": "计划",
+      "titleTrailing": "为会员",
+      "description": "探索所有旨在改善我们会员及其家人生活质量的计划和福利。",
+      "knowMoreAbout": "了解更多关于",
+      "knowMore": "了解更多"
+    },
+    "about": {
+      "eyebrow": "我们是谁",
+      "title": {
+        "leading": "墨西哥最",
+        "accent": "重要",
+        "trailing": "的工会"
+      },
+      "paragraph1": "SITIMM是一个拥有75年历史的工会组织，致力于捍卫冶金、钢铁和类似行业工人的劳动权利。",
+      "paragraph2": "我们在墨西哥4个州设有办事处，拥有69,000多名会员，每天努力为所有会员确保公平的工作条件、体面的工资和成长机会。",
+      "stats": {
+        "members": "会员",
+        "states": "州",
+        "companies": "公司"
+      },
+      "cta": {
+        "label": "了解更多"
+      },
+      "image": {
+        "alt": "SITIMM工人集会",
+        "badge": "75年斗争"
+      }
+    },
+    "missionVisionValues": {
+      "eyebrow": "我们的原则",
+      "titleLeading": "使命、愿景和",
+      "titleAccent": "价值观",
+      "mission": {
+        "title": "使命",
+        "description": "捍卫和促进我们会员的劳动权利，确保体面的工作条件、公平的工资和职业发展机会。",
+        "imageAlt": "SITIMM使命"
+      },
+      "vision": {
+        "title": "愿景",
+        "description": "成为墨西哥领先的工会，以透明度、内部民主和对工人福祉的承诺而闻名。",
+        "imageAlt": "SITIMM愿景"
+      },
+      "values": {
+        "title": "价值观",
+        "description": "团结、诚实、透明、民主、社会正义和对会员的承诺是指导我们日常工作的支柱。",
+        "imageAlt": "SITIMM价值观"
+      }
+    },
+    "discountsBanner": {
+      "topBadge": "独家福利",
+      "mainTitle": "特别折扣",
+      "mainTitleSpecial": "为会员",
+      "subtitle": "在超过100家",
+      "subtitleBrand": "SITIMM合作机构节省",
+      "stats": {
+        "businesses": "Businesses",
+        "cities": "Cities",
+        "categories": "Categories",
+        "maxDiscount": "Up to"
+      },
+      "ctaText": "Show your card and save",
+      "ctaButton": "View Discounts",
+      "logoAlt": "SITIMM标志"
+    },
+    "appDownloadBanner": {
+      "badge": "下载应用",
+      "title": "下载我们的应用",
+      "subtitle": "将SITIMM的所有福利装进口袋。从手机访问独家折扣、重要通知等。",
+      "phoneAlt": "SITIMM应用模型",
+      "benefits": {
+        "notifications": {
+          "title": "即时通知",
+          "description": "接收工会的活动、新闻和重要更新提醒。"
+        },
+        "security": {
+          "title": "安全访问",
+          "description": "您的信息受最高安全标准保护。"
+        },
+        "discounts": {
+          "title": "独家折扣",
+          "description": "访问SITIMM会员的所有折扣和促销活动。"
+        }
+      },
+      "qr": {
+        "appStore": "App Store",
+        "playStore": "Google Play",
+        "appStoreAlt": "在App Store下载的二维码",
+        "playStoreAlt": "在Google Play下载的二维码"
+      },
+      "buttons": {
+        "availableOn": "可在以下获取",
+        "getItOn": "下载",
+        "appStore": "App Store",
+        "playStore": "Google Play"
+      }
+    },
+    "identity": {
+      "title": "我们是墨西哥冶金工人的声音",
+      "cite": "SITIMM - 墨西哥共和国冶金、钢铁和类似行业工人工会",
+      "ctaLabel": "了解我们的历史"
+    },
+    "opengraph": {
+      "brandName": "SITIMM",
+      "subtitle": "Sindicato de Trabajadores de la Industria Metálica y Metalúrgica",
+      "tagline": "Protegiendo los derechos de los trabajadores"
+    },
+    "appPromo": {
+      "appStore": "App Store",
+      "platforms": "iOS · Android",
+      "techLabel": "Tecnología Sindical",
+      "iAm": "Yo soy",
+      "brandName": "SITIMM",
+      "description": "Mantente informado y conectado con tu sindicato desde cualquier lugar.",
+      "feature1": "Comunicación efectiva",
+      "feature1Description": "entre afiliados y asesores sindicales al alcance de tu mano.",
+      "downloadApp": "Descargar la app",
+      "phoneAlt": "Pantalla de un teléfono mostrando la app del SITIMM",
+      "notifications": "Notificaciones",
+      "notificationsDesc": "Información al momento",
+      "directChat": "Chat Directo",
+      "directChatDesc": "Con asesores sindicales",
+      "documents": "Documentos",
+      "documentsDesc": "Convenios y contratos",
+      "events": "Eventos",
+      "eventsDesc": "Asambleas y actividades",
+      "availableOn": "Disponible en",
+      "getItOn": "Consíguelo en",
+      "googlePlay": "Google Play"
+    },
+    "discounts": {
+      "exclusiveBenefits": "Beneficios Exclusivos",
+      "specialDiscounts": "Descuentos",
+      "special": "Especiales",
+      "description": "Accede a descuentos exclusivos en más de 10,000 establecimientos afiliados. Desde supermercados y farmacias hasta servicios médicos y educativos.",
+      "viewAllDiscounts": "Ver Todos los Descuentos",
+      "establishments": "Establecimientos",
+      "imageAlt": "Personas revisando un convenio de descuentos",
+      "bullet1": "Hasta 30% en supermercados",
+      "bullet2": "15% en gasolineras afiliadas",
+      "bullet3": "20% en farmacias y consultorios",
+      "bullet4": "Descuentos en educación"
+    }
+  },
+  "search": {
+    "title": "搜索",
+    "description": "搜索所有网站内容",
+    "placeholder": "搜索内容...",
+    "search": "搜索",
+    "clearSearch": "清除搜索",
+    "pageTitle": "搜索 - SITIMM",
+    "pageDescription": "搜索所有SITIMM网站内容：活动、计划、福利、博客文章和更多工会信息",
+    "noResults": "未找到结果",
+    "noResultsDescription": "尝试不同的搜索词或使用可用的过滤器",
+    "results": "{count, plural, =0 {没有结果} =1 {1个结果} other {#个结果}}",
+    "resultsFor": "搜索结果",
+    "resultFound": "找到结果",
+    "resultsFound": "找到结果",
+    "searching": "搜索中...",
+    "emptyStateTitle": "开始搜索",
+    "emptyStateDescription": "在搜索栏中输入术语以查找活动、文章、计划等",
+    "filterByType": "按类型筛选",
+    "types": {
+      "event": "活动",
+      "blog": "博客",
+      "program": "计划",
+      "magazine": "杂志",
+      "faq": "常见问题",
+      "bonus": "折扣",
+      "bulletin": "公告"
+    },
+    "previous": "上一个",
+    "next": "下一个",
+    "page": "页",
+    "of": "/"
+  },
+  "events": {
+    "title": "活动",
+    "description": "探索我们所有的活动和活动",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "活动",
+      "description": "探索我们即将举行的活动和活动"
+    },
+    "header": {
+      "title": "工会活动",
+      "description": "了解我们的课程、研讨会、大会和特别活动的信息。通过教育和参与加强我们的工会社区。"
+    },
+    "upcoming": "即将举行的活动",
+    "past": "过去的活动",
+    "all": "全部",
+    "date": "日期",
+    "time": "时间",
+    "location": "地点",
+    "allLocations": "所有地点",
+    "category": "类别",
+    "noEvents": "没有可用的活动",
+    "noEventsDescription": "未找到符合所选条件的活动",
+    "loadMore": "加载更多活动",
+    "filter": "过滤器",
+    "search": "搜索活动",
+    "searchPlaceholder": "搜索活动...",
+    "eventsFound": "找到活动",
+    "viewDetails": "查看详情",
+    "requiresRegistration": "需要注册",
+    "mobilityAvailable": "提供交通",
+    "private": "私人",
+    "loading": "加载活动中...",
+    "register": "注册活动",
+    "joinVirtual": "加入Zoom会议",
+    "close": "关闭",
+    "dateAndTime": "日期和时间",
+    "eventDescription": "活动描述",
+    "virtualAccess": "虚拟访问",
+    "joinZoomMeeting": "加入Zoom会议",
+    "attachedFiles": "附件",
+    "targetAudience": "目标受众",
+    "workersAndDelegates": "工人、代表",
+    "registerForEvent": "注册活动",
+    "registerViaApp": "要注册此活动，请使用我们的Yo Soy SITIMM应用",
+    "categories": {
+      "workshop": "研讨会",
+      "assembly": "大会",
+      "course": "课程"
+    },
+    "locations": {
+      "celaya": "塞拉亚",
+      "irapuato": "伊拉普阿托",
+      "virtual": "虚拟"
+    },
+    "a11y": {
+      "gridView": "网格视图",
+      "listView": "列表视图",
+      "eventVideo": "活动视频",
+      "eventPromotionalVideo": "活动宣传视频",
+      "closeVideo": "关闭视频",
+      "playVideo": "播放视频",
+      "eventImage": "活动图片",
+      "eventImageAlt": "活动图片：{title}",
+      "file": "file_{number}.pdf"
+    }
+  },
+  "programs": {
+    "title": "工会计划",
+    "description": "探索SITIMM为您准备的所有计划和福利",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "计划",
+      "description": "发现我们的支持计划和福利"
+    },
+    "header": {
+      "title": "SITIMM基础计划",
+      "description": "SITIMM促进加盟工人的融合和团结，以便在管理和解决他们的社会和经济要求、劳动权利以及为他们提供改善生活水平和工作条件机会的文化和工会培训方面提供令人愉快的工会服务。因此，根据大会的命令，SITIMM执行委员会实施了5个计划，有助于加强其会员的经济、生活质量和人类发展。"
+    },
+    "card": {
+      "label": "计划",
+      "button": "探索"
+    },
+    "detail": {
+      "subprogramsTitle": "子计划",
+      "subprogramLabel": "子计划",
+      "galleryButton": "查看图库",
+      "galleryModal": {
+        "title": "图片库",
+        "close": "关闭",
+        "backToGallery": "返回图库",
+        "imageCounter": "{current} / {total}",
+        "a11y": {
+          "previousImage": "上一张图片",
+          "nextImage": "下一张图片",
+          "closeGallery": "关闭图库",
+          "imageName": "图片"
+        }
+      },
+      "viewDetails": "查看计划详情"
+    },
+    "a11y": {
+      "viewProgramDetails": "查看计划详情：{title}",
+      "imageFallback": "图片 {number}"
+    },
+    "lightbox": {
+      "a11y": {
+        "closeGallery": "关闭图库",
+        "previousImage": "上一张图片",
+        "nextImage": "下一张图片",
+        "imageFallback": "图片 {number}"
+      }
+    }
+  },
+  "magazines": {
+    "title": "杂志",
+    "description": "浏览SITIMM发布的所有杂志",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "杂志",
+      "description": "阅读我们的出版物和特别版"
+    },
+    "header": {
+      "title": "杂志",
+      "subtitle": "SITIMMINFORMA"
+    },
+    "readPdf": "阅读PDF",
+    "noPdfAvailable": "该杂志没有可用的PDF",
+    "loading": "加载杂志中...",
+    "noMagazines": "没有可用的杂志",
+    "totalMagazines": "总杂志"
+  },
+  "faq": {
+    "title": "常见问题",
+    "description": "查找有关SITIMM最常见问题的答案",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "常见问题",
+      "description": "查找您最常见问题的答案"
+    },
+    "header": {
+      "label": "常见问题",
+      "title": "您的问题在一个地方得到解答",
+      "description": "我们汇总了会员最常问的问题。如果您找不到您要找的内容，请告诉我们，我们很乐意提供帮助。"
+    },
+    "searchPlaceholder": "搜索问题...",
+    "categories": {
+      "all": "全部",
+      "SITIMM": "SITIMM",
+      "IMSS": "IMSS",
+      "INFONAVIT": "INFONAVIT",
+      "FONACOT": "FONACOT",
+      "AFORE": "AFORE"
+    },
+    "card": {
+      "viewMoreAbout": "查看有关以下内容的更多信息：{question}",
+      "closeModal": "关闭模态窗口",
+      "relatedVideo": "相关视频：{question}",
+      "usefulLinks": "有用的链接：",
+      "moreVideos": "更多视频："
+    },
+    "moreInfo": "查看更多信息",
+    "seeMoreInfo": "查看更多信息",
+    "closeModal": "关闭模态窗口",
+    "relatedVideo": "相关视频",
+    "usefulLinks": "有用的链接",
+    "moreVideos": "更多视频",
+    "resultsCount": "{count, plural, =0 {未找到结果} =1 {找到1个结果} other {找到#个结果}}",
+    "noResults": "未找到问题",
+    "noResultsDescription": "尝试不同的搜索词或选择其他类别",
+    "searchAriaLabel": "搜索常见问题",
+    "clearFilters": "清除过滤器"
+  },
+  "errors": {
+    "404": {
+      "title": "页面未找到",
+      "description": "您要查找的页面不存在",
+      "backHome": "返回首页"
+    },
+    "500": {
+      "title": "服务器错误",
+      "description": "服务器出现问题",
+      "retry": "重试"
+    }
+  },
+  "a11y": {
+    "skipToContent": "跳至主要内容",
+    "closeDialog": "关闭对话框",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "searchLabel": "搜索",
+    "viewMore": "查看更多",
+    "viewLess": "查看更少"
+  },
+  "ui": {
+    "alert": {
+      "closeAlert": "关闭警报"
+    },
+    "avatar": {
+      "defaultAlt": "头像",
+      "statusOnline": "状态：在线",
+      "statusOffline": "状态：离线",
+      "statusAway": "状态：离开",
+      "statusBusy": "状态：忙碌"
+    },
+    "breadcrumbs": {
+      "ariaLabel": "面包屑导航"
+    },
+    "callToAction": {
+      "dismiss": "关闭"
+    },
+    "button": {
+      "loading": "加载中..."
+    },
+    "searchInput": {
+      "defaultPlaceholder": "搜索...",
+      "defaultAriaLabel": "搜索字段",
+      "clearSearch": "清除搜索"
+    },
+    "searchBar": {
+      "defaultPlaceholder": "搜索...",
+      "defaultAriaLabel": "搜索字段",
+      "clearSearch": "清除搜索",
+      "toggleFilters": "切换筛选器",
+      "filters": "筛选器",
+      "gridView": "网格视图",
+      "listView": "列表视图",
+      "compactView": "紧凑视图",
+      "result": "个结果",
+      "results": "个结果"
+    },
+    "spinner": {
+      "loading": "加载中..."
+    },
+    "sectionRenderer": {
+      "notImplemented": "部分类型\"{type}\"尚未实现",
+      "comingSoon": "即将推出...",
+      "unknownType": "未知部分类型"
+    }
+  },
+  "auth": {
+    "loading": "加载中...",
+    "pleaseLogin": "请登录以访问此页面",
+    "accessDenied": "访问被拒绝。仅限管理员。",
+    "context": {
+      "loginFailed": "登录失败",
+      "registrationFailed": "注册失败",
+      "useAuthError": "useAuth必须在AuthProvider中使用"
+    }
+  },
+  "blog": {
+    "title": "博客",
+    "description": "了解SITIMM的最新新闻和更新",
+    "header": {
+      "label": "博客",
+      "title": "新闻和更新",
+      "description": "随时了解SITIMM的最新新闻、活动和成就。在这里您将找到有关我们的活动及对会员影响的相关信息。"
+    },
+    "searchPlaceholder": "搜索文章...",
+    "filter": "过滤器",
+    "postsFound": "找到帖子",
+    "viewMode": {
+      "grid": "网格视图",
+      "list": "列表视图"
+    },
+    "readMore": "阅读更多",
+    "by": "由",
+    "noResults": "未找到文章",
+    "noResultsDescription": "尝试使用不同的术语搜索",
+    "loading": "加载文章中...",
+    "post": {
+      "updated": "更新于",
+      "shareArticle": "分享这篇文章：",
+      "backToBlog": "返回博客",
+      "socialMedia": {
+        "twitter": "Twitter",
+        "facebook": "Facebook",
+        "linkedin": "LinkedIn"
+      }
+    },
+    "a11y": {
+      "articleImage": "文章图片：{title}",
+      "readFullArticle": "阅读完整文章：{title}",
+      "postedOn": "发布于{date}",
+      "searchArticles": "搜索博客文章",
+      "changeView": "更改文章视图",
+      "filterArticles": "过滤博客文章",
+      "searchAriaLabel": "搜索文章",
+      "openFilters": "打开过滤器"
+    },
+    "filters": {
+      "category": "类别",
+      "tags": "标签",
+      "clear": "清除过滤器"
+    },
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "博客",
+      "description": "工会的新闻和更新"
+    }
+  },
+  "bonuses": {
+    "label": "福利",
+    "title": "福利和折扣",
+    "description": "发现SITIMM会员的所有专属折扣。通过出示您的会员卡，可以在健康服务、美容、食品、娱乐等方面享受折扣。",
+    "searchPlaceholder": "搜索企业、地址或折扣...",
+    "result": "福利",
+    "results": "福利",
+    "viewDetails": "查看{business}详情",
+    "off": "折扣",
+    "filter": "过滤器",
+    "viewMode": "视图模式",
+    "gridView": "网格",
+    "listView": "列表",
+    "compactView": "紧凑",
+    "mapView": "地图",
+    "filterByCategory": "类别",
+    "allCategories": "所有类别",
+    "filterByCity": "城市",
+    "allCities": "所有城市",
+    "sortBy": "排序方式",
+    "sortByName": "名称",
+    "sortByDiscount": "折扣",
+    "sortByCity": "城市",
+    "sortByCategory": "类别",
+    "noResults": "未找到福利",
+    "noResultsDescription": "尝试不同的过滤器或搜索词",
+    "mapComingSoon": "地图即将推出",
+    "mapDescription": "我们正在努力在交互式地图上向您显示所有企业",
+    "discount": "折扣",
+    "address": "地址",
+    "city": "城市",
+    "category": "类别",
+    "brandName": "SITIMM",
+    "call": "拨打电话",
+    "website": "网站",
+    "web": "网站",
+    "reserve": "预订",
+    "requiresReservation": "需要预约",
+    "moreInfo": "+{count}更多",
+    "paymentMethods": {
+      "card": "接受刷卡",
+      "cardTooltip": "信用卡/借记卡",
+      "cash": "接受现金",
+      "cashTooltip": "现金"
+    },
+    "amenities": {
+      "accessible": "无障碍设施",
+      "wifi": "WiFi",
+      "parking": "停车场"
+    },
+    "badges": {
+      "featured": "精选",
+      "new": "新品"
+    },
+    "modal": {
+      "close": "关闭",
+      "discount": "折扣",
+      "validity": "条款",
+      "redemptionCode": "折扣码",
+      "copyCode": "复制代码",
+      "address": "地址",
+      "hours": "营业时间",
+      "phone": "电话",
+      "website": "网站",
+      "visitWebsite": "访问网站",
+      "amenities": "设施",
+      "paymentMethods": "支付方式",
+      "viewOnMap": "在地图上查看",
+      "gallery": "照片"
+    },
+    "logoAlt": "{business}标志",
+    "filters": "过滤器",
+    "categories": "类别",
+    "all": "全部",
+    "minDiscountLabel": "最低折扣：{discount}%",
+    "specials": "特价",
+    "featured": "精选",
+    "new": "新品",
+    "opengraph": {
+      "title": "福利和折扣",
+      "description": "会员专属折扣"
+    },
+    "categoryNames": {
+      "Salud": "健康",
+      "Belleza": "美容",
+      "Alimentos y Bebidas": "餐饮",
+      "Gimnasios": "健身房",
+      "Entretenimiento": "娱乐",
+      "Educación": "教育",
+      "Moda y Calzado": "时尚与鞋类",
+      "Joyería": "珠宝",
+      "Hogar y Muebles": "家居与家具",
+      "Ferreterías": "五金店",
+      "Tecnología": "科技",
+      "Automotriz": "汽车",
+      "Servicios Funerarios": "殡葬服务",
+      "Fotografía": "摄影",
+      "Papelería": "文具",
+      "Dulcería": "糖果店",
+      "Florería": "花店",
+      "Lavandería": "洗衣店",
+      "Hoteles": "酒店",
+      "Seguros": "保险",
+      "Viajes": "旅行",
+      "Tiendas de Abarrotes": "杂货店",
+      "Botánica": "植物",
+      "Sonido": "音响",
+      "Limpieza": "清洁",
+      "Bicicletas": "自行车",
+      "Artesanía": "手工艺品",
+      "Otros": "其他"
+    }
+  },
+  "bulletins": {
+    "label": "公告",
+    "title": "信息公告",
+    "description": "浏览SITIMM发布的所有公告。了解工会新闻、活动和活动的信息。",
+    "searchPlaceholder": "搜索公告...",
+    "result": "公告",
+    "results": "公告",
+    "filter": "过滤器",
+    "gridView": "网格",
+    "listView": "列表",
+    "filterByType": "公告类型",
+    "allTypes": "所有类型",
+    "general": "一般",
+    "sport": "体育",
+    "filterByYear": "年份",
+    "allYears": "所有年份",
+    "sortBy": "排序方式",
+    "sortByNewest": "最新",
+    "sortByOldest": "最旧",
+    "sortByTitle": "标题",
+    "noResults": "未找到公告",
+    "noResultsDescription": "尝试不同的过滤器或搜索词",
+    "viewPdf": "查看PDF",
+    "brandName": "SITIMM",
+    "opengraph": {
+      "title": "公告",
+      "description": "浏览所有信息公告"
+    }
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "description": "抱歉，您要查找的页面不存在或已被移动。请检查URL或使用下面的链接导航。",
+    "goHome": "返回首页",
+    "search": "搜索",
+    "goBack": "返回",
+    "helpfulLinks": "有用的链接",
+    "links": {
+      "blog": "博客",
+      "events": "活动",
+      "programs": "计划",
+      "benefits": "折扣",
+      "faq": "常见问题",
+      "magazines": "杂志"
+    }
+  },
+  "appBanner": {
+    "title": "在SITIMM应用中打开",
+    "description": "在移动应用中获得更好的体验",
+    "open": "打开",
+    "dismiss": "关闭"
+  },
+  "appPromotion": {
+    "title": "下载 Yo Soy SITIMM 应用",
+    "subtitle": "通过手机访问所有福利和服务。扫描二维码或直接下载。",
+    "downloadOn": "下载于",
+    "getItOn": "下载于",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "downloadIOS": "下载 iOS 版",
+    "downloadAndroid": "下载 Android 版",
+    "iosQrAlt": "App Store 下载二维码",
+    "androidQrAlt": "Google Play 下载二维码",
+    "featureSecure": "安全访问",
+    "featureFast": "快速简便",
+    "featureNotifications": "通知"
+  },
+  "deepLink": {
+    "title": "在应用中打开",
+    "description": "如果您已安装SITIMM移动应用，此页面将自动在应用中打开。",
+    "openApp": "在应用中打开",
+    "continueWeb": "在浏览器中继续",
+    "noApp": "没有应用？下载它:",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "privacyPolicy": {
+    "title": "使用条款 - Yo Soy SITIMM",
+    "description": "金属机械工业工人联合会Yo Soy SITIMM应用程序的使用条款",
+    "pageTitle": "TERMS AND CONDITIONS OF USE OF THE \"YO SOY SITIMM\" APPLICATION",
+    "sections": {
+      "intellectualProperty": {
+        "title": "Intellectual and Industrial Property Rights",
+        "content": "The Service and all materials included or transferred, including, without limitation, software, images, text, graphics, logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music and all Intellectual Property Rights related to them, are the exclusive property of the Union of Workers of the Metal-Mechanical, Automotive, Similar and Related Industries of the Mexican Republic (SITIMM). Unless explicitly stated in this document, nothing in these Terms shall be deemed to create a license in or under any such Intellectual Property Rights, and you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works thereof."
+      },
+      "scope": {
+        "title": "Scope and Use",
+        "p1": "The user of the application understands and accepts that although it is operated by the Union of Workers of the Metal-Mechanical, Automotive, Similar and Related Industries of the Mexican Republic (hereinafter SITIMM), the information contained therein will be that relating to their contractual relationship, through the Collective Labor Agreement, with the workers of the companies affiliated to the Union (hereinafter THE USERS), therefore, the functionalities offered by the application will be delivered by SITIMM according to their affiliation.",
+        "p2": "The application will make information available to THE USERS and/or allow interaction between the parties. SITIMM may add, modify or remove functionalities at any time, which the user accepts by installing the application. In any case, when making such modifications, they will be notified to the user through the same mobile application once they log in.",
+        "p3": "The user accepts and authorizes that the electronic records of the mentioned activities carried out in the application constitute full proof of them."
+      },
+      "suspension": {
+        "title": "Right to Suspend or Cancel User Account",
+        "p1": "We may terminate or suspend permanently or temporarily THE USERS' access to the service, without prior notice and liability for any reason, even if at our sole discretion they violate any provision of these terms or any applicable law or regulation. Without prejudice to the foregoing.",
+        "p2": "Likewise, when any of THE USERS ceases to work for the company to which they are affiliated, their access to the application will be suspended, once SITIMM becomes aware of such event through the updated list of workers.",
+        "p3": "However, if this user enters to work for any of the affiliated companies, they will have access to the application again."
+      },
+      "indemnification": {
+        "title": "Indemnification",
+        "content": "THE USERS will be penalized, in accordance with the provisions of the precepts of the infringed matter, resulting from inappropriate use of the application, violation of intellectual property rights, attempts to steal information, unacceptable conduct, exploitation of flaws or errors."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "p1": "To the maximum extent permitted by applicable law, SITIMM shall not be liable for any indirect, punitive, incidental, special, consequential or exemplary damages, including, without limitation, damages for loss of profits, goodwill, use, data or other intangible losses, arising out of or related to the use of or inability to use the application.",
+        "p2": "To the maximum extent permitted by applicable law, SITIMM assumes no liability for (i) errors, mistakes or inaccuracies of content; (ii) personal injury or property damage, of any nature whatsoever, as a result of access to or use of our application; and (iii) any unauthorized access to or use of our secure servers and/or all personal information stored therein."
+      },
+      "modifications": {
+        "title": "Right to Change and Modify the Terms",
+        "content": "SITIMM reserves the right to modify these terms at our sole discretion. Therefore, THE USERS should review these pages periodically. Continued use of the Application or our service after such change constitutes THE USERS' acceptance of the new Terms. If any of THE USERS do not accept these terms or any future version thereof, they should not use or access (or continue to access) the website, Application or service."
+      },
+      "privacy": {
+        "title": "Use of Information and Privacy",
+        "p1": "By downloading the Application, THE USERS accept and authorize SITIMM to use their data as data controller for purposes derived from the execution of the Application.",
+        "p2": "SITIMM reserves the right to monitor THE USERS' activity in the Application in order to generate statistical information necessary for the control and improvement of the services and content offered by the Union and the Application.",
+        "p3": "The information provided in any of the communication mechanisms provided in the Application will be recorded in the Application's information storage systems and SITIMM reserves the right to maintain it at the end of the use of the Application or the relationship with THE USERS."
+      },
+      "termination": {
+        "title": "Termination of Benefits",
+        "content": "All processes, actions, petitions or follow-ups are subject to the current status of THE USERS within the affiliated companies, and may terminate without notice or resolution in case of termination of their relationship with them."
+      },
+      "obligations": {
+        "title": "Obligations of THE USERS",
+        "intro": "THE USERS agree to use the Application and the contents found therein in a diligent, correct, lawful manner and in particular, undertake NOT to perform the conduct described below:",
+        "items": [
+          "(a) Use the contents for purposes or effects contrary to law, morality and generally accepted good customs or public order;",
+          "(b) Reproduce, copy, represent, use, distribute, transform or modify the contents of the Application, by any procedure or on any support, in whole or in part, or allow public access through any form of public communication;",
+          "(c) Use the contents in any way that entails a risk of damage or disabling of the Application or the contents or third parties;",
+          "(d) Suppress, circumvent or manipulate copyright and other identifying data of copyright rights incorporated into the contents, as well as technical protection devices, or any information mechanisms that the contents may have;",
+          "(e) Use the contents and, in particular, information of any kind obtained through the application to distribute, transmit, send, modify, refuse or report advertising or contents thereof for direct sale purposes or with any other kind of commercial purpose, unsolicited messages addressed to a plurality of people regardless of their purpose, as well as market or disclose such information in any way;",
+          "(f) Allow third parties to use the mobile application with their key;",
+          "(g) Use the application and contents for lawful and/or unlawful purposes, contrary to what is established in these Terms and Conditions, or to the use of the Application itself, that are harmful to the rights and interests of third parties, or that in any way may damage, disable, overload or deteriorate the application and contents or prevent the normal use or enjoyment thereof by THE USERS."
+        ]
+      },
+      "final": {
+        "title": "Final Provisions",
+        "content": "These Terms and Conditions of Use are governed entirely by Mexican law. For the resolution of any conflict related to their interpretation or application, THE USERS expressly submit to the jurisdiction of the courts of Irapuato, Guanajuato, Mexico."
+      }
+    }
+  },
+  "error": {
+    "title": "出了点问题",
+    "description": "发生了意外错误。请重试或返回首页。",
+    "technicalDetails": "技术详细信息（仅开发）",
+    "errorDigest": "错误ID",
+    "tryAgain": "重试",
+    "goHome": "返回首页",
+    "helpText": "如果问题仍然存在，请联系技术支持。"
+  },
+  "chatbot": {
+    "welcomeBubble": {
+      "greeting": "👋 你好！有什么可以帮助您的？",
+      "message": "我在这里回答您关于SITIMM的问题。",
+      "demoGreeting": "👋 演示模式已激活！",
+      "demoMessage": "聊天机器人处于演示模式。每个人都可以看到和使用它。"
+    }
+  }
+}

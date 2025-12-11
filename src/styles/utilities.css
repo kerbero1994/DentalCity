@@ -1,0 +1,166 @@
+/* Utility Classes for SITIMM Design System */
+
+/* Glass morphism effect */
+.glass {
+  @apply bg-white/80 backdrop-blur-sm dark:bg-black/50;
+}
+
+.glass-dark {
+  @apply bg-black/90 backdrop-blur-xl dark:backdrop-saturate-150;
+}
+
+.glass-border {
+  @apply border border-gray-200/50 dark:border-white/10;
+}
+
+/* Premium shadows */
+.shadow-premium {
+  box-shadow: 0 20px 45px rgba(128, 2, 7, 0.15);
+}
+
+.shadow-premium-dark {
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.5);
+}
+
+/* Text gradients */
+.text-gradient {
+  @apply bg-gradient-to-r from-red-600 to-red-800 bg-clip-text text-transparent;
+}
+
+/* Hover lift effect */
+.hover-lift {
+  @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-xl;
+}
+
+/* Micro interaction */
+.micro-press {
+  @apply transition-transform active:scale-[0.98];
+}
+
+/* Skeleton loading */
+.skeleton-loading {
+  @apply animate-pulse bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 dark:from-gray-800 dark:via-gray-700 dark:to-gray-800;
+}
+
+/* Premium button base */
+.btn-base {
+  @apply relative inline-flex items-center justify-center overflow-hidden font-medium transition-all duration-300 focus:ring-2 focus:ring-offset-2 focus:outline-none disabled:cursor-not-allowed disabled:opacity-50;
+}
+
+/* Card base styles */
+.card-base {
+  @apply rounded-xl border bg-white shadow-lg transition-all dark:bg-black/40;
+}
+
+.card-hover {
+  @apply hover:-translate-y-0.5 hover:shadow-2xl;
+}
+
+/* Focus styles */
+.focus-premium {
+  @apply focus-visible:ring-2 focus-visible:ring-red-600 focus-visible:ring-offset-2 focus-visible:outline-none;
+}
+
+/* Transitions */
+.transition-base {
+  @apply transition-all duration-300 ease-out;
+}
+
+.transition-fast {
+  @apply transition-all duration-200 ease-out;
+}
+
+.transition-slow {
+  @apply transition-all duration-500 ease-out;
+}
+
+/* Animation classes */
+.animate-fade-in {
+  animation: fadeInUp 0.5s ease-out forwards;
+}
+
+.animate-fade-in-delayed {
+  animation: fadeInUp 0.5s ease-out 0.1s forwards;
+  opacity: 0;
+}
+
+.animate-slide-in {
+  animation: slideInRight 0.4s ease-out forwards;
+}
+
+/* Stagger animations */
+.stagger-in > * {
+  animation: staggerFadeIn 0.4s ease-out forwards;
+  opacity: 0;
+}
+
+.stagger-in > *:nth-child(1) {
+  animation-delay: 0.05s;
+}
+.stagger-in > *:nth-child(2) {
+  animation-delay: 0.1s;
+}
+.stagger-in > *:nth-child(3) {
+  animation-delay: 0.15s;
+}
+.stagger-in > *:nth-child(4) {
+  animation-delay: 0.2s;
+}
+.stagger-in > *:nth-child(5) {
+  animation-delay: 0.25s;
+}
+.stagger-in > *:nth-child(6) {
+  animation-delay: 0.3s;
+}
+
+/* Overflow utilities */
+.overflow-gradient-fade {
+  -webkit-mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
+  mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
+}
+
+/* Badge styles */
+.badge {
+  @apply inline-flex items-center rounded-md px-2 py-1 text-xs font-medium ring-1 ring-inset;
+}
+
+.badge-red {
+  @apply bg-red-50 text-red-700 ring-red-600/20 dark:bg-red-900/20 dark:text-red-400 dark:ring-red-400/20;
+}
+
+/* Dividers */
+.divider-x {
+  @apply border-t border-gray-200 dark:border-gray-800;
+}
+
+.divider-y {
+  @apply border-l border-gray-200 dark:border-gray-800;
+}
+
+/* Container utilities */
+.container-responsive {
+  @apply container mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+/* Aspect ratios */
+.aspect-card {
+  @apply aspect-[16/10];
+}
+
+.aspect-thumbnail {
+  @apply aspect-[4/3];
+}
+
+/* Z-index scale */
+.z-dropdown {
+  z-index: 50;
+}
+.z-modal {
+  z-index: 100;
+}
+.z-notification {
+  z-index: 150;
+}
+.z-tooltip {
+  z-index: 200;
+}

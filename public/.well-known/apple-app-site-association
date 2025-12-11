@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "G8B5FX3U93.com.Sitimm.YoSoySitimm",
+        "paths": ["/app/*"]
+      }
+    ]
+  }
+}

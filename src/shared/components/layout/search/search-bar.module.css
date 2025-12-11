@@ -1,0 +1,46 @@
+.form {
+  display: block;
+}
+
+.inputWrapper {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  width: 100%;
+}
+
+.input {
+  height: 40px;
+  border-radius: 999px;
+  padding: 0 40px 0 14px; /* Right padding for icon */
+  border: 1px solid var(--border, #dce1e7);
+  background: var(--background, #fff);
+  color: var(--foreground, #0b1324);
+  min-width: 220px;
+  width: 100%;
+}
+
+.input::placeholder {
+  color: #9aa3af;
+}
+
+.searchIcon {
+  position: absolute;
+  right: 12px;
+  width: 20px;
+  height: 20px;
+  color: #9aa3af;
+  pointer-events: none;
+}
+
+/* helper para ocultar texto pero mantener accesibilidad */
+.sr-only {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
